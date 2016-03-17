@@ -1,0 +1,20 @@
+{
+  "AdminData": [],
+  "HomeData": [],
+  "TPRData": {
+    "76561197994523959": {
+      "Teleports": {
+        "amount": 0,
+        "date": "03/16/2016",
+        "timestamp": 0
+      }
+    },
+    "76561197998087180": {
+      "Teleports": {
+        "amount": 1,
+        "date": "03/16/2016",
+        "timestamp": 1458092568
+      }
+    }
+  }
+}

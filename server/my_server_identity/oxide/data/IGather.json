@@ -1,0 +1,16 @@
+{
+  "Users": {
+    "76561197994523959": {
+      "Name": "Bokudo",
+      "PlayerQuarry": 1,
+      "ResourceRate": 1,
+      "CollectableRate": 1
+    },
+    "76561197998087180": {
+      "Name": "Diogo'",
+      "PlayerQuarry": 1,
+      "ResourceRate": 1,
+      "CollectableRate": 1
+    }
+  }
+}

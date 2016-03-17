@@ -1,0 +1,11 @@
+[03/15/2016 18:14:28] Couldn't load server/my_server_identity/save/Procedural Map_4000_12345/0.sav - file doesn't exist
+[03/15/2016 18:14:31] Missing EnvSync - creating
+[03/15/2016 18:16:18] [Oxide] 18:16 [Warning] [Death Notes] Generating new config file...
+[03/15/2016 18:21:48] [Oxide] 18:21 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 13527ms
+[03/15/2016 18:21:48] [Oxide] 18:21 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 701ms
+[03/15/2016 18:30:29] [Oxide] 18:30 [Warning] [Crafting Controller] New configuration file created.
+[03/15/2016 22:02:10] [Oxide] 22:02 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9453ms
+[03/15/2016 22:02:10] [Oxide] 22:02 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 507ms
+[03/15/2016 22:38:21] [Oxide] 22:38 [Warning] [InfoPanel] Default configuration file created.
+[03/15/2016 23:11:06] [Oxide] 23:11 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9636ms
+[03/15/2016 23:11:06] [Oxide] 23:11 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 541ms

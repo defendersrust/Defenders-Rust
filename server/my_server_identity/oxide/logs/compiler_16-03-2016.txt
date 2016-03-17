@@ -1,0 +1,30 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: DeathNotes.cs(545,14): warning CS0114: `Oxide.Plugins.DeathNotes.LoadConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+E:\rust_final\Oxide.Core.dll (Location of the symbol related to previous warning)
+IGather.cs(19,14): warning CS0114: `Oxide.Plugins.IGather.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+E:\rust_final\Oxide.Core.dll (Location of the symbol related to previous warning)
+Clans.cs(346,36): warning CS0168: The variable `ex2' is declared but never used
+Clans.cs(446,34): warning CS0219: The variable `onlineMembers' is assigned but its value is never used
+IGather.cs(278,29): warning CS0162: Unreachable code detected
+RemoverTool.cs(801,35): warning CS0472: The result of comparing value type `float' with null is always `true'
+RemoverTool.cs(821,32): warning CS0184: The given expression is never of the provided (`Deployable') type
+RemoverTool.cs(823,21): warning CS0162: Unreachable code detected
+Clans.cs(66,21): warning CS0414: The private field `Oxide.Plugins.Clans.limitModerators' is assigned but its value is never used
+InfoPanel.cs(25,23): warning CS0169: The private field `Oxide.Plugins.InfoPanel.TestTimer' is never used
+InfoPanel.cs(898,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.TimeUpdater' is assigned but its value is never used
+InfoPanel.cs(957,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.MsgUpdater' is assigned but its value is never used
+InfoPanel.cs(960,22): warning CS0414: The private field `Oxide.Plugins.InfoPanel.MessageBoxAvailable' is assigned but its value is never used
+InfoPanel.cs(1043,23): warning CS0169: The private field `Oxide.Plugins.InfoPanel.HeliAttack' is never used
+InfoPanel.cs(1044,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.RadiationUpdater' is assigned but its value is never used
+InfoPanel.cs(1056,32): warning CS0169: The private field `Oxide.Plugins.InfoPanel.ActiveHelicopter' is never used
+InfoPanel.cs(1249,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.CoordUpdater' is assigned but its value is never used
+InfoPanel.cs(1291,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.CompassUpdater' is assigned but its value is never used
+RemoverTool.cs(23,26): warning CS0414: The private field `Oxide.Plugins.RemoverTool.meshinstances' is assigned but its value is never used
+RemoverTool.cs(106,23): warning CS0414: The private field `Oxide.Plugins.RemoverTool.xmax' is assigned but its value is never used
+RemoverTool.cs(108,23): warning CS0414: The private field `Oxide.Plugins.RemoverTool.ymax' is assigned but its value is never used
+
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown

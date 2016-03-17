@@ -1,0 +1,16 @@
+{
+  "IG_GATHERATE": "<color='#DD0000'>[IGather]Collectable Rate({0}x) Quarry Rate({1}x) Resource Rate({2}x).</color>",
+  "IG_GATHERPLAYER": "<color='#DD0000'>[IGather]{0}'s Gather Rate|Collectable Rate({1}x) Quarry Rate({2}x) Resource Rate({3}x).</color>",
+  "IG_SETALLHELP": "<color='#DD0000'>[IGather]Commands for (setall) | </igather setall (type) (rate)> | <Types:quarry, resource, collectable, all> | <Rate is the amount of extra materials they get(Multiplied)></color>",
+  "IG_DEFAULTHELP": "<color='#DD0000'>[IGather]Commands for (default) | </igather default (player) (type) | <Types:quarry, resource, collectable, all></color>",
+  "IG_DEFAULTALL": "<color='#DD0000'>[IGather]You have reset {0}'s stats.</color>",
+  "IG_DEFAULTP": "<color='#DD0000'>[IGather]{0} has reset your player stats to default.</color>",
+  "IG_SETP": "<color='#DD0000'>[IGather]{0} has changed your data file of ({1}) to {2}x.</color>",
+  "IG_SETHELP": "<color='#DD0000'>[IGather]Commands for (set) | </igather set (player) (type) (rate)> | <Types:QuarryR, ResourceR, CollectableR, all> | <Rate is the amount of extra materials they get(Multiplied)></color>",
+  "IG_DEFAULTR": "<color='#DD0000'>[IGather]{0} has reset your data of ({1}) to the default settings.</color>",
+  "IG_SETPA": "<color='#DD0000'>[IGather]{0} has set all of your rate data to {1}x.</color>",
+  "IG_SETA": "<color='#DD0000'>[IGather]You have set {0}'s ({1}) to {2}x.</color>",
+  "IG_HELP": "<color='#DD0000'>[IGather]Possible Commands:</igather gather> Shows your current gather rate of all 3 types.",
+  "IG_AHELP": "<color='#DD0000'>[IGather]Possible Commands:</igather set> Shows set help. | </igather default> Shows default help. | </igather defaultall> Sets all players gather rate to default. |</color>",
+  "IG_AAHELP": "<color='#DD0000'>[IGather]Possible Commands:</igather setall> Shows setall help. | </igather gatherp (player)> Shows the gather rate for a player.</color>"
+}
