@@ -1,3 +1,152 @@
 {
-  "Kits": {}
+  "Kits": {
+    "inicio": {
+      "name": "inicio",
+      "description": "Kit para Iniciantes",
+      "max": 50,
+      "cooldown": 900.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "items": [
+        {
+          "itemid": 696727039,
+          "bp": false,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 707427396,
+          "bp": false,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -148163128,
+          "bp": false,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1767561705,
+          "bp": false,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -420273765,
+          "bp": false,
+          "container": "main",
+          "amount": 14,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1253290621,
+          "bp": false,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -307490664,
+          "bp": false,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -337261910,
+          "bp": false,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -337261910,
+          "bp": false,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -337261910,
+          "bp": false,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 789892804,
+          "bp": false,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -1289478934,
+          "bp": false,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -853695669,
+          "bp": false,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "mods": []
+        },
+        {
+          "itemid": 110547964,
+          "bp": false,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 3506021,
+          "bp": false,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        }
+      ]
+    }
+  }
 }

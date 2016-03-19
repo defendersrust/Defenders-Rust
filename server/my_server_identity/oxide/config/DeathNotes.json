@@ -105,7 +105,11 @@
     ]
   },
   "Names": {
-    "Boar": "Boar"
+    "Bear": "Bear",
+    "Boar": "Boar",
+    "No Attacker": "No Attacker",
+    "Stag": "Stag",
+    "Wolf": "Wolf"
   },
   "Settings": {
     "Attachments Color": "#C4FF00",
@@ -140,6 +144,9 @@
     "Write to Console": true
   },
   "Weapons": {
+    "Hatchet": "Hatchet",
+    "Hunting Bow": "Hunting Bow",
+    "No Weapon": "No Weapon",
     "Wooden Spear": "Wooden Spear"
   }
 }

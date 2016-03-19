@@ -9,3 +9,182 @@
 [03/15/2016 22:38:21] [Oxide] 22:38 [Warning] [InfoPanel] Default configuration file created.
 [03/15/2016 23:11:06] [Oxide] 23:11 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9636ms
 [03/15/2016 23:11:06] [Oxide] 23:11 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 541ms
+[03/16/2016 21:56:09] Couldn't load server/my_server_identity/save/Procedural Map_2000_12345/0.sav - file doesn't exist
+[03/16/2016 21:56:11] Missing EnvSync - creating
+[03/16/2016 21:56:22] [Oxide] 21:56 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 7947ms
+[03/16/2016 21:56:22] [Oxide] 21:56 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 623ms
+[03/16/2016 22:17:03] Couldn't start RCON Listener: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta).
+
+[03/16/2016 22:17:55] Couldn't load server/my_server_identity/save/Procedural Map_3000_12345/0.sav - file doesn't exist
+[03/16/2016 22:17:55] Couldn't load server/my_server_identity/save/Procedural Map_3000_12345/0.sav - file doesn't exist
+[03/16/2016 22:17:57] Missing EnvSync - creating
+[03/16/2016 22:17:58] Missing EnvSync - creating
+[03/16/2016 22:17:58] Couldn't create server on port 28015 (Startup Error: 5)
+[03/16/2016 22:17:58] Couldn't Start Server.
+[03/16/2016 22:18:16] [Oxide] 22:18 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 14117ms
+[03/16/2016 22:18:16] [Oxide] 22:18 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 666ms
+[03/16/2016 22:19:36] Couldn't load server/my_server_identity/save/Procedural Map_3000_12345/0.sav - file doesn't exist
+[03/16/2016 22:19:38] Missing EnvSync - creating
+[03/16/2016 22:19:50] [Oxide] 22:19 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9120ms
+[03/16/2016 22:19:50] [Oxide] 22:19 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 617ms
+[03/16/2016 22:33:01] [Oxide] 22:33 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9066ms
+[03/16/2016 22:33:01] [Oxide] 22:33 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 665ms
+[03/16/2016 23:03:06] [Oxide] 23:03 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8858ms
+[03/16/2016 23:03:06] [Oxide] 23:03 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 645ms
+[03/18/2016 18:05:24] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:05:24] [Oxide] 6:05 PM [Warning] Make sure that you are running the latest version of the Rust:IO Oxide extension!
+[03/18/2016 18:06:06] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:06:48] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:07:21] [Oxide] 6:07 PM [Warning] Make sure that you are running the latest version of the Rust:IO Oxide extension!
+[03/18/2016 18:07:31] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:08:13] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:08:56] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:09:38] GameConfig: Could not resolve host: api.facepunch.com
+[03/18/2016 18:10:20] GameConfig: Could not resolve host: api.facepunch.com
+[03/19/2016 13:38:35] [Oxide] 13:38 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8962ms
+[03/19/2016 13:38:35] [Oxide] 13:38 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 586ms
+[03/19/2016 13:43:15] [Oxide] 13:43 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8749ms
+[03/19/2016 13:43:15] [Oxide] 13:43 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 648ms
+[03/19/2016 13:47:56] [Oxide] 13:47 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/19/2016 13:47:56] [Oxide] 13:47 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/19/2016 13:47:56] [Oxide] 13:47 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/19/2016 13:47:56] [Oxide] 13:47 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/19/2016 14:20:53] [Oxide] 14:20 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/19/2016 14:20:53] [Oxide] 14:20 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/19/2016 14:20:53] [Oxide] 14:20 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/19/2016 14:20:53] [Oxide] 14:20 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/19/2016 14:21:39] [Oxide] 14:21 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8432ms
+[03/19/2016 14:21:39] [Oxide] 14:21 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 566ms
+[03/19/2016 15:45:07] [Oxide] 15:45 [Warning] CallHook 'OnPlayerInit' on plugin 'RustIO v2.8.0' took: 528ms
+[03/19/2016 16:47:58] [Oxide] 16:47 [Warning] [Stack Size Controller] Creating a new configuration file.
+[03/19/2016 16:47:58] [BUNDLE] Not found in bundle: assets/content/ui/ingame/ui.item.dropped.anim.anim
+[03/19/2016 16:47:58] [BUNDLE] Not found in bundle: assets/content/ui/ingame/ui.item.dropped.controller
+[03/19/2016 16:47:59] [BUNDLE] Not found in bundle: assets/content/ui/ingame/ui.item.pickup.anim.anim
+[03/19/2016 16:47:59] [BUNDLE] Not found in bundle: assets/content/ui/ingame/ui.item.pickup.controller
+[03/19/2016 16:47:59] [BUNDLE] Not found in bundle: assets/content/ui/menu/ui.serverbrowser.item.controller
+[03/19/2016 16:47:59] [BUNDLE] Not found in bundle: assets/content/ui/ui.itemicon.shader
+[03/19/2016 16:47:59] [BUNDLE] Not found in bundle: assets/content/workshop/skin/ak47/digital camo/skin.ak47.digitalcamoak47.itemskin.asset
+[03/19/2016 16:48:00] [BUNDLE] Not found in bundle: assets/content/workshop/skin/ak47/military camo/skin.ak47.militarycamoak47.itemskin.asset
+[03/19/2016 16:48:00] [BUNDLE] Not found in bundle: assets/content/workshop/skin/ak47/temper/skin.ak47.temperedak47.itemskin.asset
+[03/19/2016 16:48:01] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/rust nightmare - balaclava/skin.balaclava.nightmarebalaclava.itemskin.asset
+[03/19/2016 16:48:01] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/scary burlap mask/skin.balaclava.burlapbrainsbalaclava.itemskin.asset
+[03/19/2016 16:48:01] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/skin mask/skin.balaclava.skinmask.itemskin.asset
+[03/19/2016 16:48:01] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/the necrophagus - balaclava/skin.balaclava.skinbalaclava.itemskin.asset
+[03/19/2016 16:48:01] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/the rust knight/skin.balaclava.therustknight.itemskin.asset
+[03/19/2016 16:48:01] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/valentines balaclava/skin.balaclava.valentinebalaclava.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/balaclava/zipper face/skin.balaclava.zipperface.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/bandana/creepy clown bandana/skin.bandana.creepyclownbandana.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/bandana/wizard bandana/skin.bandana.wizardbandana.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/beenie/winter deers/skin.beenie.winterdeers.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/box.wooden.large/ammo v2 wooden box/skin.woodstorage.ammowoodenbox.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/box.wooden.large/christmas storage/skin.woodstorage.christmasstorage.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/box.wooden.large/first aid green wooden box/skin.woodstorage.firstaidgreen.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/box.wooden.large/gun box - military green/skin.woodstorage.gunbox.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/burlap.shirt/skin.burlapshirt.piratevest&shirt.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/gloves.burlap/boxer's bandages/skin.burlapgloves.boxer'sbandages.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hat.bucket/medic helmet/skin.buckethat.medichelmet.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hat.bucket/wooden barrel bucket hat/skin.buckethat.woodenbucket.itemskin.asset
+[03/19/2016 16:48:02] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hat.cap/friendly cap/skin.cap.friendlycap.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hat.cap/rescue cap/skin.cap.rescuecap.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hoodie/bchillz! hoodie/skin.hoodie.bchillzhoodie.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hoodie/bloody hoodie/skin.hoodie.bloodyhoodie.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hoodie/cuda/skin.hoodie.cuda87hoodie.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hoodie/rhino/skin.hoodie.rhinocrunchhoodie.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hoodie/safety crew/skin.hoodie.safetycrew.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/hoodie/skeleton hoodie/skin.hoodie.skeletonhoodie.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/jacket/60's army snow jacket/skin.snowjacket.60'sarmyjacket.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/jacket/provocateur jacket/skin.jacket.provocateurjacket.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/jacket/salvaged shirt and coat with tie/skin.snowjacket.salvagedshirtandcoatwithtie.itemskin.asset
+[03/19/2016 16:48:03] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pants/blue track pants v.2/skin.pants.bluetrackpantsv.2.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pants/old prisoner pants/skin.pants.oldprisonerpants.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pants/punk rock pants/skin.pants.punkrockpants.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pistol.revolver/revolver  outback/skin.revolver.revolveroutback.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pistol.semi/contamination pistol/skin.semiautopistol.contaminationpistol.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pistol.semi/halloween bat/skin.semiautopistol.halloweenbat.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pistol.semi/red shine/skin.semiautopistol.redshine.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/pistol.semi/semiauto pistol  reaper note/skin.semiautopistol.reapernotepistol.itemskin.asset
+[03/19/2016 16:48:04] [BUNDLE] Not found in bundle: assets/content/workshop/skin/rifle.bolt/bolt rifle  dreamcatcher/skin.boltrifle.dreamcatcher.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/rifle.bolt/ghost bolt rifle/skin.boltrifle.ghostboltrifle.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/rifle.bolt/tundra bolt action/skin.boltrifle.tundraboltrifle.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shoes.boots/army boots/skin.boots.armyboots.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shoes.boots/bloody boots/skin.boots.bloodyboots.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shoes.boots/punk boots/skin.boots.punkboots.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shoes.boots/scavenged sneakers/skin.boots.scavengedsneakers.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shotgun.pump/pump shotgun  chieftain/skin.pumpshotgun.pumpshotgunchieftain.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shotgun.pump/the swampmaster/skin.pumpshotgun.theswampmaster.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/shotgun.waterpipe/the peace pipe/skin.pipeshotgun.thepeacepipe.itemskin.asset
+[03/19/2016 16:48:05] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/blue plaid sleeping bag/skin.sleepingbag.blueplaidsleepingbag.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/freshly dug grave/skin.sleepingbag.freshlyduggrave.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/merry christmas sleeping bag/skin.sleepingbag.astonchristmas.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/merry christmas/skin.sleepingbag.christmasbag.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/sleeping horror/skin.sleepingbag.horrorbag.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/tiger crown/skin.sleepingbag.tigercrownsleepingbag.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/sleepingbag/usa wood camo sleeping bag + dirt/skin.sleepingbag.woodcamosleepingbag.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/smg.thompson/santa's little helper/skin.thompson.santaslittlehelper.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt.long/christmas longtshirt/skin.longtshirt.christmasjumper.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt.long/creepy jack/skin.longtshirt.creepyjack.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt.long/lawman's shirt and vest/skin.longtshirt.lawman.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt.long/merry reindeer long t-shirt/skin.longtshirt.merryreindeer.itemskin.asset
+[03/19/2016 16:48:06] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/argyle scavenger/skin.tshirt.argylescavenger.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/aztec long t-shirt/skin.longtshirt.azteclongt-shirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/baseball tshirt/skin.tshirt.baseballtshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/black skull&bones tshirt/skin.tshirt.blackskull&bonestshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/facepunch tshirt/skin.tshirt.facepunchtshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/frankensteins sweater/skin.longtshirt.frankensteinssweater.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/green checkered shirt/shirtgreen.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/hacker valley veteran/skin.tshirt.hackervalleyveteran.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/japanese murderer tshirt/skin.tshirt.murderertshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/missing textures full/skin.tshirt.missingtexturesfull.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/nightmare sweater/skin.longtshirt.nightmaresweater.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/ser/skin.tshirt.serwintertshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/shadowfrax/skin.tshirt.shadowfraxtshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/sign painter's long tshirt/skin.longtshirt.signpainter'slongtshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/smile t-shirt/skin.tshirt.smilet-shirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/target practice tshirt/skin.tshirt.targetpracticetshirt.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/varsity jacket/skin.longtshirt.varsityjacket.itemskin.asset
+[03/19/2016 16:48:07] [BUNDLE] Not found in bundle: assets/content/workshop/skin/tshirt/vyshyvanka/skin.tshirt.vyshyvanka.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/content/workshop/skin/unknown/farmer hat/skin.boonie.farmerhat.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/content/workshop/skin/unknown/murica balaclava/skin.balaclava.muricabalaclava.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/content/workshop/skin/unknown/rasta beenie/skin.beenie.rastabeenie.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.beenie/black/hat.beenie.black.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.beenie/blue/hat.beenie.blue.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.beenie/green/hat.beenie.green.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.beenie/red/hat.beenie.red.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.cap/blue/hat.cap.blue.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.cap/forestcamo/hat.cap.forestcamo.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.cap/green/hat.cap.green.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.cap/grey/hat.cap.grey.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hat.cap/red/hat.cap.red.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hoodie/black/hoodie.black.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hoodie/blue/hoodie.blue.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/hoodie/green/hoodie.green.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket.snow/jacket.snow.black.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket.snow/jacket.snow.woodland.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/blue/jacket.blue.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/desertcamo/jacket.desertcamo.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/green/jacket.green.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/hunter/jacket.hunter.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/multicam/jacket.multicam.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/red/jacket.red.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/snowcamo/jacket.snowcamo.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/jacket/urbancamo/jacket.urbancamo.itemskin.asset
+[03/19/2016 16:48:08] [BUNDLE] Not found in bundle: assets/prefabs/clothes/pants/forestcamo/pants.forestcamo.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/pants/jeans/pants.jeans.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/pants/snowcamo/pants.snowcamo.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/pants/urbancamo/pants.urbancamo.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/shoes.boots/black/shoes.boots.black.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/shoes.boots/tan/shoes.boots.tan.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt.long/black/tshirt.long.black.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt.long/grey/tshirt.long.grey.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt.long/orange/tshirt.long.orange.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt.long/yellow/tshirt.long.yellow.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/black/tshirt.black.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/blue/tshirt.blue.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/flag.germany/tshirt.flag.germany.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/flag.russia/tshirt.flag.russia.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/forestcamo/tshirt.forestcamo.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/gmod/tshirt.gmod.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/red/tshirt.red.itemskin.asset
+[03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/urbancamo/tshirt.urbancamo.itemskin.asset
+[03/19/2016 16:48:09] [Oxide] 16:48 [Warning] [Stack Size Controller] Updating configuration file with new values.

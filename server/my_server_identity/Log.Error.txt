@@ -1,0 +1,23 @@
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] AFK plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Clans plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] CraftingController plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] DeathNotes plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] IGather plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] InfoPanel plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Kits plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] QuickSmelt plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] RemoverTool plugin failed to compile!
+[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
+[03/18/2016 18:05:24] [Oxide] 6:05 PM [Error] Rust:IO: Failed checking for update (Exception: update failed)
+[03/18/2016 18:07:21] [Oxide] 6:07 PM [Error] Rust:IO: Failed checking for update (Exception: update failed)
+[03/19/2016 16:21:44] [Oxide] 16:21 [Error] Failed to call hook 'OnQuarryGather' on plugin 'IGather v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)
+[03/19/2016 16:42:46] [Oxide] 16:42 [Error] Failed to load plugin 'igather' (no source found)
+[03/19/2016 16:43:10] [Oxide] 16:43 [Error] Failed to call hook 'OnQuarryGather' on plugin 'IGather v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)

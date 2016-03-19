@@ -1,6 +1,21 @@
 {
   "AdminData": [],
-  "HomeData": [],
+  "HomeData": {
+    "76561197994523959": {
+      "HomeLocations": {
+        "casa": {
+          "x": 1089.4729,
+          "y": 8.76173,
+          "z": 570.4501
+        }
+      },
+      "Teleports": {
+        "amount": 1,
+        "date": "03/19/2016",
+        "timestamp": 1458406710
+      }
+    }
+  },
   "TPRData": {
     "76561197994523959": {
       "Teleports": {

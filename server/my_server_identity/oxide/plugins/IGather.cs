@@ -4,10 +4,11 @@ using System.Reflection;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
+using ConVar;
 
 namespace Oxide.Plugins
 {
-    [Info("IGather", "DylanSMR", "0.0.3", ResourceId = 1519)]
+    [Info("IGather", "DylanSMR", "0.0.8", ResourceId = 1763)]
     [Description("Adds the ability to set a gather rate for each person.")]
     class IGather : RustPlugin
     {
@@ -20,9 +21,14 @@ namespace Oxide.Plugins
             Puts("Creating a new config file");
             Config.Clear();
             
+            //Regular Default Rate//
             Config["DefaultQuarryRate"] = 1;
             Config["DefaultResourceRate"] = 1;
             Config["DefaultCollectable"] = 1;
+            //VIP Default Rate//
+            Config["VIPQuarryRate"] = 1;
+            Config["VIPResourceRate"] = 1;
+            Config["VIPCollectable"] = 1;
             
             Config.Save();
         } 
@@ -68,18 +74,37 @@ namespace Oxide.Plugins
         {
             if(!storedData.Users.ContainsKey(player.userID))
             {
-                storedData.Users.Add(player.userID, new UserInfo());
-                storedData.Users[player.userID].Name = player.displayName;
-                storedData.Users[player.userID].PlayerQuarry = Convert.ToInt32(Config["DefaultQuarryRate"]);
-                storedData.Users[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
-                storedData.Users[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
-                SaveData();
+                if (!permission.UserHasPermission(player.userID.ToString(), "igather.vip"))
+                {
+                    storedData.Users.Add(player.userID, new UserInfo());
+                    storedData.Users[player.userID].Name = player.displayName;
+                    storedData.Users[player.userID].PlayerQuarry = Convert.ToInt32(Config["DefaultQuarryRate"]);
+                    storedData.Users[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
+                    storedData.Users[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
+                    Puts(""+player.displayName+" was given the player default rates.");
+                    SaveData();
+                }
+                else
+                {
+                    storedData.Users.Add(player.userID, new UserInfo());
+                    storedData.Users[player.userID].Name = player.displayName;
+                    storedData.Users[player.userID].PlayerQuarry = Convert.ToInt32(Config["VIPQuarryRate"]);
+                    storedData.Users[player.userID].ResourceRate = Convert.ToInt32(Config["VIPResourceRate"]);
+                    storedData.Users[player.userID].CollectableRate = Convert.ToInt32(Config["VIPCollectable"]);
+                    SaveData();  
+                    Puts(""+player.displayName+" was given the VIP default rates.");                  
+                }
                 return true;
             }
             else
             {
                 return false;
             }  
+        }
+        
+        void Unload()
+        {
+            SaveData();
         }
         
         ////////////////////////////////////////////////////
@@ -104,9 +129,12 @@ namespace Oxide.Plugins
             ["IG_DEFAULTR"] = "<color='#DD0000'>[IGather]{0} has reset your data of ({1}) to the default settings.</color>",
             ["IG_SETPA"] = "<color='#DD0000'>[IGather]{0} has set all of your rate data to {1}x.</color>",
             ["IG_SETA"] = "<color='#DD0000'>[IGather]You have set {0}'s ({1}) to {2}x.</color>",
-            ["IG_HELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather gather> Shows your current gather rate of all 3 types.",
+            ["IG_HELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather gather> Shows your current gather rate of all 3 types | </igather help> Shows possible commands.",
             ["IG_AHELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather set> Shows set help. | </igather default> Shows default help. | </igather defaultall> Sets all players gather rate to default. |</color>",
             ["IG_AAHELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather setall> Shows setall help. | </igather gatherp (player)> Shows the gather rate for a player.</color>",
+            ["IG_NOPERMS"] = "<color='#DD0000'>[IGather]You do not have any permissions for this command.</color>",
+            ["IG_DEFAULTEDALL"] = "<color='#DD0000'>[IGather]{0} has reset everyones player data to the default! Do /igather gather to see your new gather rate.</color>",
+            ["IG_SETTALL"] = "<color='#DD0000'>[IGather]{0} has set everyones ({1} data) to {2}.</color>",            
 			}, this);
             
             LoadPermissions();
@@ -118,7 +146,15 @@ namespace Oxide.Plugins
         
         void LoadPermissions()
         {
-            permission.RegisterPermission("igather.admin", this);          
+            //VIP//
+            permission.RegisterPermission("igather.vip", this);
+            //ADMIN//
+            permission.RegisterPermission("igather.admin", this);
+            permission.RegisterPermission("igather.defaultall", this);
+            permission.RegisterPermission("igather.default", this);
+            permission.RegisterPermission("igather.set", this);
+            permission.RegisterPermission("igather.setall", this);
+            permission.RegisterPermission("igather.gatherp", this);          
         }        
         
         ////////////////////////////////////////////////////
@@ -213,7 +249,7 @@ namespace Oxide.Plugins
         {
             if(args.Length == 0)
             {
-                if (permission.UserHasPermission(player.userID.ToString(), "pgather.admin"))
+                if (permission.UserHasPermission(player.userID.ToString(), "igather.admin"))
                 {
                     SendReply(player, string.Format(GetMessage("IG_AHELP", player.UserIDString)));
                     SendReply(player, string.Format(GetMessage("IG_AAHELP", player.UserIDString))); 
@@ -226,14 +262,28 @@ namespace Oxide.Plugins
                 }    
             }               
             switch(args[0])
-            {   
+            {
+                case "help":
+                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin"))
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_AHELP", player.UserIDString)));
+                        SendReply(player, string.Format(GetMessage("IG_AAHELP", player.UserIDString))); 
+                        return;                     
+                    }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_HELP", player.UserIDString))); 
+                        return;                      
+                    }    
+                break;
+                   
                 case "set":
                     if(args.Length <= 3)
                     {
                         SendReply(player, string.Format(GetMessage("IG_SETHELP", player.UserIDString)));
                         return;
                     }
-                    if (permission.UserHasPermission(player.userID.ToString(), "pgather.admin"))
+                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.set"))
                     {
                         object addPlayer = FindPlayer(args[1]);             
                         BasePlayer target = (BasePlayer)addPlayer;                
@@ -276,6 +326,11 @@ namespace Oxide.Plugins
                             return;
                             SendReply(player, string.Format(GetMessage("IG_SETHELP", player.UserIDString)));
                         }
+                    }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
+                        return;    
                     }            
                 break;
                          
@@ -285,7 +340,7 @@ namespace Oxide.Plugins
                         SendReply(player, string.Format(GetMessage("IG_DEFAULTHELP", player.UserIDString)));
                         return;
                     }                
-                    if (permission.UserHasPermission(player.userID.ToString(), "pgather.admin"))
+                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.default"))
                     {
                         
                         object addPlayer = FindPlayer(args[1]);             
@@ -328,20 +383,28 @@ namespace Oxide.Plugins
                         {
                             SendReply(player, string.Format(GetMessage("IG_DEFAULTHELP", player.UserIDString)));    
                         }
+                    }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
+                        return;
                     }            
                 break;
                 
                 case "defaultall":
-                    if (!permission.UserHasPermission(player.userID.ToString(), "pgather.admin"))
+                    if (!permission.UserHasPermission(player.userID.ToString(), "igather.admin") && permission.UserHasPermission(player.userID.ToString(), "igather.defaultall"))
                     {
+                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
                         return;
                     }
+                    PrintToChat(string.Format(GetMessage("IG_DEFAULTEDALL", player.UserIDString), player.displayName));
                     DefaultAll();
                 break;
                 
                 case "setall":
-                    if (!permission.UserHasPermission(player.userID.ToString(), "pgather.admin"))
+                    if (!permission.UserHasPermission(player.userID.ToString(), "igather.admin") && permission.UserHasPermission(player.userID.ToString(), "igather.setall"))
                     {
+                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
                         return;
                     }
                     if(args.Length <= 1)
@@ -351,22 +414,30 @@ namespace Oxide.Plugins
                     }
                     if(args[1] == "quarry")
                     {
+                        var qr = "QuarryRate";
                         var amount = Convert.ToInt32(args[2]);
+                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, qr, amount));
                         quarryall(amount);  
                     }
                     else if(args[1] == "resource")
                     {
+                        var rr = "ResourceRate";
                         var amount = Convert.ToInt32(args[2]);
+                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, rr, amount));
                         resourceall(amount);   
                     }
                     else if(args[1] == "collectable")
                     {
+                        var cr = "CollectableRate";
                         var amount = Convert.ToInt32(args[2]);
+                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, cr, amount));
                         collectableall(amount); 
                     }
                     else if(args[1] == "all")
                     {
+                        var ar = "AllRate";
                         var amount = Convert.ToInt32(args[2]);
+                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, ar, amount));
                         allamount(amount);
                     }
                     else
@@ -381,13 +452,34 @@ namespace Oxide.Plugins
                 break;
                 
                 case "gatherp":
-                    if (permission.UserHasPermission(player.userID.ToString(), "pgather.admin"))
+                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.gatherp"))
                     {
                         object addPlayer = FindPlayer(args[1]);             
                         BasePlayer target = (BasePlayer)addPlayer;
                     
                         SendReply(player, string.Format(GetMessage("IG_GATHERPLAYER", player.UserIDString), target.displayName, storedData.Users[target.userID].CollectableRate, storedData.Users[target.userID].PlayerQuarry, storedData.Users[target.userID].ResourceRate));                      
                     }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
+                        return;
+                    }
+                break;
+                
+                case "resetdata":
+                    if (!permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.gatherp"))
+                    { 
+                        object addPlayer = FindPlayer(args[1]);
+                        BasePlayer target = (BasePlayer)addPlayer;
+                        
+                        storedData.Users.Add(target.userID, new UserInfo());
+                        SaveData();   
+                    }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
+                        return;
+                    }                        
                 break;
             }  
         }
@@ -416,7 +508,7 @@ namespace Oxide.Plugins
 
         private void OnCollectiblePickup(Item item, BasePlayer player)
         {
-            item.amount = (int)(item.amount * storedData.Users[player.userID].CollectableRate);           
-        }                        
+            item.amount = (int)(item.amount * storedData.Users[player.userID].CollectableRate);      
+        }             
     }
 }

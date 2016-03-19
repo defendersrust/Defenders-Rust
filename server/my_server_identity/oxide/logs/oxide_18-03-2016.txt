@@ -1,0 +1,57 @@
+18:04 [Info] Loading Oxide Core v2.0.1817...
+18:04 [Info] Loading extensions...
+18:04 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+18:04 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+18:04 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+18:04 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+18:04 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+18:04 [Info] Using Covalence provider for game 'Rust'
+18:04 [Info] Loading plugins...
+18:04 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+18:04 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+18:04 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+18:04 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+18:04 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+18:04 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+18:04 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+18:04 [Info] ﻿
+18:04 [Info] [Notifier v2.18.4] --------------------------------------------------
+18:04 [Info] [Notifier v2.18.4] * Starting timers:
+18:04 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+18:04 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+18:04 [Info] [Notifier v2.18.4] * Enabling commands:
+18:04 [Info] [Notifier v2.18.4]   - Map Link (/map)
+18:04 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+18:04 [Info] [Notifier v2.18.4]   - Players Online (/online)
+18:04 [Info] [Notifier v2.18.4]   - Players List (/players)
+18:04 [Info] [Notifier v2.18.4] --------------------------------------------------
+18:04 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2358ms
+18:04 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+18:04 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+18:04 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+18:04 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+18:04 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+18:04 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+18:04 [Info] Loaded plugin Kits v3.1.7 by Reneb
+18:04 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+18:04 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+18:05 [Info] Updating Rust:IO ...
+18:05 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+18:05 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+18:05 [Info]                  The owner check has temporarily been disabled to prevent problems.
+18:05 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+18:05 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+18:05 [Info]                  The friends check has temporarily been disabled to prevent problems.
+6:05 PM [Error] Rust:IO: Failed checking for update (Exception: update failed)
+6:05 PM [Debug] 
+6:05 PM [Warning] Make sure that you are running the latest version of the Rust:IO Oxide extension!
+18:07 [Info] Updating Rust:IO ...
+6:07 PM [Error] Rust:IO: Failed checking for update (Exception: update failed)
+6:07 PM [Debug] 
+6:07 PM [Warning] Make sure that you are running the latest version of the Rust:IO Oxide extension!

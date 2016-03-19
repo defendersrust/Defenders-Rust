@@ -21,7 +21,7 @@ class notifier:
         self.ResourceId = 797
         self.Default = {
             'SETTINGS': {
-                'PREFIX': '<white>[<end> <cyan>NOTIFIER<end> <white>]<end>',
+                'PREFIX': '<white>[<end> <cyan>AVISO<end> <white>]<end>',
                 'BROADCAST TO CONSOLE': True,
                 'RULES LANGUAGE': 'AUTO',
                 'HIDE ADMINS': False,

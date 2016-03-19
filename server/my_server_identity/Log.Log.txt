@@ -420,3 +420,1424 @@
 [03/15/2016 23:16:55] Saving complete
 [03/15/2016 23:16:55] Config Saved
 [03/15/2016 23:16:55] [Raknet] Server Shutting Down (quit)
+[03/16/2016 21:55:48] Generating terrain of size 2000 with seed 12345
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loading Oxide Core v2.0.1817...
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loading extensions...
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/16/2016 21:55:49] [Oxide] 21:55 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Using Covalence provider for game 'Rust'
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loading plugins...
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] ﻿
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4] * Starting timers:
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2326ms
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/16/2016 21:55:49] [Oxide] 21:55 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/16/2016 21:55:49] RCon Started on 28016
+[03/16/2016 21:55:51] [1.9s] HEIGHT MAP
+[03/16/2016 21:55:55] [3.6s] MOUNTAINS
+[03/16/2016 21:55:56] [0.9s] TOPOLOGY MAP
+[03/16/2016 21:55:56] [0.6s] SPLAT MAP
+[03/16/2016 21:56:01] [5.0s] LARGE MONUMENTS
+[03/16/2016 21:56:02] [0.7s] PRODUCTION MONUMENTS
+[03/16/2016 21:56:03] [0.9s] SMALL MONUMENTS
+[03/16/2016 21:56:04] [0.8s] RIVER LAYOUT
+[03/16/2016 21:56:04] [0.7s] ROAD LAYOUT
+[03/16/2016 21:56:07] [1.1s] TERRAIN MESH
+[03/16/2016 21:56:08] [1.0s] PROCEDURAL OBJECTS
+[03/16/2016 21:56:09] [0.7s] CLIFF TOPOLOGY
+[03/16/2016 21:56:09] [19.8s] Procedural Generation
+[03/16/2016 21:56:09] Loaded database server/my_server_identity/UserPersistence.db (2 entries)
+[03/16/2016 21:56:11] Map Spawned 1234 entities
+[03/16/2016 21:56:11] Initializing 0 stability entities
+[03/16/2016 21:56:11] Initializing 0 conditional models
+[03/16/2016 21:56:12] Connected to Steam
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info] Updating Rust:IO ...
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/16/2016 21:56:12] [Oxide] 21:56 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/16/2016 21:56:14] [Oxide] 9:56 PM [Info] Rust:IO: Update complete
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Installing Rust:IO ...
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Rust:IO> Creating directories ...
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Rust:IO> Applying config ...
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Rust:IO> Initializing database ...
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Rust:IO> Map wipe detected, resetting map specific data
+[03/16/2016 21:56:14] [Oxide] 21:56 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/16/2016 21:56:22] [Oxide] 21:56 [Info] Rust:IO> Generated map image: took 7456.5329 ms, 449956 bytes
+[03/16/2016 21:56:22] [Oxide] 21:56 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/16/2016 21:56:22] [Oxide] 21:56 [Info] Rust:IO> Installed.
+[03/16/2016 21:56:22] [Oxide] 21:56 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/16/2016 21:57:20] Saved 823 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 21:57:20] Saving complete
+[03/16/2016 21:58:20] Saved 870 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 21:58:20] Saving complete
+[03/16/2016 21:59:19] Saved 899 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 21:59:19] Saving complete
+[03/16/2016 22:00:19] Saved 914 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:00:19] Saving complete
+[03/16/2016 22:01:19] Saved 926 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:01:19] Saving complete
+[03/16/2016 22:01:32] 132.255.196.56:50275/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/16/2016 22:01:33] [Oxide] 22:01 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/16/2016 22:02:19] Saved 930 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:02:19] Saving complete
+[03/16/2016 22:03:19] Saved 933 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:03:19] Saving complete
+[03/16/2016 22:03:22] 177.140.32.72:52151/76561198117520766/OFFLINE joined [windows/76561198117520766]
+[03/16/2016 22:03:22] [Oxide] 22:03 [Info] [Notifier v2.18.4] OFFLINE joined the server, from Brazil.
+[03/16/2016 22:03:40] [Oxide] 22:03 [Info] [Death Notes] OFFLINE had enough of life.
+[03/16/2016 22:03:40] OFFLINE[2968/76561198117520766] was killed by Suicide
+[03/16/2016 22:03:50] [Oxide] 22:03 [Info] [Death Notes] OFFLINE had enough of life.
+[03/16/2016 22:03:50] OFFLINE[2968/76561198117520766] was killed by Suicide
+[03/16/2016 22:03:58] [Oxide] 22:03 [Info] [Death Notes] OFFLINE had enough of life.
+[03/16/2016 22:03:58] OFFLINE[2968/76561198117520766] was killed by Suicide
+[03/16/2016 22:04:19] Saved 950 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:04:19] Saving complete
+[03/16/2016 22:04:48] [Oxide] 22:04 [Info] [Death Notes] OFFLINE had enough of life.
+[03/16/2016 22:04:48] OFFLINE[2968/76561198117520766] was killed by Suicide
+[03/16/2016 22:05:14] [Oxide] 22:05 [Info] [Death Notes] OFFLINE had enough of life.
+[03/16/2016 22:05:14] OFFLINE[2968/76561198117520766] was killed by Suicide
+[03/16/2016 22:05:19] Saved 958 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:05:19] Saving complete
+[03/16/2016 22:06:19] Saved 961 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:06:19] Saving complete
+[03/16/2016 22:07:18] Saved 964 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:07:18] Saving complete
+[03/16/2016 22:07:22] [Oxide] 22:07 [Info] [Notifier v2.18.4] The server time and date is 03/16/2016 22:07
+[03/16/2016 22:08:18] Saved 970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:08:18] Saving complete
+[03/16/2016 22:08:34] [Oxide] 22:08 [Info] [Death Notes] OFFLINE killed a Boar with a Hatchet from 1.74m.
+[03/16/2016 22:09:18] Saved 966 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:09:18] Saving complete
+[03/16/2016 22:10:18] Saved 955 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:10:18] Saving complete
+[03/16/2016 22:10:32] 177.140.32.72:52151/76561198117520766/OFFLINE disconnecting: disconnect
+[03/16/2016 22:10:32] [Oxide] 22:10 [Info] [Notifier v2.18.4] OFFLINE left the server. (Reason: Disconnected)
+[03/16/2016 22:11:18] Saved 950 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:11:18] Saving complete
+[03/16/2016 22:12:18] Saved 950 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:12:18] Saving complete
+[03/16/2016 22:13:16] [Oxide] 22:13 [Info] [Death Notes] Bokudo tried to swim.
+[03/16/2016 22:13:16] Bokudo[2880/76561197994523959] was killed by Drowned
+[03/16/2016 22:13:18] Saved 951 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:13:18] Saving complete
+[03/16/2016 22:14:18] Saved 953 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:14:18] Saving complete
+[03/16/2016 22:15:17] Saved 951 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:15:17] Saving complete
+[03/16/2016 22:16:17] Saved 952 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:16:17] Saving complete
+[03/16/2016 22:16:35] 132.255.196.56:50275/76561197994523959/Bokudo kicked: Server Shutting Down
+[03/16/2016 22:16:35] [Oxide] 22:16 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Server Shutting Down)
+[03/16/2016 22:16:35] Saved 952 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:16:35] Saving complete
+[03/16/2016 22:16:35] Config Saved
+[03/16/2016 22:16:35] [Raknet] Server Shutting Down (quit)
+[03/16/2016 22:17:02] Generating terrain of size 3000 with seed 12345
+[03/16/2016 22:17:02] Generating terrain of size 3000 with seed 12345
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loading Oxide Core v2.0.1817...
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loading extensions...
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/16/2016 22:17:03] [Oxide] 22:16 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Using Covalence provider for game 'Rust'
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loading plugins...
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loading Oxide Core v2.0.1817...
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loading extensions...
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] ﻿
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] * Starting timers:
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/16/2016 22:17:03] [Oxide] 22:16 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Using Covalence provider for game 'Rust'
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loading plugins...
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2356ms
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] ﻿
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] * Starting timers:
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/16/2016 22:17:03] [Oxide] 22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:17:03] RCon Started on 28016
+[03/16/2016 22:17:03] RCon Started on 28016
+[03/16/2016 22:17:07] [4.0s] HEIGHT MAP
+[03/16/2016 22:17:07] [4.2s] HEIGHT MAP
+[03/16/2016 22:17:11] [3.9s] MOUNTAINS
+[03/16/2016 22:17:11] [3.9s] MOUNTAINS
+[03/16/2016 22:17:12] [1.1s] BIOME MAP
+[03/16/2016 22:17:12] [1.1s] BIOME MAP
+[03/16/2016 22:17:21] [8.7s] TOPOLOGY MAP
+[03/16/2016 22:17:22] [9.9s] TOPOLOGY MAP
+[03/16/2016 22:17:28] [6.7s] SPLAT MAP
+[03/16/2016 22:17:29] [6.7s] SPLAT MAP
+[03/16/2016 22:17:34] [6.4s] LARGE MONUMENTS
+[03/16/2016 22:17:34] [5.2s] LARGE MONUMENTS
+[03/16/2016 22:17:35] [0.9s] PRODUCTION MONUMENTS
+[03/16/2016 22:17:35] [1.0s] PRODUCTION MONUMENTS
+[03/16/2016 22:17:36] [0.9s] SMALL MONUMENTS
+[03/16/2016 22:17:36] [0.9s] SMALL MONUMENTS
+[03/16/2016 22:17:38] [1.5s] RIVER LAYOUT
+[03/16/2016 22:17:38] [1.6s] RIVER LAYOUT
+[03/16/2016 22:17:40] [2.7s] ROAD LAYOUT
+[03/16/2016 22:17:40] [2.7s] ROAD LAYOUT
+[03/16/2016 22:17:41] [0.7s] POWERLINE LAYOUT
+[03/16/2016 22:17:41] [0.7s] POWERLINE LAYOUT
+[03/16/2016 22:17:42] [0.5s] MICRO CLIFFS
+[03/16/2016 22:17:42] [0.5s] MICRO CLIFFS
+[03/16/2016 22:17:43] [0.4s] WATER ROCKS
+[03/16/2016 22:17:43] [0.4s] WATER ROCKS
+[03/16/2016 22:17:45] [1.3s] TERRAIN MESH
+[03/16/2016 22:17:45] [1.3s] TERRAIN MESH
+[03/16/2016 22:17:45] [0.3s] RIVER OBJECTS
+[03/16/2016 22:17:45] [0.3s] RIVER OBJECTS
+[03/16/2016 22:17:47] [1.4s] PROCEDURAL OBJECTS
+[03/16/2016 22:17:47] [1.5s] PROCEDURAL OBJECTS
+[03/16/2016 22:17:54] [7.2s] CLIFF TOPOLOGY
+[03/16/2016 22:17:54] [50.9s] Procedural Generation
+[03/16/2016 22:17:54] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/16/2016 22:17:54] [7.5s] CLIFF TOPOLOGY
+[03/16/2016 22:17:55] [51.6s] Procedural Generation
+[03/16/2016 22:17:55] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/16/2016 22:17:57] Map Spawned 4332 entities
+[03/16/2016 22:17:57] Initializing 0 stability entities
+[03/16/2016 22:17:58] Initializing 0 conditional models
+[03/16/2016 22:17:58] Map Spawned 4367 entities
+[03/16/2016 22:17:58] Initializing 0 stability entities
+[03/16/2016 22:17:58] Initializing 0 conditional models
+[03/16/2016 22:17:59] Connected to Steam
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info] Updating Rust:IO ...
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/16/2016 22:17:59] [Oxide] 22:17 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/16/2016 22:18:01] [Oxide] 10:18 PM [Info] Rust:IO: Update complete
+[03/16/2016 22:18:01] [Oxide] 22:18 [Info] Installing Rust:IO ...
+[03/16/2016 22:18:01] [Oxide] 22:18 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/16/2016 22:18:01] [Oxide] 22:18 [Info] Rust:IO> Creating directories ...
+[03/16/2016 22:18:01] [Oxide] 22:18 [Info] Rust:IO> Applying config ...
+[03/16/2016 22:18:01] [Oxide] 22:18 [Info] Rust:IO> Initializing database ...
+[03/16/2016 22:18:02] [Oxide] 22:18 [Info] Rust:IO> Map wipe detected, resetting map specific data
+[03/16/2016 22:18:02] [Oxide] 22:18 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/16/2016 22:18:15] [Oxide] 22:18 [Info] Rust:IO> Generated map image: took 13482.3586 ms, 670175 bytes
+[03/16/2016 22:18:15] [Oxide] 22:18 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/16/2016 22:18:15] [Oxide] 22:18 [Info] Rust:IO> Installed.
+[03/16/2016 22:18:16] [Oxide] 22:18 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/16/2016 22:18:57] Generating terrain of size 3000 with seed 12345
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loading Oxide Core v2.0.1817...
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loading extensions...
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/16/2016 22:18:58] [Oxide] 22:18 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Using Covalence provider for game 'Rust'
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loading plugins...
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] ﻿
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4] * Starting timers:
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2440ms
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/16/2016 22:18:58] [Oxide] 22:18 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/16/2016 22:18:58] RCon Started on 28016
+[03/16/2016 22:19:01] [3.2s] HEIGHT MAP
+[03/16/2016 22:19:04] [2.7s] MOUNTAINS
+[03/16/2016 22:19:05] [0.9s] BIOME MAP
+[03/16/2016 22:19:10] [5.6s] TOPOLOGY MAP
+[03/16/2016 22:19:15] [4.0s] SPLAT MAP
+[03/16/2016 22:19:19] [4.6s] LARGE MONUMENTS
+[03/16/2016 22:19:20] [0.8s] PRODUCTION MONUMENTS
+[03/16/2016 22:19:21] [0.7s] SMALL MONUMENTS
+[03/16/2016 22:19:22] [1.2s] RIVER LAYOUT
+[03/16/2016 22:19:24] [2.2s] ROAD LAYOUT
+[03/16/2016 22:19:25] [0.6s] POWERLINE LAYOUT
+[03/16/2016 22:19:26] [0.5s] MICRO CLIFFS
+[03/16/2016 22:19:27] [0.4s] WATER ROCKS
+[03/16/2016 22:19:28] [1.3s] TERRAIN MESH
+[03/16/2016 22:19:28] [0.3s] RIVER OBJECTS
+[03/16/2016 22:19:30] [1.3s] PROCEDURAL OBJECTS
+[03/16/2016 22:19:35] [5.1s] CLIFF TOPOLOGY
+[03/16/2016 22:19:35] [37.1s] Procedural Generation
+[03/16/2016 22:19:36] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/16/2016 22:19:38] Map Spawned 4326 entities
+[03/16/2016 22:19:38] Initializing 0 stability entities
+[03/16/2016 22:19:38] Initializing 0 conditional models
+[03/16/2016 22:19:39] Connected to Steam
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info] Updating Rust:IO ...
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/16/2016 22:19:39] [Oxide] 22:19 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/16/2016 22:19:41] [Oxide] 10:19 PM [Info] Rust:IO: Update complete
+[03/16/2016 22:19:41] [Oxide] 22:19 [Info] Installing Rust:IO ...
+[03/16/2016 22:19:41] [Oxide] 22:19 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/16/2016 22:19:41] [Oxide] 22:19 [Info] Rust:IO> Creating directories ...
+[03/16/2016 22:19:41] [Oxide] 22:19 [Info] Rust:IO> Applying config ...
+[03/16/2016 22:19:41] [Oxide] 22:19 [Info] Rust:IO> Initializing database ...
+[03/16/2016 22:19:41] [Oxide] 22:19 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/16/2016 22:19:50] [Oxide] 22:19 [Info] Rust:IO> Generated map image: took 8951.7561 ms, 670175 bytes
+[03/16/2016 22:19:50] [Oxide] 22:19 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/16/2016 22:19:50] [Oxide] 22:19 [Info] Rust:IO> Installed.
+[03/16/2016 22:19:50] [Oxide] 22:19 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/16/2016 22:22:10] 132.255.196.56:56241/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/16/2016 22:22:10] [Oxide] 22:22 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/16/2016 22:29:46] Saved 3,770 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:29:46] Saving complete
+[03/16/2016 22:30:51] [Oxide] 22:30 [Info] [Notifier v2.18.4] You are playing on: [BR] DEFENDERS TEST SERVER!
+[03/16/2016 22:31:43] [Oxide] 22:31 [Info] [Death Notes] A Bear followed Bokudo until it finally caught him.
+[03/16/2016 22:31:43] Bokudo[6547/76561197994523959] was killed by bear.prefab (bear)
+[03/16/2016 22:32:04] 132.255.196.56:56241/76561197994523959/Bokudo kicked: Server Shutting Down
+[03/16/2016 22:32:04] [Oxide] 22:32 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Server Shutting Down)
+[03/16/2016 22:32:04] Saved 3,839 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:32:04] Saving complete
+[03/16/2016 22:32:04] Config Saved
+[03/16/2016 22:32:04] [Raknet] Server Shutting Down (quit)
+[03/16/2016 22:32:15] Generating terrain of size 3000 with seed 12345
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loading Oxide Core v2.0.1817...
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loading extensions...
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/16/2016 22:32:16] [Oxide] 22:32 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Using Covalence provider for game 'Rust'
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loading plugins...
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] ﻿
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4] * Starting timers:
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2313ms
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/16/2016 22:32:16] [Oxide] 22:32 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/16/2016 22:32:16] RCon Started on 28016
+[03/16/2016 22:32:19] [2.6s] HEIGHT MAP
+[03/16/2016 22:32:21] [2.4s] MOUNTAINS
+[03/16/2016 22:32:22] [0.6s] BIOME MAP
+[03/16/2016 22:32:26] [4.8s] TOPOLOGY MAP
+[03/16/2016 22:32:30] [3.2s] SPLAT MAP
+[03/16/2016 22:32:34] [4.0s] LARGE MONUMENTS
+[03/16/2016 22:32:34] [0.7s] PRODUCTION MONUMENTS
+[03/16/2016 22:32:35] [0.6s] SMALL MONUMENTS
+[03/16/2016 22:32:36] [1.2s] RIVER LAYOUT
+[03/16/2016 22:32:38] [1.9s] ROAD LAYOUT
+[03/16/2016 22:32:39] [0.6s] POWERLINE LAYOUT
+[03/16/2016 22:32:40] [0.4s] MICRO CLIFFS
+[03/16/2016 22:32:40] [0.4s] WATER ROCKS
+[03/16/2016 22:32:42] [1.1s] TERRAIN MESH
+[03/16/2016 22:32:43] [1.2s] PROCEDURAL OBJECTS
+[03/16/2016 22:32:47] [3.8s] CLIFF TOPOLOGY
+[03/16/2016 22:32:47] [31.3s] Procedural Generation
+[03/16/2016 22:32:48] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/16/2016 22:32:48] Destroyed 10 old entities
+[03/16/2016 22:32:49] Spawning 3839 entities
+[03/16/2016 22:32:49] Loading Complete
+[03/16/2016 22:32:49] Enforcing SpawnPopulation Limits
+[03/16/2016 22:32:50] Map Spawned 3877 entities
+[03/16/2016 22:32:50] Initializing 0 stability entities
+[03/16/2016 22:32:50] Initializing 0 conditional models
+[03/16/2016 22:32:50] Connected to Steam
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info] Updating Rust:IO ...
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/16/2016 22:32:50] [Oxide] 22:32 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/16/2016 22:32:52] [Oxide] 10:32 PM [Info] Rust:IO: Update complete
+[03/16/2016 22:32:52] [Oxide] 22:32 [Info] Installing Rust:IO ...
+[03/16/2016 22:32:52] [Oxide] 22:32 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/16/2016 22:32:52] [Oxide] 22:32 [Info] Rust:IO> Creating directories ...
+[03/16/2016 22:32:52] [Oxide] 22:32 [Info] Rust:IO> Applying config ...
+[03/16/2016 22:32:52] [Oxide] 22:32 [Info] Rust:IO> Initializing database ...
+[03/16/2016 22:32:52] [Oxide] 22:32 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/16/2016 22:33:01] [Oxide] 22:33 [Info] Rust:IO> Generated map image: took 8910.3225 ms, 670175 bytes
+[03/16/2016 22:33:01] [Oxide] 22:33 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/16/2016 22:33:01] [Oxide] 22:33 [Info] Rust:IO> Installed.
+[03/16/2016 22:33:01] [Oxide] 22:33 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/16/2016 22:34:03] 132.255.196.56:53059/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/16/2016 22:34:04] [Oxide] 22:34 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/16/2016 22:37:39] 132.255.196.56:53059/76561197994523959/Bokudo disconnecting: disconnect
+[03/16/2016 22:37:39] [Oxide] 22:37 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+[03/16/2016 22:38:18] [Oxide] 22:38 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/16/2016 22:38:18] 132.255.196.56:61151/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/16/2016 22:38:50] Command not found
+[03/16/2016 22:38:55] Command not found
+[03/16/2016 22:42:57] Saved 3,880 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:42:57] Saving complete
+[03/16/2016 22:44:09] [Oxide] 22:44 [Info] [Notifier v2.18.4] Players Online: 1 / 500 Sleepers: 0
+[03/16/2016 22:52:56] Saved 3,888 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/16/2016 22:52:56] Saving complete
+[03/16/2016 22:56:09] [Oxide] 22:56 [Info] [Notifier v2.18.4] The server time and date is 03/16/2016 22:56
+[03/16/2016 23:01:20] 132.255.196.56:61151/76561197994523959/Bokudo disconnecting: disconnect
+[03/16/2016 23:01:20] [Oxide] 23:01 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+[03/16/2016 23:02:19] Generating terrain of size 3000 with seed 12345
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loading Oxide Core v2.0.1817...
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loading extensions...
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/16/2016 23:02:20] [Oxide] 23:02 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Using Covalence provider for game 'Rust'
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loading plugins...
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] ﻿
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4] * Starting timers:
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2292ms
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/16/2016 23:02:20] [Oxide] 23:02 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/16/2016 23:02:20] RCon Started on 28016
+[03/16/2016 23:02:23] [2.7s] HEIGHT MAP
+[03/16/2016 23:02:25] [2.4s] MOUNTAINS
+[03/16/2016 23:02:26] [0.7s] BIOME MAP
+[03/16/2016 23:02:31] [4.9s] TOPOLOGY MAP
+[03/16/2016 23:02:34] [3.3s] SPLAT MAP
+[03/16/2016 23:02:38] [3.9s] LARGE MONUMENTS
+[03/16/2016 23:02:39] [0.7s] PRODUCTION MONUMENTS
+[03/16/2016 23:02:40] [0.6s] SMALL MONUMENTS
+[03/16/2016 23:02:41] [1.1s] RIVER LAYOUT
+[03/16/2016 23:02:43] [1.8s] ROAD LAYOUT
+[03/16/2016 23:02:43] [0.6s] POWERLINE LAYOUT
+[03/16/2016 23:02:44] [0.4s] MICRO CLIFFS
+[03/16/2016 23:02:45] [0.3s] WATER ROCKS
+[03/16/2016 23:02:46] [1.1s] TERRAIN MESH
+[03/16/2016 23:02:48] [1.2s] PROCEDURAL OBJECTS
+[03/16/2016 23:02:51] [3.7s] CLIFF TOPOLOGY
+[03/16/2016 23:02:51] [31.1s] Procedural Generation
+[03/16/2016 23:02:52] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/16/2016 23:02:52] Destroyed 10 old entities
+[03/16/2016 23:02:53] Spawning 3888 entities
+[03/16/2016 23:02:53] Loading Complete
+[03/16/2016 23:02:53] Enforcing SpawnPopulation Limits
+[03/16/2016 23:02:54] Map Spawned 3928 entities
+[03/16/2016 23:02:54] Initializing 0 stability entities
+[03/16/2016 23:02:54] Initializing 0 conditional models
+[03/16/2016 23:02:54] Connected to Steam
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info] Updating Rust:IO ...
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/16/2016 23:02:54] [Oxide] 23:02 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/16/2016 23:02:57] [Oxide] 11:02 PM [Info] Rust:IO: Update complete
+[03/16/2016 23:02:57] [Oxide] 23:02 [Info] Installing Rust:IO ...
+[03/16/2016 23:02:57] [Oxide] 23:02 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/16/2016 23:02:57] [Oxide] 23:02 [Info] Rust:IO> Creating directories ...
+[03/16/2016 23:02:57] [Oxide] 23:02 [Info] Rust:IO> Applying config ...
+[03/16/2016 23:02:57] [Oxide] 23:02 [Info] Rust:IO> Initializing database ...
+[03/16/2016 23:02:57] [Oxide] 23:02 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/16/2016 23:03:05] [Oxide] 23:03 [Info] Rust:IO> Generated map image: took 8704.8573 ms, 670175 bytes
+[03/16/2016 23:03:05] [Oxide] 23:03 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/16/2016 23:03:06] [Oxide] 23:03 [Info] Rust:IO> Installed.
+[03/16/2016 23:03:06] [Oxide] 23:03 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/16/2016 23:03:55] 132.255.196.56:53676/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/16/2016 23:03:55] [Oxide] 23:03 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/16/2016 23:12:01] 132.255.196.56:53676/76561197994523959/Bokudo disconnecting: closing
+[03/16/2016 23:12:01] [Oxide] 23:12 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+[03/18/2016 18:04:31] Generating terrain of size 3000 with seed 12345
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loading Oxide Core v2.0.1817...
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loading extensions...
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/18/2016 18:04:32] [Oxide] 18:04 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Using Covalence provider for game 'Rust'
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loading plugins...
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] ﻿
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4] * Starting timers:
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2358ms
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/18/2016 18:04:32] [Oxide] 18:04 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/18/2016 18:04:32] RCon Started on 28016
+[03/18/2016 18:04:34] [2.1s] HEIGHT MAP
+[03/18/2016 18:04:38] [3.9s] MOUNTAINS
+[03/18/2016 18:04:39] [0.5s] BIOME MAP
+[03/18/2016 18:04:42] [3.8s] TOPOLOGY MAP
+[03/18/2016 18:04:45] [2.5s] SPLAT MAP
+[03/18/2016 18:04:50] [5.4s] LARGE MONUMENTS
+[03/18/2016 18:04:51] [1.0s] PRODUCTION MONUMENTS
+[03/18/2016 18:04:52] [0.9s] SMALL MONUMENTS
+[03/18/2016 18:04:53] [1.1s] RIVER LAYOUT
+[03/18/2016 18:04:55] [1.8s] ROAD LAYOUT
+[03/18/2016 18:04:56] [0.6s] POWERLINE LAYOUT
+[03/18/2016 18:04:57] [0.4s] MICRO CLIFFS
+[03/18/2016 18:04:57] [0.3s] WATER ROCKS
+[03/18/2016 18:04:59] [1.1s] TERRAIN MESH
+[03/18/2016 18:04:59] [0.3s] RIVER OBJECTS
+[03/18/2016 18:05:00] [1.2s] PROCEDURAL OBJECTS
+[03/18/2016 18:05:03] [3.0s] CLIFF TOPOLOGY
+[03/18/2016 18:05:03] [31.5s] Procedural Generation
+[03/18/2016 18:05:04] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/18/2016 18:05:04] Destroyed 10 old entities
+[03/18/2016 18:05:05] Spawning 3888 entities
+[03/18/2016 18:05:05] Loading Complete
+[03/18/2016 18:05:05] Enforcing SpawnPopulation Limits
+[03/18/2016 18:05:06] Map Spawned 3927 entities
+[03/18/2016 18:05:06] Initializing 0 stability entities
+[03/18/2016 18:05:06] Initializing 0 conditional models
+[03/18/2016 18:05:06] Connected to Steam
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info] Updating Rust:IO ...
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/18/2016 18:05:06] [Oxide] 18:05 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/18/2016 18:05:24] [Oxide] 6:05 PM [Debug] 
+[03/18/2016 18:07:06] [Oxide] 18:07 [Info] Updating Rust:IO ...
+[03/18/2016 18:07:21] [Oxide] 6:07 PM [Debug] 
+[03/19/2016 13:37:46] Generating terrain of size 3000 with seed 12345
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loading Oxide Core v2.0.1817...
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loading extensions...
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/19/2016 13:37:47] [Oxide] 13:37 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Using Covalence provider for game 'Rust'
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loading plugins...
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] ﻿
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4] * Starting timers:
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2521ms
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 13:37:47] [Oxide] 13:37 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/19/2016 13:37:47] RCon Started on 28016
+[03/19/2016 13:37:50] [2.2s] HEIGHT MAP
+[03/19/2016 13:37:53] [3.9s] MOUNTAINS
+[03/19/2016 13:37:54] [0.5s] BIOME MAP
+[03/19/2016 13:37:58] [3.7s] TOPOLOGY MAP
+[03/19/2016 13:38:00] [2.3s] SPLAT MAP
+[03/19/2016 13:38:06] [5.8s] LARGE MONUMENTS
+[03/19/2016 13:38:07] [1.1s] PRODUCTION MONUMENTS
+[03/19/2016 13:38:08] [1.0s] SMALL MONUMENTS
+[03/19/2016 13:38:09] [1.1s] RIVER LAYOUT
+[03/19/2016 13:38:11] [1.8s] ROAD LAYOUT
+[03/19/2016 13:38:12] [0.6s] POWERLINE LAYOUT
+[03/19/2016 13:38:13] [0.4s] MICRO CLIFFS
+[03/19/2016 13:38:13] [0.4s] WATER ROCKS
+[03/19/2016 13:38:15] [1.1s] TERRAIN MESH
+[03/19/2016 13:38:15] [0.3s] RIVER OBJECTS
+[03/19/2016 13:38:16] [1.2s] PROCEDURAL OBJECTS
+[03/19/2016 13:38:19] [3.1s] CLIFF TOPOLOGY
+[03/19/2016 13:38:19] [32.1s] Procedural Generation
+[03/19/2016 13:38:20] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/19/2016 13:38:20] Destroyed 10 old entities
+[03/19/2016 13:38:21] Spawning 3888 entities
+[03/19/2016 13:38:21] Loading Complete
+[03/19/2016 13:38:21] Enforcing SpawnPopulation Limits
+[03/19/2016 13:38:22] Map Spawned 3927 entities
+[03/19/2016 13:38:22] Initializing 0 stability entities
+[03/19/2016 13:38:22] Initializing 0 conditional models
+[03/19/2016 13:38:22] Connected to Steam
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info] Updating Rust:IO ...
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/19/2016 13:38:22] [Oxide] 13:38 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/19/2016 13:38:26] [Oxide] 1:38 PM [Info] Rust:IO: Update complete
+[03/19/2016 13:38:26] [Oxide] 13:38 [Info] Installing Rust:IO ...
+[03/19/2016 13:38:26] [Oxide] 13:38 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/19/2016 13:38:26] [Oxide] 13:38 [Info] Rust:IO> Creating directories ...
+[03/19/2016 13:38:26] [Oxide] 13:38 [Info] Rust:IO> Applying config ...
+[03/19/2016 13:38:26] [Oxide] 13:38 [Info] Rust:IO> Initializing database ...
+[03/19/2016 13:38:26] [Oxide] 13:38 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/19/2016 13:38:35] [Oxide] 13:38 [Info] Rust:IO> Generated map image: took 8755.4916 ms, 670175 bytes
+[03/19/2016 13:38:35] [Oxide] 13:38 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/19/2016 13:38:35] [Oxide] 13:38 [Info] Rust:IO> Installed.
+[03/19/2016 13:38:35] [Oxide] 13:38 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/19/2016 13:42:33] Generating terrain of size 3000 with seed 12345
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loading Oxide Core v2.0.1817...
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loading extensions...
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/19/2016 13:42:34] [Oxide] 13:42 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Using Covalence provider for game 'Rust'
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loading plugins...
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] ﻿
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4] * Starting timers:
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2283ms
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 13:42:34] [Oxide] 13:42 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/19/2016 13:42:34] RCon Started on 28016
+[03/19/2016 13:42:36] [2.1s] HEIGHT MAP
+[03/19/2016 13:42:38] [2.3s] MOUNTAINS
+[03/19/2016 13:42:39] [0.5s] BIOME MAP
+[03/19/2016 13:42:42] [3.7s] TOPOLOGY MAP
+[03/19/2016 13:42:45] [2.3s] SPLAT MAP
+[03/19/2016 13:42:49] [3.8s] LARGE MONUMENTS
+[03/19/2016 13:42:49] [0.7s] PRODUCTION MONUMENTS
+[03/19/2016 13:42:50] [0.6s] SMALL MONUMENTS
+[03/19/2016 13:42:51] [1.1s] RIVER LAYOUT
+[03/19/2016 13:42:53] [1.8s] ROAD LAYOUT
+[03/19/2016 13:42:53] [0.6s] POWERLINE LAYOUT
+[03/19/2016 13:42:54] [0.4s] MICRO CLIFFS
+[03/19/2016 13:42:55] [0.3s] WATER ROCKS
+[03/19/2016 13:42:56] [1.1s] TERRAIN MESH
+[03/19/2016 13:42:58] [1.2s] PROCEDURAL OBJECTS
+[03/19/2016 13:43:01] [3.3s] CLIFF TOPOLOGY
+[03/19/2016 13:43:01] [27.5s] Procedural Generation
+[03/19/2016 13:43:02] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/19/2016 13:43:02] Destroyed 10 old entities
+[03/19/2016 13:43:03] Spawning 3888 entities
+[03/19/2016 13:43:03] Loading Complete
+[03/19/2016 13:43:03] Enforcing SpawnPopulation Limits
+[03/19/2016 13:43:04] Map Spawned 3929 entities
+[03/19/2016 13:43:04] Initializing 0 stability entities
+[03/19/2016 13:43:04] Initializing 0 conditional models
+[03/19/2016 13:43:04] Connected to Steam
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info] Updating Rust:IO ...
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/19/2016 13:43:04] [Oxide] 13:43 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/19/2016 13:43:06] [Oxide] 1:43 PM [Info] Rust:IO: Update complete
+[03/19/2016 13:43:06] [Oxide] 13:43 [Info] Installing Rust:IO ...
+[03/19/2016 13:43:06] [Oxide] 13:43 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/19/2016 13:43:06] [Oxide] 13:43 [Info] Rust:IO> Creating directories ...
+[03/19/2016 13:43:06] [Oxide] 13:43 [Info] Rust:IO> Applying config ...
+[03/19/2016 13:43:06] [Oxide] 13:43 [Info] Rust:IO> Initializing database ...
+[03/19/2016 13:43:06] [Oxide] 13:43 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/19/2016 13:43:15] [Oxide] 13:43 [Info] Rust:IO> Generated map image: took 8601.3004 ms, 670175 bytes
+[03/19/2016 13:43:15] [Oxide] 13:43 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/19/2016 13:43:15] [Oxide] 13:43 [Info] Rust:IO> Installed.
+[03/19/2016 13:43:15] [Oxide] 13:43 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/19/2016 13:44:12] Saved 3,890 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:44:12] Saving complete
+[03/19/2016 13:45:12] Saved 3,890 ents, serialization(0.00), write(0.00), disk(0.01) totalstall(0.00).
+[03/19/2016 13:45:12] Saving complete
+[03/19/2016 13:46:12] Saved 3,890 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:46:12] Saving complete
+[03/19/2016 13:47:12] Saved 3,891 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:47:12] Saving complete
+[03/19/2016 13:47:33] 132.255.196.56:64140/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/19/2016 13:47:33] [Oxide] 13:47 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/19/2016 13:47:56] [Oxide] 13:47 [Info] Notifier was compiled successfully in 2166ms
+[03/19/2016 13:47:56] [Oxide] 13:47 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+[03/19/2016 13:47:56] [Oxide] 13:47 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+[03/19/2016 13:47:56] [Oxide] 13:47 [Info] IGather was compiled successfully in 1136ms
+[03/19/2016 13:47:56] [Oxide] 13:47 [Info] Unloaded plugin IGather v0.0.3 by DylanSMR
+[03/19/2016 13:47:56] [Oxide] 13:47 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+[03/19/2016 13:48:12] Saved 3,891 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:48:12] Saving complete
+[03/19/2016 13:49:11] Saved 3,891 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:49:11] Saving complete
+[03/19/2016 13:50:11] Saved 3,891 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:50:11] Saving complete
+[03/19/2016 13:51:11] Saved 3,892 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:51:11] Saving complete
+[03/19/2016 13:52:11] Saved 3,894 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:52:11] Saving complete
+[03/19/2016 13:53:11] Saved 3,894 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:53:11] Saving complete
+[03/19/2016 13:54:11] Saved 3,897 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:54:11] Saving complete
+[03/19/2016 13:54:27] [Oxide] 13:54 [Info] [Notifier v2.18.4] Olha Hora!(Real) --> 03/19/2016 13:54
+[03/19/2016 13:55:10] Saved 3,905 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:55:11] Saving complete
+[03/19/2016 13:56:10] Saved 3,924 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:56:10] Saving complete
+[03/19/2016 13:57:10] Saved 3,924 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 13:57:10] Saving complete
+[03/19/2016 13:58:04] [event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[03/19/2016 13:59:56] [Oxide] 13:59 [Info] [Notifier] You are playing on: [BR] DEFENDERS TESTE SERVER! X5!
+[03/19/2016 14:02:10] Saved 3,934 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:02:10] Saving complete
+[03/19/2016 14:03:10] Saved 3,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:03:10] Saving complete
+[03/19/2016 14:04:10] Saved 3,932 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:04:10] Saving complete
+[03/19/2016 14:05:10] Saved 3,930 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:05:10] Saving complete
+[03/19/2016 14:06:10] Saved 3,933 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:06:10] Saving complete
+[03/19/2016 14:06:27] [Oxide] 14:06 [Info] [Notifier v2.18.4] Jogadores ON: 1 / 100 Folgados: 0
+[03/19/2016 14:07:09] Saved 3,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:07:09] Saving complete
+[03/19/2016 14:08:09] Saved 3,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:08:09] Saving complete
+[03/19/2016 14:09:09] Saved 3,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:09:09] Saving complete
+[03/19/2016 14:10:09] Saved 3,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:10:09] Saving complete
+[03/19/2016 14:11:09] Saved 3,937 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:11:09] Saving complete
+[03/19/2016 14:11:49] [Oxide] 14:11 [Info] [Death Notes] A Wolf followed Bokudo until it finally caught him.
+[03/19/2016 14:11:49] Bokudo[6547/76561197994523959] was killed by wolf.prefab (wolf)
+[03/19/2016 14:11:56] [Oxide] 14:11 [Info] [Notifier] There are 1/100 players playing in the server, and 1 sleepers.
+[03/19/2016 14:12:09] Saved 3,943 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:12:09] Saving complete
+[03/19/2016 14:12:34] 132.255.196.56:64140/76561197994523959/Bokudo disconnecting: disconnect
+[03/19/2016 14:12:34] [Oxide] 14:12 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+[03/19/2016 14:12:34] [Oxide] 14:12 [Info] [Notifier] Bokudo left the server
+[03/19/2016 14:13:09] Saved 3,943 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:13:09] Saving complete
+[03/19/2016 14:14:09] Saved 3,944 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:14:09] Saving complete
+[03/19/2016 14:15:08] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:15:08] Saving complete
+[03/19/2016 14:16:08] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:16:08] Saving complete
+[03/19/2016 14:17:08] Saved 3,934 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:17:08] Saving complete
+[03/19/2016 14:17:22] [Oxide] 14:17 [Info] Notifier was compiled successfully in 2044ms
+[03/19/2016 14:17:22] [Oxide] 14:17 [Info] Unloaded plugin Notifier v3.0.0 by SkinN
+[03/19/2016 14:17:22] [Oxide] 14:17 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+[03/19/2016 14:17:22] [Oxide] 14:17 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+[03/19/2016 14:18:02] [Oxide] 14:18 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/19/2016 14:18:02] [Oxide] 14:18 [Info] [Notifier] Bokudo joined from Brazil
+[03/19/2016 14:18:02] 132.255.196.56:57945/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/19/2016 14:18:08] Saved 3,939 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:18:08] Saving complete
+[03/19/2016 14:18:27] [Oxide] 14:18 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+[03/19/2016 14:19:08] Saved 3,944 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:19:08] Saving complete
+[03/19/2016 14:20:08] Saved 3,946 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:20:08] Saving complete
+[03/19/2016 14:20:15] 132.255.196.56:57945/76561197994523959/Bokudo disconnecting: closing
+[03/19/2016 14:20:15] [Oxide] 14:20 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+[03/19/2016 14:20:15] [Oxide] 14:20 [Info] [Notifier] Bokudo left the server
+[03/19/2016 14:20:52] Generating terrain of size 3000 with seed 12345
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loading Oxide Core v2.0.1817...
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loading extensions...
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+[03/19/2016 14:20:53] [Oxide] 14:20 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Using Covalence provider for game 'Rust'
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loading plugins...
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] ﻿
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4] * Starting timers:
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, Notifier, QuickSmelt and RemoverTool were compiled successfully in 2371ms
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 14:20:53] [Oxide] 14:20 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/19/2016 14:20:54] RCon Started on 28016
+[03/19/2016 14:20:56] [2.1s] HEIGHT MAP
+[03/19/2016 14:21:00] [3.9s] MOUNTAINS
+[03/19/2016 14:21:00] [0.5s] BIOME MAP
+[03/19/2016 14:21:04] [3.8s] TOPOLOGY MAP
+[03/19/2016 14:21:06] [2.3s] SPLAT MAP
+[03/19/2016 14:21:11] [5.2s] LARGE MONUMENTS
+[03/19/2016 14:21:12] [0.8s] PRODUCTION MONUMENTS
+[03/19/2016 14:21:13] [0.8s] SMALL MONUMENTS
+[03/19/2016 14:21:14] [1.0s] RIVER LAYOUT
+[03/19/2016 14:21:16] [1.8s] ROAD LAYOUT
+[03/19/2016 14:21:17] [0.6s] POWERLINE LAYOUT
+[03/19/2016 14:21:17] [0.4s] MICRO CLIFFS
+[03/19/2016 14:21:18] [0.3s] WATER ROCKS
+[03/19/2016 14:21:19] [1.1s] TERRAIN MESH
+[03/19/2016 14:21:21] [1.2s] PROCEDURAL OBJECTS
+[03/19/2016 14:21:24] [3.0s] CLIFF TOPOLOGY
+[03/19/2016 14:21:24] [30.5s] Procedural Generation
+[03/19/2016 14:21:24] Loaded database server/my_server_identity/UserPersistence.db (3 entries)
+[03/19/2016 14:21:25] Destroyed 10 old entities
+[03/19/2016 14:21:26] Spawning 3946 entities
+[03/19/2016 14:21:26] Loading Complete
+[03/19/2016 14:21:26] Enforcing SpawnPopulation Limits
+[03/19/2016 14:21:27] Map Spawned 3980 entities
+[03/19/2016 14:21:27] Initializing 29 stability entities
+[03/19/2016 14:21:27] Initializing 29 conditional models
+[03/19/2016 14:21:28] Connected to Steam
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info] Updating Rust:IO ...
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info]                  The owner check has temporarily been disabled to prevent problems.
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/19/2016 14:21:28] [Oxide] 14:21 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/19/2016 14:21:31] [Oxide] 2:21 PM [Info] Rust:IO: Update complete
+[03/19/2016 14:21:31] [Oxide] 14:21 [Info] Installing Rust:IO ...
+[03/19/2016 14:21:31] [Oxide] 14:21 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+[03/19/2016 14:21:31] [Oxide] 14:21 [Info] Rust:IO> Creating directories ...
+[03/19/2016 14:21:31] [Oxide] 14:21 [Info] Rust:IO> Applying config ...
+[03/19/2016 14:21:31] [Oxide] 14:21 [Info] Rust:IO> Initializing database ...
+[03/19/2016 14:21:31] [Oxide] 14:21 [Info] Rust:IO> Generating map image (this may take a while) ...
+[03/19/2016 14:21:39] [Oxide] 14:21 [Info] Rust:IO> Generated map image: took 8277.4694 ms, 670175 bytes
+[03/19/2016 14:21:39] [Oxide] 14:21 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+[03/19/2016 14:21:39] [Oxide] 14:21 [Info] Rust:IO> Installed.
+[03/19/2016 14:21:40] [Oxide] 14:21 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+[03/19/2016 14:22:38] Saved 3,946 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:22:38] Saving complete
+[03/19/2016 14:23:37] Saved 3,946 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:23:37] Saving complete
+[03/19/2016 14:24:37] Saved 3,946 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:24:37] Saving complete
+[03/19/2016 14:25:37] Saved 3,946 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:25:37] Saving complete
+[03/19/2016 14:26:37] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:26:37] Saving complete
+[03/19/2016 14:27:37] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:27:37] Saving complete
+[03/19/2016 14:28:37] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:28:37] Saving complete
+[03/19/2016 14:29:37] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:29:37] Saving complete
+[03/19/2016 14:30:36] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:30:36] Saving complete
+[03/19/2016 14:31:36] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:31:36] Saving complete
+[03/19/2016 14:32:33] [Oxide] 14:32 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/26/2024 15:46:13
+[03/19/2016 14:32:35] [Oxide] 14:32 [Info] [Notifier] Check Notifier's with /notifier help command.
+[03/19/2016 14:32:36] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:32:36] Saving complete
+[03/19/2016 14:33:36] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:33:36] Saving complete
+[03/19/2016 14:34:36] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:34:36] Saving complete
+[03/19/2016 14:35:36] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:35:36] Saving complete
+[03/19/2016 14:36:35] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:36:36] Saving complete
+[03/19/2016 14:37:35] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:37:35] Saving complete
+[03/19/2016 14:38:35] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:38:35] Saving complete
+[03/19/2016 14:39:35] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:39:35] Saving complete
+[03/19/2016 14:40:35] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:40:35] Saving complete
+[03/19/2016 14:41:35] Saved 3,944 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:41:35] Saving complete
+[03/19/2016 14:42:35] Saved 3,944 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:42:35] Saving complete
+[03/19/2016 14:43:34] Saved 3,944 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:43:34] Saving complete
+[03/19/2016 14:44:32] [Oxide] 14:44 [Info] [Notifier v2.18.4] Jogando: [BR] DEFENDERS TESTE SERVER! X5!
+[03/19/2016 14:44:34] Saved 3,944 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:44:34] Saving complete
+[03/19/2016 14:44:35] [Oxide] 14:44 [Info] [Notifier] There are 0/100 players playing in the server, and 1 sleepers.
+[03/19/2016 14:45:34] Saved 3,943 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:45:34] Saving complete
+[03/19/2016 14:46:34] Saved 3,942 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:46:34] Saving complete
+[03/19/2016 14:47:34] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:47:34] Saving complete
+[03/19/2016 14:48:34] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:48:34] Saving complete
+[03/19/2016 14:49:34] Saved 3,941 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:49:34] Saving complete
+[03/19/2016 14:50:33] Saved 3,943 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:50:33] Saving complete
+[03/19/2016 14:51:33] Saved 3,940 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:51:33] Saving complete
+[03/19/2016 14:52:33] Saved 3,940 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:52:33] Saving complete
+[03/19/2016 14:52:52] [event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[03/19/2016 14:56:32] [Oxide] 14:56 [Info] [Notifier v2.18.4] Jogadores ON: 0 / 100 Folgados: 1
+[03/19/2016 14:56:35] [Oxide] 14:56 [Info] [Notifier] Need help? Try calling for the Admins in the chat.
+[03/19/2016 14:57:32] Saved 3,961 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:57:32] Saving complete
+[03/19/2016 14:58:32] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:58:32] Saving complete
+[03/19/2016 14:59:32] Saved 3,966 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 14:59:32] Saving complete
+[03/19/2016 15:00:32] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:00:32] Saving complete
+[03/19/2016 15:01:32] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:01:32] Saving complete
+[03/19/2016 15:02:31] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:02:31] Saving complete
+[03/19/2016 15:03:31] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:03:31] Saving complete
+[03/19/2016 15:04:31] Saved 3,965 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:04:31] Saving complete
+[03/19/2016 15:05:31] Saved 3,965 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:05:31] Saving complete
+[03/19/2016 15:06:31] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:06:31] Saving complete
+[03/19/2016 15:07:31] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:07:31] Saving complete
+[03/19/2016 15:08:31] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:08:31] Saving complete
+[03/19/2016 15:08:32] [Oxide] 15:08 [Info] [Notifier v2.18.4] Type /map for the server map link.
+[03/19/2016 15:08:35] [Oxide] 15:08 [Info] [Notifier] You are playing on: [BR] DEFENDERS TESTE SERVER! X5!
+[03/19/2016 15:09:30] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:09:30] Saving complete
+[03/19/2016 15:10:30] Saved 3,969 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:10:30] Saving complete
+[03/19/2016 15:11:30] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:11:30] Saving complete
+[03/19/2016 15:12:30] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:12:30] Saving complete
+[03/19/2016 15:13:30] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:13:30] Saving complete
+[03/19/2016 15:14:30] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:14:30] Saving complete
+[03/19/2016 15:15:30] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:15:30] Saving complete
+[03/19/2016 15:16:29] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:16:29] Saving complete
+[03/19/2016 15:17:29] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:17:29] Saving complete
+[03/19/2016 15:18:29] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:18:29] Saving complete
+[03/19/2016 15:19:29] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:19:29] Saving complete
+[03/19/2016 15:20:29] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:20:29] Saving complete
+[03/19/2016 15:20:32] [Oxide] 15:20 [Info] [Notifier v2.18.4] Este servidor usa os mods Oxide 2.
+[03/19/2016 15:20:35] [Oxide] 15:20 [Info] [Notifier] Please avoid any insults and be respectful!
+[03/19/2016 15:21:29] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:21:29] Saving complete
+[03/19/2016 15:22:28] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:22:28] Saving complete
+[03/19/2016 15:23:28] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:23:28] Saving complete
+[03/19/2016 15:24:28] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:24:28] Saving complete
+[03/19/2016 15:25:28] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:25:28] Saving complete
+[03/19/2016 15:26:28] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:26:28] Saving complete
+[03/19/2016 15:27:28] Saved 3,969 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:27:28] Saving complete
+[03/19/2016 15:28:28] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:28:28] Saving complete
+[03/19/2016 15:29:27] Saved 3,971 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:29:27] Saving complete
+[03/19/2016 15:30:27] Saved 3,972 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:30:27] Saving complete
+[03/19/2016 15:31:27] Saved 3,974 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:31:27] Saving complete
+[03/19/2016 15:32:27] Saved 3,974 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/19/2016 15:32:27] Saving complete
+[03/19/2016 15:32:32] [Oxide] 15:32 [Info] [Notifier v2.18.4] Type /map for the server map link.
+[03/19/2016 15:32:35] [Oxide] 15:32 [Info] [Notifier] Check Notifier's with /notifier help command.
+[03/19/2016 15:33:27] Saved 3,973 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:33:27] Saving complete
+[03/19/2016 15:34:27] Saved 3,973 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:34:27] Saving complete
+[03/19/2016 15:35:27] Saved 3,972 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:35:27] Saving complete
+[03/19/2016 15:36:26] Saved 3,974 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:36:26] Saving complete
+[03/19/2016 15:37:26] Saved 3,972 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:37:26] Saving complete
+[03/19/2016 15:38:26] Saved 3,971 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:38:26] Saving complete
+[03/19/2016 15:39:26] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:39:26] Saving complete
+[03/19/2016 15:40:26] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:40:26] Saving complete
+[03/19/2016 15:41:26] Saved 3,968 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:41:26] Saving complete
+[03/19/2016 15:42:25] Saved 3,969 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:42:25] Saving complete
+[03/19/2016 15:42:32] 132.255.196.56:58958/76561197994523959/Bokudo has auth level 2
+[03/19/2016 15:43:25] Saved 3,969 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:43:25] Saving complete
+[03/19/2016 15:44:25] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:44:25] Saving complete
+[03/19/2016 15:44:33] [Oxide] 15:44 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/27/2024 18:17:28
+[03/19/2016 15:44:35] [Oxide] 15:44 [Info] [Notifier] There are 0/100 players playing in the server, and 1 sleepers.
+[03/19/2016 15:45:08] [Oxide] 15:45 [Info] [Notifier] Bokudo joined from Brazil
+[03/19/2016 15:45:08] 132.255.196.56:58958/76561197994523959/Bokudo joined [windows/76561197994523959]
+[03/19/2016 15:45:08] [Oxide] 15:45 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+[03/19/2016 15:45:26] Saved 3,971 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:45:26] Saving complete
+[03/19/2016 15:46:25] Saved 3,973 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:46:25] Saving complete
+[03/19/2016 15:47:25] Saved 3,972 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:47:25] Saving complete
+[03/19/2016 15:48:25] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:48:25] Saving complete
+[03/19/2016 15:49:25] Saved 3,971 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:49:25] Saving complete
+[03/19/2016 15:50:25] Saved 3,967 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:50:25] Saving complete
+[03/19/2016 15:50:37] [event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[03/19/2016 15:55:24] Saved 3,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:55:24] Saving complete
+[03/19/2016 15:56:24] Saved 3,973 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:56:24] Saving complete
+[03/19/2016 15:56:33] [Oxide] 15:56 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/19/2016 15:56:35] [Oxide] 15:56 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+[03/19/2016 15:57:24] Saved 3,973 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:57:24] Saving complete
+[03/19/2016 15:58:24] Saved 3,976 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/19/2016 15:58:24] Saving complete
+[03/19/2016 15:59:23] Saved 3,979 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 15:59:23] Saving complete
+[03/19/2016 16:00:23] Saved 3,979 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:00:23] Saving complete
+[03/19/2016 16:01:23] Saved 3,978 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:01:23] Saving complete
+[03/19/2016 16:02:00] [admin] giving Bokudo 1 x Building Plan
+[03/19/2016 16:02:23] Saved 3,979 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:02:23] Saving complete
+[03/19/2016 16:03:23] Saved 3,994 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:03:23] Saving complete
+[03/19/2016 16:03:28] [Oxide] 16:03 [Info] [Death Notes] Bokudo killed a Stag with a Hunting Bow from 17.58m.
+[03/19/2016 16:04:23] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:04:23] Saving complete
+[03/19/2016 16:05:22] Saved 4,000 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:05:22] Saving complete
+[03/19/2016 16:06:22] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:06:22] Saving complete
+[03/19/2016 16:07:22] Saved 3,991 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:07:22] Saving complete
+[03/19/2016 16:08:22] Saved 3,988 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:08:22] Saving complete
+[03/19/2016 16:08:33] [Oxide] 16:08 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+[03/19/2016 16:08:35] [Oxide] 16:08 [Info] [Notifier] You are playing on: [BR] DEFENDERS TESTE SERVER! X5!
+[03/19/2016 16:09:22] Saved 3,988 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:09:22] Saving complete
+[03/19/2016 16:10:22] Saved 3,988 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:10:22] Saving complete
+[03/19/2016 16:11:22] Saved 4,003 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:11:22] Saving complete
+[03/19/2016 16:12:21] Saved 4,001 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:12:21] Saving complete
+[03/19/2016 16:13:21] Saved 4,014 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:13:21] Saving complete
+[03/19/2016 16:14:21] Saved 4,006 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:14:21] Saving complete
+[03/19/2016 16:15:21] Saved 4,007 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:15:21] Saving complete
+[03/19/2016 16:16:18] [Oxide] 16:16 [Info] [Death Notes] Bokudo killed a Stag with a Hunting Bow from 14.19m.
+[03/19/2016 16:16:21] Saved 4,002 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:16:21] Saving complete
+[03/19/2016 16:17:04] [admin] giving Bokudo 1000 x Crude Oil
+[03/19/2016 16:17:06] [admin] giving Bokudo 1000 x Crude Oil
+[03/19/2016 16:17:21] Saved 3,996 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:17:21] Saving complete
+[03/19/2016 16:17:58] [admin] giving Bokudo 1000 x Wood
+[03/19/2016 16:18:21] Saved 3,995 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:18:21] Saving complete
+[03/19/2016 16:19:20] Saved 3,995 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:19:20] Saving complete
+[03/19/2016 16:20:20] Saved 3,987 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/19/2016 16:20:20] Saving complete
+[03/19/2016 16:20:29] [admin] giving Bokudo 1 x Low Grade Fuel
+[03/19/2016 16:20:30] [admin] giving Bokudo 501 x Low Grade Fuel
+[03/19/2016 16:20:33] [Oxide] 16:20 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/19/2016 16:20:35] [Oxide] 16:20 [Info] [Notifier] There are 1/100 players playing in the server, and 0 sleepers.
+[03/19/2016 16:21:20] Saved 3,988 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:21:20] Saving complete
+[03/19/2016 16:21:44] [Oxide] 16:21 [Debug]   at Oxide.Plugins.IGather.OnQuarryGather (.MiningQuarry quarry, .Item item) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.IGather.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+[03/19/2016 16:22:20] Saved 3,988 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:22:20] Saving complete
+[03/19/2016 16:22:23] [admin] giving Bokudo 1 x Empty Can Of Beans
+[03/19/2016 16:22:24] [admin] giving Bokudo 1 x Empty Can Of Beans
+[03/19/2016 16:22:35] [admin] giving Bokudo 1 x Cooked Wolf Meat
+[03/19/2016 16:22:35] [admin] giving Bokudo 1 x Cooked Wolf Meat
+[03/19/2016 16:22:36] [admin] giving Bokudo 1 x Cooked Wolf Meat
+[03/19/2016 16:22:36] [admin] giving Bokudo 1 x Cooked Wolf Meat
+[03/19/2016 16:23:20] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:23:20] Saving complete
+[03/19/2016 16:24:20] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:24:20] Saving complete
+[03/19/2016 16:25:20] Saved 4,008 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:25:20] Saving complete
+[03/19/2016 16:26:19] Saved 4,026 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:26:19] Saving complete
+[03/19/2016 16:27:19] Saved 4,043 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:27:19] Saving complete
+[03/19/2016 16:28:08] [admin] giving Bokudo 1 x Furnace
+[03/19/2016 16:28:16] [admin] giving Bokudo 1000 x High Quality Metal Ore
+[03/19/2016 16:28:19] Saved 4,034 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:28:19] Saving complete
+[03/19/2016 16:28:38] [admin] giving Bokudo 1000 x Wood
+[03/19/2016 16:29:19] Saved 4,014 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:29:19] Saving complete
+[03/19/2016 16:30:19] Saved 4,003 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:30:19] Saving complete
+[03/19/2016 16:31:19] Saved 3,999 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:31:19] Saving complete
+[03/19/2016 16:32:19] Saved 3,994 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:32:19] Saving complete
+[03/19/2016 16:32:33] [Oxide] 16:32 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+[03/19/2016 16:32:35] [Oxide] 16:32 [Info] [Notifier] Please avoid any insults and be respectful!
+[03/19/2016 16:33:18] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:33:18] Saving complete
+[03/19/2016 16:34:18] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:34:18] Saving complete
+[03/19/2016 16:35:00] [Oxide] 16:35 [Info] QuickSmelt was compiled successfully in 2018ms
+[03/19/2016 16:35:00] [Oxide] 16:35 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:35:00] [Oxide] 16:35 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:35:18] Saved 3,989 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:35:18] Saving complete
+[03/19/2016 16:36:18] Saved 3,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:36:18] Saving complete
+[03/19/2016 16:36:21] [Oxide] 16:36 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:36:21] [Oxide] 16:36 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:37:09] [Oxide] 16:37 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:37:09] [Oxide] 16:37 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:37:18] Saved 3,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:37:18] Saving complete
+[03/19/2016 16:37:46] [Oxide] 16:37 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:37:47] [Oxide] 16:37 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:38:18] Saved 3,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:38:18] Saving complete
+[03/19/2016 16:38:43] [Oxide] 16:38 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:38:43] [Oxide] 16:38 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:39:17] Saved 3,985 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:39:17] Saving complete
+[03/19/2016 16:39:25] [Oxide] 16:39 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:39:25] [Oxide] 16:39 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:40:08] [Oxide] 16:40 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:40:08] [Oxide] 16:40 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:40:17] Saved 3,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:40:17] Saving complete
+[03/19/2016 16:40:42] [Oxide] 16:40 [Info] Unloaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:40:42] [Oxide] 16:40 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/19/2016 16:41:17] Saved 3,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:41:17] Saving complete
+[03/19/2016 16:42:17] Saved 3,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:42:17] Saving complete
+[03/19/2016 16:43:03] [Oxide] 16:43 [Info] IGather was compiled successfully in 2131ms
+[03/19/2016 16:43:03] [Oxide] 16:43 [Info] Unloaded plugin IGather v0.0.8 by DylanSMR
+[03/19/2016 16:43:03] [Oxide] 16:43 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+[03/19/2016 16:43:10] [Oxide] 16:43 [Debug]   at Oxide.Plugins.IGather.OnQuarryGather (.MiningQuarry quarry, .Item item) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.IGather.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+[03/19/2016 16:43:17] Saved 3,985 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:43:17] Saving complete
+[03/19/2016 16:43:32] [admin] giving Bokudo 1 x Hatchet
+[03/19/2016 16:43:33] [admin] giving Bokudo 1 x Salvaged Icepick
+[03/19/2016 16:43:35] [admin] giving Bokudo 1 x Pick Axe
+[03/19/2016 16:43:48] [admin] giving Bokudo 1 x Stone Hatchet
+[03/19/2016 16:43:59] [admin] giving Bokudo 1 x Stone Pick Axe
+[03/19/2016 16:44:17] Saved 3,990 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:44:17] Saving complete
+[03/19/2016 16:44:33] [Oxide] 16:44 [Info] [Notifier v2.18.4] Type /map for the server map link.
+[03/19/2016 16:44:35] [Oxide] 16:44 [Info] [Notifier] There are 1/100 players playing in the server, and 0 sleepers.
+[03/19/2016 16:45:17] Saved 3,989 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:45:17] Saving complete
+[03/19/2016 16:46:16] Saved 3,989 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:46:16] Saving complete
+[03/19/2016 16:47:03] [event] assets/prefabs/npc/cargo plane/cargo_plane.prefab
+[03/19/2016 16:47:58] [Oxide] 16:47 [Info] StackSizeController was compiled successfully in 2002ms
+[03/19/2016 16:47:58] [Oxide] 16:47 [Info] Loaded plugin Stack Size Controller v1.9.0 by Waizujin
+[03/19/2016 16:50:32] [admin] giving Bokudo 1000 x Salvaged Axe
+[03/19/2016 16:51:26] Saved 4,001 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:51:26] Saving complete
+[03/19/2016 16:52:25] [event] assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+[03/19/2016 16:52:26] Saved 4,012 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:52:26] Saving complete
+[03/19/2016 16:53:26] Saved 4,013 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:53:26] Saving complete
+[03/19/2016 16:54:26] Saved 4,012 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:54:26] Saving complete
+[03/19/2016 16:55:26] Saved 4,004 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:55:26] Saving complete
+[03/19/2016 16:56:25] Saved 4,003 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:56:25] Saving complete
+[03/19/2016 16:56:33] [Oxide] 16:56 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+[03/19/2016 16:56:35] [Oxide] 16:56 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+[03/19/2016 16:57:25] Saved 4,011 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:57:25] Saving complete
+[03/19/2016 16:58:25] Saved 4,006 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:58:25] Saving complete
+[03/19/2016 16:59:25] Saved 4,011 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 16:59:25] Saving complete
+[03/19/2016 17:00:25] Saved 4,014 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 17:00:25] Saving complete
+[03/19/2016 17:01:25] Saved 4,011 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.00).
+[03/19/2016 17:01:25] Saving complete

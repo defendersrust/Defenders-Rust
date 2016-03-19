@@ -84,3 +84,183 @@
 3/16/2016 2:15:57 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
 3/16/2016 2:16:31 AM [Info] User status changed: 76561197998087180. Status: Authenticated Message: N/A
 03/16/2016 02:16:55 [Info] [UnregisterUser] GUID: 76561197994523959
+03/17/2016 00:56:12 [Info] [SetLogCallback] Procedure: 000000002168AFC0 LogLevel: Debug
+03/17/2016 00:56:12 [Info] [SetEACServer] Name: client
+3/17/2016 12:59:49 AM [Info] Back-end connection established.
+3/17/2016 12:59:50 AM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/17/2016 1:00:10 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:00:33 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:01:54 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:03:08 AM [Info] User status changed: 76561198117520766. Status: Authenticated Message: N/A
+3/17/2016 1:03:15 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:04:36 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:05:57 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:07:18 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:08:39 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:10:00 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 01:10:32 [Info] [UnregisterUser] GUID: 76561198117520766
+3/17/2016 1:11:21 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:12:42 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:14:03 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:15:24 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 01:16:35 [Info] [UnregisterUser] GUID: 76561197994523959
+03/17/2016 01:17:59 [Info] [SetLogCallback] Procedure: 000000001B82F070 LogLevel: Debug
+03/17/2016 01:17:59 [Info] [SetEACServer] Name: client
+03/17/2016 01:19:39 [Info] [SetLogCallback] Procedure: 000000001DAFC840 LogLevel: Debug
+03/17/2016 01:19:39 [Info] [SetEACServer] Name: client
+3/17/2016 1:21:36 AM [Info] Back-end connection established.
+3/17/2016 1:21:37 AM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/17/2016 1:21:57 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:22:18 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:23:39 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:25:00 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:26:21 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:27:42 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:29:03 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:30:24 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:31:45 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 01:32:04 [Info] [UnregisterUser] GUID: 76561197994523959
+03/17/2016 01:32:50 [Info] [SetLogCallback] Procedure: 000000000B8AC240 LogLevel: Debug
+03/17/2016 01:32:50 [Info] [SetEACServer] Name: client
+3/17/2016 1:33:30 AM [Info] Back-end connection established.
+3/17/2016 1:33:31 AM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/17/2016 1:33:51 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:34:12 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:35:33 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:36:54 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 01:37:39 [Info] [UnregisterUser] GUID: 76561197994523959
+3/17/2016 1:37:42 AM [Info] Back-end connection established.
+3/17/2016 1:37:43 AM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/17/2016 1:38:03 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:38:24 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:39:45 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:41:06 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:42:27 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:43:48 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:45:09 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:46:30 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:47:51 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:49:12 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:50:33 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:51:54 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:53:15 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:54:36 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:55:57 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:57:18 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 1:58:39 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:00:00 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 02:01:20 [Info] [UnregisterUser] GUID: 76561197994523959
+3/17/2016 2:01:21 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 02:02:54 [Info] [SetLogCallback] Procedure: 00000000183F37E0 LogLevel: Debug
+03/17/2016 02:02:54 [Info] [SetEACServer] Name: client
+3/17/2016 2:03:22 AM [Info] Back-end connection established.
+3/17/2016 2:03:23 AM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/17/2016 2:03:43 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:04:15 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:05:36 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:06:57 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:08:18 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:09:39 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/17/2016 2:11:00 AM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/17/2016 02:12:01 [Info] [UnregisterUser] GUID: 76561197994523959
+03/18/2016 21:05:06 [Info] [SetLogCallback] Procedure: 0000000020E07860 LogLevel: Debug
+03/18/2016 21:05:06 [Info] [SetEACServer] Name: client
+03/19/2016 16:38:22 [Info] [SetLogCallback] Procedure: 000000001D6C6B90 LogLevel: Debug
+03/19/2016 16:38:22 [Info] [SetEACServer] Name: client
+03/19/2016 16:43:04 [Info] [SetLogCallback] Procedure: 000000001F9B7280 LogLevel: Debug
+03/19/2016 16:43:04 [Info] [SetEACServer] Name: client
+3/19/2016 4:44:32 PM [Info] Back-end connection established.
+3/19/2016 4:44:33 PM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/19/2016 4:44:53 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:45:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:46:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:48:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:49:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:50:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:52:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:53:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:54:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:56:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:57:34 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 4:58:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:00:16 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:01:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:02:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:04:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:05:41 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:07:02 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:08:23 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:09:44 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:11:05 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:12:26 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/19/2016 17:12:34 [Info] [UnregisterUser] GUID: 76561197994523959
+3/19/2016 5:17:30 PM [Info] Back-end connection established.
+3/19/2016 5:17:31 PM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/19/2016 5:17:51 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:18:47 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 5:20:08 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/19/2016 17:20:15 [Info] [UnregisterUser] GUID: 76561197994523959
+03/19/2016 17:21:28 [Info] [SetLogCallback] Procedure: 000000001EE33110 LogLevel: Debug
+03/19/2016 17:21:28 [Info] [SetEACServer] Name: client
+3/19/2016 6:42:34 PM [Info] Back-end connection established.
+3/19/2016 6:42:35 PM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/19/2016 6:42:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:43:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:45:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:46:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:47:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:49:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:50:34 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:51:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:53:17 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:54:38 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:55:59 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:57:20 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 6:58:41 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:00:02 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:01:23 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:02:44 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:04:05 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:05:26 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:06:47 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:08:08 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:09:29 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:10:50 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:12:11 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:13:32 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:14:54 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:16:15 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:17:36 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:18:57 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:20:18 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:21:39 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:23:00 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:24:21 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:25:42 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:27:03 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:28:24 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:29:45 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:31:06 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:32:27 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:33:48 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:35:09 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:36:30 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:37:51 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:39:12 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:40:33 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:41:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:43:16 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:44:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:45:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:47:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:48:40 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:50:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:51:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:52:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:54:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:55:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:56:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:58:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 7:59:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 8:00:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/19/2016 8:02:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..

@@ -12,5 +12,8 @@
   "IG_SETA": "<color='#DD0000'>[IGather]You have set {0}'s ({1}) to {2}x.</color>",
   "IG_HELP": "<color='#DD0000'>[IGather]Possible Commands:</igather gather> Shows your current gather rate of all 3 types.",
   "IG_AHELP": "<color='#DD0000'>[IGather]Possible Commands:</igather set> Shows set help. | </igather default> Shows default help. | </igather defaultall> Sets all players gather rate to default. |</color>",
-  "IG_AAHELP": "<color='#DD0000'>[IGather]Possible Commands:</igather setall> Shows setall help. | </igather gatherp (player)> Shows the gather rate for a player.</color>"
+  "IG_AAHELP": "<color='#DD0000'>[IGather]Possible Commands:</igather setall> Shows setall help. | </igather gatherp (player)> Shows the gather rate for a player.</color>",
+  "IG_NOPERMS": "<color='#DD0000'>[IGather]You do not have any permissions for this command.</color>",
+  "IG_DEFAULTEDALL": "<color='#DD0000'>[IGather]{0} has reset everyones player data to the default! Do /igather gather to see your new gather rate.</color>",
+  "IG_SETTALL": "<color='#DD0000'>[IGather]{0} has set everyones ({1} data) to {2}.</color>"
 }

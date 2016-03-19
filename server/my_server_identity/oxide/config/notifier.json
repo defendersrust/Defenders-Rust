@@ -1,14 +1,22 @@
 {
+  "Advert Messages": [
+    "<orange>Need help?<end> Try calling for the <cyan>Admins<end> in the chat.",
+    "Please avoid any insults and be respectful!",
+    "Cheating or abusing of game exploits will result in a <red>permanent<end> ban.",
+    "You are playing on: <orange>{server.hostname}<end>",
+    "There are <orange>{players.active}<silver>/<end>{server.maxplayers} <silver>players playing in the server, and<end> {players.sleepers}<end> sleepers.",
+    "Check <cyan>Notifier's<end> with <orange>/notifier help<end> command."
+  ],
   "ADVERTS": [
-    "Want to know the available commands? Type <orange>/help<end>.",
-    "Respect the server <orange>/rules<end>.",
-    "This server is running <orange>Oxide 2<end>.",
-    "<red>Cheat is strictly prohibited.<end>",
+    "Quer saber os comandos disponiveis no servidor? Digite <orange>/help<end>.",
+    "Respeite as regras do servidor <orange>/rules<end>.",
+    "Este servidor usa os mods <orange>Oxide 2<end>.",
+    "<red>Cheats e Hacks sao proibidos.<end>",
     "Type <orange>/map<end> for the server map link.",
-    "You are playing on: <lime>{server.hostname}<end>",
-    "<orange>Players Online: <lime>{players}<end> / <lime>{server.maxplayers}<end> Sleepers: <lime>{sleepers}<end><end>",
-    "The game time is <lime>{gamedate} {gametime}<end>",
-    "The server time and date is <lime>{localdate} {localtime}<end>"
+    "Jogando: <lime>{server.hostname}<end>",
+    "<orange>Jogadores ON: <lime>{players}<end> / <lime>{server.maxplayers}<end> Folgados: <lime>{sleepers}<end><end>",
+    "Horario do Rust(Game) <lime>{gamedate} {gametime}<end>",
+    "Olha Hora!(Real) --> <lime>{localdate} {localtime}<end>"
   ],
   "COLORS": {
     "ADVERTS": "silver",
@@ -20,6 +28,40 @@
     "SCHEDULED MESSAGES": "silver",
     "SYSTEM": "white",
     "WELCOME MESSAGE": "silver"
+  },
+  "Commands": {
+    "Settings": {
+      "Admins List": false,
+      "Players Count": true,
+      "Players List": true,
+      "Plugins List": false,
+      "Server Map": false,
+      "Server MOTD": false,
+      "Server Rules": true
+    },
+    "Triggers": {
+      "Admins List": [
+        "/admins"
+      ],
+      "Players Count": [
+        "/online"
+      ],
+      "Players List": [
+        "/players"
+      ],
+      "Plugins List": [
+        "/plugins"
+      ],
+      "Server Map": [
+        "/map"
+      ],
+      "Server MOTD": [
+        "/motd"
+      ],
+      "Server Rules": [
+        "/rules"
+      ]
+    }
   },
   "COMMANDS": {
     "ADMINS LIST": "admins",
@@ -35,6 +77,27 @@
       "regles"
     ]
   },
+  "General Settings": {
+    "Adverts Interval (In Minutes)": 12,
+    "Broadcast To Console": true,
+    "Date Format": "{day}/{month}/{year}",
+    "Enable Advert Messages": true,
+    "Enable Chat Separators": true,
+    "Enable Icon Profile": false,
+    "Enable Join Message": true,
+    "Enable Leave Message": true,
+    "Enable Plugin Prefix": true,
+    "Enable Scheduled Messages": false,
+    "Enable Welcome Message": true,
+    "Hide Admins": false,
+    "Icon Profile": "76561198235146288",
+    "Notify Incoming Airdrop": false,
+    "Notify Incoming Helicopter": false,
+    "Prefix": "<white>[ <cyan>NOTIFIER<end> ]<end>",
+    "Rules Default Language": "auto",
+    "Time Format": "{hour}:{minute}:{second}"
+  },
+  "Message Of The Day": "We are using <cyan>Notifier<end> <grey>v3.0<end>, type <orange>/notifier help<end> for all its available commands.",
   "MESSAGES": {
     "ADMINS JOIN MESSAGE": "<#ADFF64>{username}<end> joined the server, from <orange>{country}<end>.",
     "ADMINS LEAVE MESSAGE": "<#ADFF64>{username}<end> left the server. (Reason: <white>{reason}<end>)",
@@ -68,6 +131,92 @@
     "SYNTAX ERROR": "Syntax Error: {syntax}"
   },
   "MOTD": "This server now has the new <yellow>Message Of The Day<end> feature provided by <cyan>Notifier<end>. Use <orange>/motd<end> to know server's daily news!",
+  "Rules": {
+    "DE": [
+      "Cheaten ist verboten!",
+      "Respektiere alle Spieler",
+      "Spam im Chat zu vermeiden.",
+      "Spiel fair und missbrauche keine Bugs oder Exploits."
+    ],
+    "DK": [
+      "Snyd er strengt forbudt.",
+      "Respekter alle spillere.",
+      "Undgå spam i chatten.",
+      "Spil fair og misbrug ikke bugs / exploits."
+    ],
+    "EN": [
+      "Cheating is strictly prohibited.",
+      "Respect all players",
+      "Avoid spam in chat.",
+      "Play fair and don't abuse of bugs/exploits."
+    ],
+    "ES": [
+      "Los trucos están terminantemente prohibidos.",
+      "Respeta a todos los jugadores.",
+      "Evita el Spam en el chat.",
+      "Juega limpio y no abuses de bugs/exploits."
+    ],
+    "FR": [
+      "Tricher est strictement interdit.",
+      "Respectez tous les joueurs.",
+      "Évitez le spam dans le chat.",
+      "Jouer juste et ne pas abuser des bugs / exploits."
+    ],
+    "HU": [
+      "Csalás szigorúan tilos.",
+      "Tiszteld minden játékostársad.",
+      "Kerüld a spammolást a chaten.",
+      "Játssz tisztességesen és nem élj vissza a hibákkal."
+    ],
+    "IT": [
+      "Cheating è severamente proibito.",
+      "Rispettare tutti i giocatori.",
+      "Evitare lo spam in chat.",
+      "Fair Play e non abusare di bug / exploit."
+    ],
+    "JP": [
+      "チート行為は固く禁じております。",
+      "全てのプレイヤーに敬意を払って下さい。",
+      "チャットでスパム行為はしないで下さい。",
+      "バグの悪用行為や公平なプレイはしないで下さい"
+    ],
+    "NL": [
+      "Vals spelen is ten strengste verboden.",
+      "Respecteer alle spelers",
+      "Vermijd spam in de chat.",
+      "Speel eerlijk en maak geen misbruik van bugs / exploits."
+    ],
+    "PT": [
+      "Usar cheats e totalmente proibido.",
+      "Respeita todos os jogadores.",
+      "Evita spam no chat.",
+      "Nao abuses de bugs ou exploits."
+    ],
+    "RO": [
+      "Cheaturile sunt strict interzise!",
+      "Respectați toți jucătorii!",
+      "Evitați spamul în chat!",
+      "Jucați corect și nu abuzați de bug-uri/exploituri!"
+    ],
+    "RU": [
+      "Запрещено использовать читы.",
+      "Запрещено спамить и материться.",
+      "Уважайте других игроков.",
+      "Играйте честно и не используйте баги и лазейки."
+    ],
+    "TR": [
+      "Hile kesinlikle yasaktır.",
+      "Tüm oyuncular Saygı.",
+      "Sohbet Spam kaçının.",
+      "Adil oynayın ve böcek / açıkları kötüye yok."
+    ],
+    "UA": [
+      "Обман суворо заборонено.",
+      "Поважайте всіх гравців",
+      "Щоб уникнути спаму в чаті.",
+      "Грати чесно і не зловживати помилки / подвиги."
+    ]
+  },
   "RULES": {
     "DE": [
       "Cheaten ist verboten!",
@@ -148,6 +297,14 @@
       "Грати чесно і не зловживати помилки / подвиги."
     ]
   },
+  "Schedule Messages": {
+    "22:00": [
+      "It is now <orange>{localtime.date} {localtime.now}<end> (Server local time)"
+    ],
+    "22:50": [
+      "It is now <orange>{localtime.now}<end> (Server local time)"
+    ]
+  },
   "SCHEDULED MESSAGES": {
     "00:00": [
       "It is now <lime>{localtime}<end> of <lime>{localdate}<end>"
@@ -191,5 +348,11 @@
     "<orange><size=20>•</size><end> Type <orange>/help<end> for all available commands.",
     "<orange><size=20>•</size><end> Check our server <orange>/rules<end>.",
     "<orange><size=20>•</size><end> See where you are on the server map at: <lime>http://{server.ip}:{server.port}<end>"
+  ],
+  "Welcome Messages": [
+    "<size=18>Welcome <lightblue>{player.name}<end></size>",
+    "<orange><size=20>•</size><end> Type <orange>/notifier help<end> for all available commands",
+    "<orange><size=20>•</size><end> Please respect our server <orange>/rules<end>",
+    "<orange><size=20>•</size><end> Check our live map at <lime>http://{server.ip}:{server.port}<end>"
   ]
 }

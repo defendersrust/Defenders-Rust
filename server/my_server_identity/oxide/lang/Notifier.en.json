@@ -1,0 +1,21 @@
+{
+  "Join Message": "<lightblue>{player.name} <silver>joined from<end> {player.country}<end>",
+  "Leave Message": "<lightblue>{player.name}<end> left the server",
+  "Incoming Airdrop": "<yellow>Airdrop <silver>incoming, drop coordinates are:<end> {x}, {y}, {z}<end>.",
+  "Incoming Helicopter": "<yellow>Patrol Helicoter<end> incoming!",
+  "No Admins Online": "There are no <cyan>Admins<end> currently online",
+  "Players List Description": "List of active players",
+  "Plugins List Description": "List of plugins running in the server",
+  "Admins List Description": "List of active Admins",
+  "Server Rules Description": "Displays server rules (In the player Steam language if set to automatic)",
+  "Server Map Description": "Shows the URL to the server live map (Rust:IO)",
+  "Server MOTD Description": "Shows the Message Of The Day",
+  "Players Count Description": "Counts active players, sleepers and admins of the server",
+  "Players List Title": "Players List",
+  "Plugins List Title": "Plugins List",
+  "Admins List Title": "Admins Online",
+  "Server Rules Title": "Server Rules",
+  "Server MOTD Title": "Message Of The Day",
+  "Server Map Message": "Check our live map at: <yellow>{server.ip}:{server.port}<end>",
+  "Players Count Message": "There are <orange>{players.active} <silver>of<end> {server.maxplayers}<end> <silver>players in the server, and <orange>{players.sleepers}<end> sleepers<end>"
+}

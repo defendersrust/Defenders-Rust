@@ -1,0 +1,392 @@
+21:55 [Info] Loading Oxide Core v2.0.1817...
+21:55 [Info] Loading extensions...
+21:55 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+21:55 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+21:55 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+21:55 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+21:55 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+21:55 [Info] Using Covalence provider for game 'Rust'
+21:55 [Info] Loading plugins...
+21:55 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+21:55 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+21:55 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+21:55 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+21:55 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+21:55 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+21:55 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+21:55 [Info] ﻿
+21:55 [Info] [Notifier v2.18.4] --------------------------------------------------
+21:55 [Info] [Notifier v2.18.4] * Starting timers:
+21:55 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+21:55 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+21:55 [Info] [Notifier v2.18.4] * Enabling commands:
+21:55 [Info] [Notifier v2.18.4]   - Map Link (/map)
+21:55 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+21:55 [Info] [Notifier v2.18.4]   - Players Online (/online)
+21:55 [Info] [Notifier v2.18.4]   - Players List (/players)
+21:55 [Info] [Notifier v2.18.4] --------------------------------------------------
+21:55 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2326ms
+21:55 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+21:55 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+21:55 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+21:55 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+21:55 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+21:55 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+21:55 [Info] Loaded plugin Kits v3.1.7 by Reneb
+21:55 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+21:55 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+21:56 [Info] Updating Rust:IO ...
+21:56 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+21:56 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+21:56 [Info]                  The owner check has temporarily been disabled to prevent problems.
+21:56 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+21:56 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+21:56 [Info]                  The friends check has temporarily been disabled to prevent problems.
+9:56 PM [Info] Rust:IO: Update complete
+21:56 [Info] Installing Rust:IO ...
+21:56 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+21:56 [Info] Rust:IO> Creating directories ...
+21:56 [Info] Rust:IO> Applying config ...
+21:56 [Info] Rust:IO> Initializing database ...
+21:56 [Info] Rust:IO> Map wipe detected, resetting map specific data
+21:56 [Info] Rust:IO> Generating map image (this may take a while) ...
+21:56 [Info] Rust:IO> Generated map image: took 7456.5329 ms, 449956 bytes
+21:56 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+21:56 [Info] Rust:IO> Installed.
+21:56 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 7947ms
+21:56 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 623ms
+21:56 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+22:01 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+22:03 [Info] [Notifier v2.18.4] OFFLINE joined the server, from Brazil.
+22:03 [Info] [Death Notes] OFFLINE had enough of life.
+22:03 [Info] [Death Notes] OFFLINE had enough of life.
+22:03 [Info] [Death Notes] OFFLINE had enough of life.
+22:04 [Info] [Death Notes] OFFLINE had enough of life.
+22:05 [Info] [Death Notes] OFFLINE had enough of life.
+22:07 [Info] [Notifier v2.18.4] The server time and date is 03/16/2016 22:07
+22:08 [Info] [Death Notes] OFFLINE killed a Boar with a Hatchet from 1.74m.
+22:10 [Info] [Notifier v2.18.4] OFFLINE left the server. (Reason: Disconnected)
+22:13 [Info] [Death Notes] Bokudo tried to swim.
+22:16 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Server Shutting Down)
+22:16 [Info] Loading Oxide Core v2.0.1817...
+22:16 [Info] Loading extensions...
+22:16 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:16 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+22:16 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+22:16 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+22:16 [Info] Using Covalence provider for game 'Rust'
+22:16 [Info] Loading plugins...
+22:16 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+22:16 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+22:16 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:16 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+22:16 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+22:16 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+22:16 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+22:16 [Info] ﻿
+22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:16 [Info] [Notifier v2.18.4] * Starting timers:
+22:16 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+22:16 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+22:16 [Info] [Notifier v2.18.4] * Enabling commands:
+22:16 [Info] [Notifier v2.18.4]   - Map Link (/map)
+22:16 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+22:16 [Info] [Notifier v2.18.4]   - Players Online (/online)
+22:16 [Info] [Notifier v2.18.4]   - Players List (/players)
+22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:16 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2356ms
+22:16 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+22:16 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+22:16 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+22:16 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+22:16 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+22:16 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+22:16 [Info] Loaded plugin Kits v3.1.7 by Reneb
+22:16 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+22:16 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+22:16 [Info] Loading Oxide Core v2.0.1817...
+22:16 [Info] Loading extensions...
+22:16 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:16 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+22:16 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+22:16 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+22:16 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+22:16 [Info] Using Covalence provider for game 'Rust'
+22:16 [Info] Loading plugins...
+22:16 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+22:16 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+22:16 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:16 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+22:16 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+22:16 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+22:16 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+22:16 [Info] ﻿
+22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:16 [Info] [Notifier v2.18.4] * Starting timers:
+22:16 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+22:16 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+22:16 [Info] [Notifier v2.18.4] * Enabling commands:
+22:16 [Info] [Notifier v2.18.4]   - Map Link (/map)
+22:16 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+22:16 [Info] [Notifier v2.18.4]   - Players Online (/online)
+22:16 [Info] [Notifier v2.18.4]   - Players List (/players)
+22:16 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:16 [Error] AFK plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] Clans plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] CraftingController plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] DeathNotes plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] IGather plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] InfoPanel plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] Kits plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] QuickSmelt plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:16 [Error] RemoverTool plugin failed to compile!
+22:16 [Error] Compiler disconnected.
+22:17 [Info] Updating Rust:IO ...
+22:17 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+22:17 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+22:17 [Info]                  The owner check has temporarily been disabled to prevent problems.
+22:17 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+22:17 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+22:17 [Info]                  The friends check has temporarily been disabled to prevent problems.
+10:18 PM [Info] Rust:IO: Update complete
+22:18 [Info] Installing Rust:IO ...
+22:18 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+22:18 [Info] Rust:IO> Creating directories ...
+22:18 [Info] Rust:IO> Applying config ...
+22:18 [Info] Rust:IO> Initializing database ...
+22:18 [Info] Rust:IO> Map wipe detected, resetting map specific data
+22:18 [Info] Rust:IO> Generating map image (this may take a while) ...
+22:18 [Info] Rust:IO> Generated map image: took 13482.3586 ms, 670175 bytes
+22:18 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+22:18 [Info] Rust:IO> Installed.
+22:18 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 14117ms
+22:18 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 666ms
+22:18 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+22:18 [Info] Loading Oxide Core v2.0.1817...
+22:18 [Info] Loading extensions...
+22:18 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:18 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+22:18 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+22:18 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+22:18 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+22:18 [Info] Using Covalence provider for game 'Rust'
+22:18 [Info] Loading plugins...
+22:18 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+22:18 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+22:18 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:18 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+22:18 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+22:18 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+22:18 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+22:18 [Info] ﻿
+22:18 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:18 [Info] [Notifier v2.18.4] * Starting timers:
+22:18 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+22:18 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+22:18 [Info] [Notifier v2.18.4] * Enabling commands:
+22:18 [Info] [Notifier v2.18.4]   - Map Link (/map)
+22:18 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+22:18 [Info] [Notifier v2.18.4]   - Players Online (/online)
+22:18 [Info] [Notifier v2.18.4]   - Players List (/players)
+22:18 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:18 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2440ms
+22:18 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+22:18 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+22:18 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+22:18 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+22:18 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+22:18 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+22:18 [Info] Loaded plugin Kits v3.1.7 by Reneb
+22:18 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+22:18 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+22:19 [Info] Updating Rust:IO ...
+22:19 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+22:19 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+22:19 [Info]                  The owner check has temporarily been disabled to prevent problems.
+22:19 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+22:19 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+22:19 [Info]                  The friends check has temporarily been disabled to prevent problems.
+10:19 PM [Info] Rust:IO: Update complete
+22:19 [Info] Installing Rust:IO ...
+22:19 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+22:19 [Info] Rust:IO> Creating directories ...
+22:19 [Info] Rust:IO> Applying config ...
+22:19 [Info] Rust:IO> Initializing database ...
+22:19 [Info] Rust:IO> Generating map image (this may take a while) ...
+22:19 [Info] Rust:IO> Generated map image: took 8951.7561 ms, 670175 bytes
+22:19 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+22:19 [Info] Rust:IO> Installed.
+22:19 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9120ms
+22:19 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 617ms
+22:19 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+22:22 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+22:30 [Info] [Notifier v2.18.4] You are playing on: [BR] DEFENDERS TEST SERVER!
+22:31 [Info] [Death Notes] A Bear followed Bokudo until it finally caught him.
+22:32 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Server Shutting Down)
+22:32 [Info] Loading Oxide Core v2.0.1817...
+22:32 [Info] Loading extensions...
+22:32 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:32 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+22:32 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+22:32 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+22:32 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+22:32 [Info] Using Covalence provider for game 'Rust'
+22:32 [Info] Loading plugins...
+22:32 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+22:32 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+22:32 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+22:32 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+22:32 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+22:32 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+22:32 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+22:32 [Info] ﻿
+22:32 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:32 [Info] [Notifier v2.18.4] * Starting timers:
+22:32 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+22:32 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+22:32 [Info] [Notifier v2.18.4] * Enabling commands:
+22:32 [Info] [Notifier v2.18.4]   - Map Link (/map)
+22:32 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+22:32 [Info] [Notifier v2.18.4]   - Players Online (/online)
+22:32 [Info] [Notifier v2.18.4]   - Players List (/players)
+22:32 [Info] [Notifier v2.18.4] --------------------------------------------------
+22:32 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2313ms
+22:32 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+22:32 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+22:32 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+22:32 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+22:32 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+22:32 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+22:32 [Info] Loaded plugin Kits v3.1.7 by Reneb
+22:32 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+22:32 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+22:32 [Info] Updating Rust:IO ...
+22:32 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+22:32 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+22:32 [Info]                  The owner check has temporarily been disabled to prevent problems.
+22:32 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+22:32 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+22:32 [Info]                  The friends check has temporarily been disabled to prevent problems.
+10:32 PM [Info] Rust:IO: Update complete
+22:32 [Info] Installing Rust:IO ...
+22:32 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+22:32 [Info] Rust:IO> Creating directories ...
+22:32 [Info] Rust:IO> Applying config ...
+22:32 [Info] Rust:IO> Initializing database ...
+22:32 [Info] Rust:IO> Generating map image (this may take a while) ...
+22:33 [Info] Rust:IO> Generated map image: took 8910.3225 ms, 670175 bytes
+22:33 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+22:33 [Info] Rust:IO> Installed.
+22:33 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9066ms
+22:33 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 665ms
+22:33 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+22:34 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+22:37 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+22:38 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+22:44 [Info] [Notifier v2.18.4] Players Online: 1 / 500 Sleepers: 0
+22:56 [Info] [Notifier v2.18.4] The server time and date is 03/16/2016 22:56
+23:01 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+23:02 [Info] Loading Oxide Core v2.0.1817...
+23:02 [Info] Loading extensions...
+23:02 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+23:02 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+23:02 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+23:02 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+23:02 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+23:02 [Info] Using Covalence provider for game 'Rust'
+23:02 [Info] Loading plugins...
+23:02 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+23:02 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+23:02 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+23:02 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+23:02 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+23:02 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+23:02 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+23:02 [Info] ﻿
+23:02 [Info] [Notifier v2.18.4] --------------------------------------------------
+23:02 [Info] [Notifier v2.18.4] * Starting timers:
+23:02 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+23:02 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+23:02 [Info] [Notifier v2.18.4] * Enabling commands:
+23:02 [Info] [Notifier v2.18.4]   - Map Link (/map)
+23:02 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+23:02 [Info] [Notifier v2.18.4]   - Players Online (/online)
+23:02 [Info] [Notifier v2.18.4]   - Players List (/players)
+23:02 [Info] [Notifier v2.18.4] --------------------------------------------------
+23:02 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, QuickSmelt and RemoverTool were compiled successfully in 2292ms
+23:02 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+23:02 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+23:02 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+23:02 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+23:02 [Info] Loaded plugin IGather v0.0.3 by DylanSMR
+23:02 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+23:02 [Info] Loaded plugin Kits v3.1.7 by Reneb
+23:02 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+23:02 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+23:02 [Info] Updating Rust:IO ...
+23:02 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+23:02 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+23:02 [Info]                  The owner check has temporarily been disabled to prevent problems.
+23:02 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+23:02 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+23:02 [Info]                  The friends check has temporarily been disabled to prevent problems.
+11:02 PM [Info] Rust:IO: Update complete
+23:02 [Info] Installing Rust:IO ...
+23:02 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+23:02 [Info] Rust:IO> Creating directories ...
+23:02 [Info] Rust:IO> Applying config ...
+23:02 [Info] Rust:IO> Initializing database ...
+23:02 [Info] Rust:IO> Generating map image (this may take a while) ...
+23:03 [Info] Rust:IO> Generated map image: took 8704.8573 ms, 670175 bytes
+23:03 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+23:03 [Info] Rust:IO> Installed.
+23:03 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8858ms
+23:03 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 645ms
+23:03 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+23:03 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+23:12 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
