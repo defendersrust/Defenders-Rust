@@ -83,7 +83,7 @@
     "ProgressInterval": "25",
     "RoundPercent": "true",
     "ShowDisconnectVotes": "true",
-    "ShowPlayerVotes": "false",
+    "ShowPlayerVotes": "true",
     "ShowProgress": "true",
     "ShowTimeChanges": "true",
     "UsePermissions": "true",

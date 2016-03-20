@@ -1,13 +1,13 @@
 {
   "CompassDirections": {
-    "e": "East",
-    "n": "North",
-    "ne": "Northeast",
-    "nw": "Northwest",
-    "s": "South",
-    "se": "Southeast",
-    "sw": "Southwest",
-    "w": "West"
+    "e": "Leste",
+    "n": "Norte",
+    "ne": "Nordeste",
+    "nw": "Noroeste",
+    "s": "Sul",
+    "se": "Sudeste",
+    "sw": "Sudoeste",
+    "w": "Oeste"
   },
   "Docks": {
     "BottomDock": {
@@ -30,9 +30,9 @@
     }
   },
   "Messages": [
-    "Bem-Vindo! Keep Calm and BRBR Hue Hue?!",
-    "Cuidado! Você não está sozinho ou está?!",
-    "Olha o ursooooooo!"
+    "Bem-Vindo! Chame os amigos e venha pro Defenders?!",
+    "/kits para ver os kits",
+    "/clan para criar um clan!"
   ],
   "Panels": {
     "AirdropEvent": {

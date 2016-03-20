@@ -188,3 +188,127 @@
 [03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/red/tshirt.red.itemskin.asset
 [03/19/2016 16:48:09] [BUNDLE] Not found in bundle: assets/prefabs/clothes/tshirt/urbancamo/tshirt.urbancamo.itemskin.asset
 [03/19/2016 16:48:09] [Oxide] 16:48 [Warning] [Stack Size Controller] Updating configuration file with new values.
+[03/19/2016 17:07:55] [Oxide] 17:07 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/19/2016 17:07:55] [Oxide] 17:07 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/19/2016 17:07:55] [Oxide] 17:07 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/19/2016 17:07:55] [Oxide] 17:07 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/19/2016 17:09:09] [Oxide] 17:09 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/19/2016 17:09:09] [Oxide] 17:09 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/19/2016 17:09:09] [Oxide] 17:09 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/19/2016 17:09:09] [Oxide] 17:09 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/19/2016 17:09:40] Couldn't load server/my_server_identity/save/Procedural Map_3000_12345/0.sav - file doesn't exist
+[03/19/2016 17:09:43] Missing EnvSync - creating
+[03/19/2016 17:09:56] [Oxide] 17:09 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9295ms
+[03/19/2016 17:09:56] [Oxide] 17:09 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 591ms
+[03/19/2016 17:15:05] [Oxide] 17:15 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/19/2016 17:15:05] [Oxide] 17:15 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/19/2016 17:15:05] [Oxide] 17:15 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/19/2016 17:15:05] [Oxide] 17:15 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/19/2016 17:15:56] [Oxide] 17:15 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 11270ms
+[03/19/2016 17:15:56] [Oxide] 17:15 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 598ms
+[03/19/2016 19:16:45] [Oxide] 19:16 [Warning] CallHook 'OnPlayerInit' on plugin 'RustIO v2.8.0' took: 506ms
+[03/19/2016 19:20:26] [Oxide] 19:20 [Warning] [EconomicsBalanceGUI] Plugin is loading default configuration.
+[03/19/2016 19:20:26] [Oxide] 19:20 [Warning] [EconomicsBalanceGUI] Plugin is loading default configuration.
+[03/19/2016 19:32:42] [Oxide] 19:32 [Warning] [Updater] Generating new config file...
+[03/19/2016 19:32:49] [Oxide] 19:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+[03/19/2016 20:32:48] [Oxide] 20:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+[03/19/2016 21:32:46] [Oxide] 21:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+[03/19/2016 22:32:46] [Oxide] 22:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+[03/19/2016 23:32:51] [Oxide] 23:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 00:32:48] [Oxide] 00:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 01:32:12] [Oxide] 01:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 02:32:12] [Oxide] 02:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 03:32:12] [Oxide] 03:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 04:32:12] [Oxide] 04:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 05:32:12] [Oxide] 05:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 06:32:12] [Oxide] 06:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 07:32:11] [Oxide] 07:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 08:32:12] [Oxide] 08:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 09:32:12] [Oxide] 09:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 10:32:12] [Oxide] 10:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+

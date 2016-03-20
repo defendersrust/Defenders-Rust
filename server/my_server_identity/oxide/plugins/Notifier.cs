@@ -112,7 +112,7 @@ namespace Oxide.Plugins
 
             #region General Settings
 
-            Prefix = GetConfig<string>("General Settings", "Prefix", "<white>[ <cyan>NOTICIAS<end> ]<end>");
+            Prefix = GetConfig<string>("General Settings", "Prefix", "<white>[ <cyan>NOTIFIER<end> ]<end>");
             EnablePluginPrefix = GetConfig<bool>("General Settings", "Enable Plugin Prefix", true);
             EnableIconProfile = GetConfig<bool>("General Settings", "Enable Icon Profile", false);
             IconProfile = GetConfig<string>("General Settings", "Icon Profile", "76561198235146288");

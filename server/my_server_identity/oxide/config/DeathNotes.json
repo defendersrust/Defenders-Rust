@@ -1,50 +1,61 @@
 {
   "Attachments": {},
   "Bodyparts": {
-    "Body": "Body"
+    "Body": "Corpo",
+    "Chest": "Peito",
+    "Head": "Cabeça",
+    "Left Arm": "Braço Esquerdo",
+    "Left Forearm": "Left Forearm",
+    "Left Hand": "Left Hand",
+    "Left Knee": "Joelho Esquerdo",
+    "Neck": "Neck",
+    "Pelvis": "Pelvis",
+    "Right Eye": "Right Eye",
+    "Right Forearm": "Right Forearm",
+    "Right Shoulder": "Ombro Direito"
   },
   "Messages": {
     "Animal": [
-      "A {attacker} followed {victim} until it finally caught him."
+      "{attacker} foi seguindo {victim} até esquarteja-lo.. hue"
     ],
     "Animal Sleeping": [
-      "{victim} was killed by a {attacker} while having a sleep."
+      "{victim} foi morto por {attacker} enquanto dormia."
     ],
     "AnimalDeath": [
-      "{attacker} killed a {victim} with a {weapon}{attachments} from {distance}m."
+      "{attacker} matou um {victim} com {weapon}{attachments} á {distance}m."
     ],
     "Bleeding": [
-      "{victim} bled out."
+      "{victim} sangrando."
     ],
     "Blunt": [
-      "{attacker} used a {weapon} to knock {victim} out."
+      "{attacker} usou {weapon} para bater {victim}."
     ],
     "Blunt Sleeping": [
-      "{attacker} used a {weapon} to turn {victim}'s dream into a nightmare."
+      "{attacker} usou {weapon} para tornar os sonhos de {victim}'s em pesadelos. kkkkk"
     ],
     "Bullet": [
-      "{victim} was shot in the {bodypart} by {attacker} with a {weapon}{attachments} from {distance}m."
+      "{victim} foi baleado {bodypart} por {attacker} com {weapon}{attachments} á {distance}m."
     ],
     "Bullet Sleeping": [
-      "Sleeping {victim} was shot in the {bodypart} by {attacker} with a {weapon}{attachments} from {distance}m."
+      "{victim} estava dormindo e foi baleado {bodypart} pelo louco {attacker} com uma {weapon}{attachments} á {distance}m. Porque tem balas sobrando pelo jeito..."
     ],
     "Cold": [
-      "{victim} became an iceblock."
+      "{victim} achou que era o Sub-Zero e chegou ao zero absoluto."
     ],
     "Drowned": [
-      "{victim} tried to swim."
+      "{victim} achou que sabia nadar. Opss!"
     ],
     "Explosion": [
-      "{victim} was shredded by {attacker}'s {weapon}"
+      "{victim} Olha a bombaaaa... {attacker}'s {weapon}"
     ],
     "Explosion Sleeping": [
-      "{victim} was shredded by {attacker}'s {weapon} while sleeping."
+      "{victim} Olha bombaaa... {attacker}'s {weapon} dormiu, morreu."
     ],
     "Fall": [
-      "{victim} did a header into the ground."
+      "{victim} achou que sabia voar. Mais Deus te deu braços e não asas."
     ],
     "Generic": [
-      "The death took {victim} with him."
+      "A morte levou {victim} com ele."
     ],
     "Generic Sleeping": [
       "The death took sleeping {victim} with him."
@@ -105,11 +116,14 @@
     ]
   },
   "Names": {
-    "Bear": "Bear",
-    "Boar": "Boar",
+    "Bear": "Urso",
+    "Boar": "Javali",
+    "Chicken": "Galinha",
+    "Horse": "Cavalo",
     "No Attacker": "No Attacker",
-    "Stag": "Stag",
-    "Wolf": "Wolf"
+    "Patrol Helicopter": "Helicóptero",
+    "Stag": "Veado",
+    "Wolf": "Lobo"
   },
   "Settings": {
     "Attachments Color": "#C4FF00",
@@ -144,9 +158,19 @@
     "Write to Console": true
   },
   "Weapons": {
-    "Hatchet": "Hatchet",
-    "Hunting Bow": "Hunting Bow",
-    "No Weapon": "No Weapon",
-    "Wooden Spear": "Wooden Spear"
+    "Assault Rifle": "Assault Rifle",
+    "Bolt Action Rifle": "Rifle de Precisão",
+    "Crossbow": "Besta",
+    "Eoka Pistol": "Eoka Pistol",
+    "Hatchet": "Machadinha",
+    "Hunting Bow": "Arco de Caça",
+    "No Weapon": "Porrada",
+    "Stone Hatchet": "Pedra",
+    "Stone Pick Axe": "Picareta de Pedra",
+    "Stone Pickaxe": "Stone Pickaxe",
+    "Thompson": "Thompson",
+    "Torch": "Torch",
+    "Waterpipe Shotgun": "Escopeta Caseira",
+    "Wooden Spear": "Lança de Madeira"
   }
 }

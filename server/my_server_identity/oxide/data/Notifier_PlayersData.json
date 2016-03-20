@@ -1,10 +1,154 @@
 {
   "76561197994523959": {
-    "isadmin": false,
+    "isadmin": true,
     "steamid": "76561197994523959",
     "ipaddress": "132.255.196.56",
     "country": "Brazil",
     "username": "Bokudo",
+    "countrycode": "BR"
+  },
+  "76561198084239784": {
+    "isadmin": false,
+    "steamid": "76561198084239784",
+    "ipaddress": "191.222.48.203",
+    "country": "Brazil",
+    "username": "ZezinhoGaming",
+    "countrycode": "BR"
+  },
+  "76561198077422497": {
+    "isadmin": false,
+    "steamid": "76561198077422497",
+    "ipaddress": "179.104.199.20",
+    "country": "Brazil",
+    "username": "Ssephyroth",
+    "countrycode": "BR"
+  },
+  "76561198121019368": {
+    "isadmin": false,
+    "steamid": "76561198121019368",
+    "ipaddress": "179.126.45.14",
+    "country": "Brazil",
+    "username": "Shadowkyl",
+    "countrycode": "BR"
+  },
+  "76561198117520766": {
+    "isadmin": false,
+    "steamid": "76561198117520766",
+    "ipaddress": "177.140.52.12",
+    "country": "Brazil",
+    "username": "OFFLINE",
+    "countrycode": "BR"
+  },
+  "76561198083209880": {
+    "isadmin": false,
+    "steamid": "76561198083209880",
+    "ipaddress": "191.54.236.31",
+    "country": "Brazil",
+    "username": "ShadowFoxx",
+    "countrycode": "BR"
+  },
+  "76561198150549051": {
+    "isadmin": false,
+    "steamid": "76561198150549051",
+    "ipaddress": "187.59.89.228",
+    "country": "Brazil",
+    "username": "leo",
+    "countrycode": "BR"
+  },
+  "76561198071502174": {
+    "isadmin": false,
+    "steamid": "76561198071502174",
+    "ipaddress": "179.180.212.195",
+    "country": "Brazil",
+    "username": "Kronovi CSGODUCK.COM",
+    "countrycode": "BR"
+  },
+  "76561198095820047": {
+    "isadmin": false,
+    "steamid": "76561198095820047",
+    "ipaddress": "177.99.10.196",
+    "country": "Brazil",
+    "username": "Junio",
+    "countrycode": "BR"
+  },
+  "76561198048394402": {
+    "isadmin": false,
+    "steamid": "76561198048394402",
+    "ipaddress": "177.93.130.168",
+    "country": "Brazil",
+    "username": "patrickfbraz",
+    "countrycode": "BR"
+  },
+  "76561198212411764": {
+    "isadmin": false,
+    "steamid": "76561198212411764",
+    "ipaddress": "190.108.101.222",
+    "country": "Brazil",
+    "username": "Fzn",
+    "countrycode": "BR"
+  },
+  "76561198259876988": {
+    "isadmin": false,
+    "steamid": "76561198259876988",
+    "ipaddress": "190.113.185.127",
+    "country": "Argentina",
+    "username": "♛iluminati♛",
+    "countrycode": "AR"
+  },
+  "76561198065949753": {
+    "isadmin": false,
+    "steamid": "76561198065949753",
+    "ipaddress": "177.71.39.191",
+    "country": "Brazil",
+    "username": "Desconhecido",
+    "countrycode": "BR"
+  },
+  "76561198075515574": {
+    "isadmin": false,
+    "steamid": "76561198075515574",
+    "ipaddress": "177.42.152.204",
+    "country": "Brazil",
+    "username": "Sr.Pato",
+    "countrycode": "BR"
+  },
+  "76561198291672099": {
+    "isadmin": false,
+    "steamid": "76561198291672099",
+    "ipaddress": "187.19.165.127",
+    "country": "Brazil",
+    "username": "Carrasco",
+    "countrycode": "BR"
+  },
+  "76561198105205002": {
+    "isadmin": false,
+    "steamid": "76561198105205002",
+    "ipaddress": "177.183.235.204",
+    "country": "Brazil",
+    "username": "--",
+    "countrycode": "BR"
+  },
+  "76561198256851391": {
+    "isadmin": false,
+    "steamid": "76561198256851391",
+    "ipaddress": "177.37.195.168",
+    "country": "Brazil",
+    "username": "ChicoPorolata",
+    "countrycode": "BR"
+  },
+  "76561198065999433": {
+    "isadmin": false,
+    "steamid": "76561198065999433",
+    "ipaddress": "191.248.94.0",
+    "country": "Brazil",
+    "username": "DUCIONI-SC",
+    "countrycode": "BR"
+  },
+  "76561198047015659": {
+    "isadmin": false,
+    "steamid": "76561198047015659",
+    "ipaddress": "187.102.5.59",
+    "country": "Brazil",
+    "username": "Tsadkiel",
     "countrycode": "BR"
   }
 }

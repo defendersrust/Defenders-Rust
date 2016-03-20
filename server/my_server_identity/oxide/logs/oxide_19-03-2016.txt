@@ -288,3 +288,616 @@
 16:48 [Warning] [Stack Size Controller] Updating configuration file with new values.
 16:56 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
 16:56 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+17:04 [Info] Loading Oxide Core v2.0.1817...
+17:04 [Info] Loading extensions...
+17:04 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:04 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+17:04 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+17:04 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+17:04 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+17:04 [Info] Using Covalence provider for game 'Rust'
+17:04 [Info] Loading plugins...
+17:04 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+17:04 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+17:04 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:04 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+17:04 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+17:04 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+17:04 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+17:04 [Info] ﻿
+17:04 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:04 [Info] [Notifier v2.18.4] * Starting timers:
+17:04 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+17:04 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+17:04 [Info] [Notifier v2.18.4] * Enabling commands:
+17:04 [Info] [Notifier v2.18.4]   - Map Link (/map)
+17:04 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+17:04 [Info] [Notifier v2.18.4]   - Players Online (/online)
+17:04 [Info] [Notifier v2.18.4]   - Players List (/players)
+17:04 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:04 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, Notifier, QuickSmelt, RemoverTool and StackSizeController were compiled successfully in 2319ms
+17:04 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+17:04 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+17:04 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+17:04 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+17:04 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+17:04 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+17:04 [Info] Loaded plugin Kits v3.1.7 by Reneb
+17:04 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+17:04 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+17:04 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+17:04 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+17:04 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+17:04 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+17:04 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+17:04 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+17:04 [Info] Loaded plugin Stack Size Controller v1.9.0 by Waizujin
+17:07 [Info] Loading Oxide Core v2.0.1817...
+17:07 [Info] Loading extensions...
+17:07 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:07 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+17:07 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+17:07 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+17:07 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+17:07 [Info] Using Covalence provider for game 'Rust'
+17:07 [Info] Loading plugins...
+17:07 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+17:07 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+17:07 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:07 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+17:07 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+17:07 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+17:07 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+17:07 [Info] ﻿
+17:07 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:07 [Info] [Notifier v2.18.4] * Starting timers:
+17:07 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+17:07 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+17:07 [Info] [Notifier v2.18.4] * Enabling commands:
+17:07 [Info] [Notifier v2.18.4]   - Map Link (/map)
+17:07 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+17:07 [Info] [Notifier v2.18.4]   - Players Online (/online)
+17:07 [Info] [Notifier v2.18.4]   - Players List (/players)
+17:07 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:07 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, Notifier, QuickSmelt, RemoverTool and StackSizeController were compiled successfully in 2343ms
+17:07 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+17:07 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+17:07 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+17:07 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+17:07 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+17:07 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+17:07 [Info] Loaded plugin Kits v3.1.7 by Reneb
+17:07 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+17:07 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+17:07 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+17:07 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+17:07 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+17:07 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+17:07 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+17:07 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+17:07 [Info] Loaded plugin Stack Size Controller v1.9.0 by Waizujin
+17:08 [Info] Loading Oxide Core v2.0.1817...
+17:08 [Info] Loading extensions...
+17:08 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:08 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+17:08 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+17:09 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+17:09 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+17:09 [Info] Using Covalence provider for game 'Rust'
+17:09 [Info] Loading plugins...
+17:09 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+17:09 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+17:09 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:09 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+17:09 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+17:09 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+17:09 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+17:09 [Info] ﻿
+17:09 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:09 [Info] [Notifier v2.18.4] * Starting timers:
+17:09 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+17:09 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+17:09 [Info] [Notifier v2.18.4] * Enabling commands:
+17:09 [Info] [Notifier v2.18.4]   - Map Link (/map)
+17:09 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+17:09 [Info] [Notifier v2.18.4]   - Players Online (/online)
+17:09 [Info] [Notifier v2.18.4]   - Players List (/players)
+17:09 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:09 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, Notifier, QuickSmelt, RemoverTool and StackSizeController were compiled successfully in 2316ms
+17:09 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+17:09 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+17:09 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+17:09 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+17:09 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+17:09 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+17:09 [Info] Loaded plugin Kits v3.1.7 by Reneb
+17:09 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+17:09 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+17:09 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+17:09 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+17:09 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+17:09 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+17:09 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+17:09 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+17:09 [Info] Loaded plugin Stack Size Controller v1.9.0 by Waizujin
+17:09 [Info] Updating Rust:IO ...
+17:09 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+17:09 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+17:09 [Info]                  The owner check has temporarily been disabled to prevent problems.
+17:09 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+17:09 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+17:09 [Info]                  The friends check has temporarily been disabled to prevent problems.
+5:09 PM [Info] Rust:IO: Update complete
+17:09 [Info] Installing Rust:IO ...
+17:09 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+17:09 [Info] Rust:IO> Creating directories ...
+17:09 [Info] Rust:IO> Applying config ...
+17:09 [Info] Rust:IO> Initializing database ...
+17:09 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:09 [Info] Rust:IO> Generated map image: took 9135.0597 ms, 670175 bytes
+17:09 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+17:09 [Info] Rust:IO> Installed.
+17:09 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9295ms
+17:09 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 591ms
+17:09 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+17:14 [Info] Loading Oxide Core v2.0.1817...
+17:14 [Info] Loading extensions...
+17:14 [Info] Loaded extension CSharp v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension JavaScript v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension Lua v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension MySql v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension Python v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:14 [Info] Loaded extension SQLite v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension Unity v1.0.1817 by Oxide Team
+17:14 [Info] Loaded extension Rust v1.0.1817 by Oxide Team
+17:14 [Debug] Cleanup file: E:\rust_final\mono-2.0.dll
+17:14 [Debug] Cleanup file: E:\rust_final\msvcr120.dll
+17:14 [Info] Using Covalence provider for game 'Rust'
+17:14 [Info] Loading plugins...
+17:14 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+17:14 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+17:14 [Info] Loaded plugin Rust:IO for Oxide v2.8.0 by playrust.io / dcode
+17:14 [Info] Loaded plugin Day Vote v1.1.1 by InSaNe8472
+17:14 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+17:14 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+17:14 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+17:14 [Info] ﻿
+17:14 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:14 [Info] [Notifier v2.18.4] * Starting timers:
+17:14 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+17:14 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+17:14 [Info] [Notifier v2.18.4] * Enabling commands:
+17:14 [Info] [Notifier v2.18.4]   - Map Link (/map)
+17:14 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+17:14 [Info] [Notifier v2.18.4]   - Players Online (/online)
+17:14 [Info] [Notifier v2.18.4]   - Players List (/players)
+17:14 [Info] [Notifier v2.18.4] --------------------------------------------------
+17:14 [Info] AFK, Clans, CraftingController, DeathNotes, IGather, InfoPanel, Kits, Notifier, QuickSmelt, RemoverTool and StackSizeController were compiled successfully in 2525ms
+17:15 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+17:15 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+17:15 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+17:15 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+17:15 [Info] Loaded plugin IGather v0.0.8 by DylanSMR
+17:15 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+17:15 [Info] Loaded plugin Kits v3.1.7 by Reneb
+17:15 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+17:15 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+17:15 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+17:15 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+17:15 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+17:15 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+17:15 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+17:15 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+17:15 [Info] Loaded plugin Stack Size Controller v1.9.0 by Waizujin
+17:15 [Info] Updating Rust:IO ...
+17:15 [Info] m-Teleportation: To limit Homes to only be set on foundations owned by the player the plugin `Building Owners` is required!
+17:15 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/building-owners.682/
+17:15 [Info]                  The owner check has temporarily been disabled to prevent problems.
+17:15 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+17:15 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+17:15 [Info]                  The friends check has temporarily been disabled to prevent problems.
+5:15 PM [Info] Rust:IO: Update complete
+17:15 [Info] Installing Rust:IO ...
+17:15 [Info] Rust:IO> Setting up Rust:IO 2.0.5906.40886 (using max. 4 threads) ...
+17:15 [Info] Rust:IO> Creating directories ...
+17:15 [Info] Rust:IO> Applying config ...
+17:15 [Info] Rust:IO> Initializing database ...
+17:15 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:15 [Info] Rust:IO> Generated map image: took 11092.5425 ms, 670175 bytes
+17:15 [Info] Rust:IO> Starting HTTP server on 192.168.0.107:28015 ...
+17:15 [Info] Rust:IO> Installed.
+17:15 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 11270ms
+17:15 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 598ms
+17:15 [Info] Rust:IO> External IP address obtained from lookup: 132.255.196.56
+17:24 [Info] [IGather] Bokudo was given the player default rates.
+17:24 [Info] [Notifier] Bokudo joined from Brazil
+17:24 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+17:26 [Info] [Notifier v2.18.4] Jogando: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+17:27 [Info] [Notifier] Check Notifier's with /notifier help command.
+17:38 [Info] [Notifier v2.18.4] Jogadores ON: 1 / 100 Folgados: 0
+17:39 [Info] [Notifier] Please avoid any insults and be respectful!
+17:43 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+17:43 [Info] [Notifier] Bokudo left the server
+17:50 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/25/2024 23:50:37
+17:51 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+18:02 [Info] [IGather] ZezinhoGaming was given the player default rates.
+18:02 [Info] [Notifier v2.18.4] ZezinhoGaming joined the server, from Brazil.
+18:02 [Info] [Notifier] ZezinhoGaming joined from Brazil
+18:02 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+18:03 [Info] [Notifier] Please avoid any insults and be respectful!
+18:14 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/26/2024 12:26:47
+18:15 [Info] [Notifier] There are 1/100 players playing in the server, and 1 sleepers.
+18:21 [Info] [Death Notes] ZezinhoGaming killed a Horse with a Hunting Bow from 13.69m.
+18:22 [Info] [Death Notes] ZezinhoGaming killed a Stag with a Hunting Bow from 12.96m.
+18:23 [Info] [Death Notes] ZezinhoGaming killed a Wolf with a Hunting Bow from 2.09m.
+18:26 [Info] [Notifier v2.18.4] Olha Hora!(Real) --> 03/19/2016 18:26
+18:27 [Info] [Notifier] Need help? Try calling for the Admins in the chat.
+18:33 [Info] [Notifier v2.18.4] ZezinhoGaming left the server. (Reason: Disconnected)
+18:33 [Info] [Notifier] ZezinhoGaming left the server
+18:38 [Info] [Notifier v2.18.4] ZezinhoGaming joined the server, from Brazil.
+18:38 [Info] [Notifier] ZezinhoGaming joined from Brazil
+18:38 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+18:39 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+18:49 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
+18:49 [Debug]   at Oxide.Plugins.Notifier.Plugin_Command (.BasePlayer player, System.String command, System.String[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+18:49 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
+18:49 [Debug]   at Oxide.Plugins.Notifier.Plugin_Command (.BasePlayer player, System.String command, System.String[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+18:50 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/26/2024 23:57:29
+18:51 [Info] [Notifier] Please avoid any insults and be respectful!
+18:54 [Info] [Notifier v2.18.4] ZezinhoGaming left the server. (Reason: Disconnected)
+18:54 [Info] [Notifier] ZezinhoGaming left the server
+19:00 [Info] [Notifier v2.18.4] ZezinhoGaming joined the server, from Brazil.
+19:00 [Info] [Notifier] ZezinhoGaming joined from Brazil
+19:01 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
+19:01 [Debug]   at Oxide.Plugins.Notifier.Plugin_Command (.BasePlayer player, System.String command, System.String[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+19:02 [Info] [IGather] Ssephyroth was given the player default rates.
+19:02 [Info] [Notifier v2.18.4] Ssephyroth joined the server, from Brazil.
+19:02 [Info] [Notifier] Ssephyroth joined from Brazil
+19:02 [Info] [Notifier v2.18.4] Jogando: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+19:03 [Info] [Notifier] You are playing on: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+19:04 [Info] [Death Notes] A Bear followed ZezinhoGaming until it finally caught him.
+19:10 [Info] [IGather] Shadowkyl was given the player default rates.
+19:10 [Info] [Notifier v2.18.4] Shadowkyl joined the server, from Brazil.
+19:10 [Info] [Notifier] Shadowkyl joined from Brazil
+19:13 [Info] [Notifier v2.18.4] ZezinhoGaming left the server. (Reason: Disconnected)
+19:13 [Info] [Notifier] ZezinhoGaming left the server
+19:14 [Info] [Notifier v2.18.4] Olha Hora!(Real) --> 03/19/2016 19:14
+19:15 [Info] [Notifier] Check Notifier's with /notifier help command.
+19:16 [Warning] CallHook 'OnPlayerInit' on plugin 'RustIO v2.8.0' took: 506ms
+19:16 [Info] [Notifier v2.18.4] ZezinhoGaming joined the server, from Brazil.
+19:16 [Info] [Notifier] ZezinhoGaming joined from Brazil
+19:18 [Info] Loaded plugin Shop v1.1.0 by Bombardir
+19:18 [Info] This Shop requires Economics! Please install: http://forum.rustoxide.com/plugins/economics.717/  
+19:20 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+19:20 [Info] [Notifier] Bokudo joined from Brazil
+19:20 [Info] EconomicsBalanceGUI was compiled successfully in 2178ms
+19:20 [Info] Loaded plugin EconomicsBalanceGUI v1.1.1 by lethal_d0se
+19:20 [Warning] [EconomicsBalanceGUI] Plugin is loading default configuration.
+19:20 [Warning] [EconomicsBalanceGUI] Plugin is loading default configuration.
+19:23 [Info] [IGather] OFFLINE was given the player default rates.
+19:23 [Info] [Notifier v2.18.4] OFFLINE joined the server, from Brazil.
+19:23 [Info] [Notifier] OFFLINE joined from Brazil
+19:23 [Info] [Death Notes] OFFLINE had enough of life.
+19:24 [Info] Unloaded plugin EconomicsBalanceGUI v1.1.1 by lethal_d0se
+19:24 [Info] Economics was compiled successfully in 2170ms
+19:24 [Info] Loaded plugin Economics v2.0.5 by Nogrod
+19:24 [Error] Failed to load plugin 'shop' (no source found)
+19:26 [Info] [Death Notes] OFFLINE slashed Shadowkyl in half.
+19:26 [Info] [Death Notes] OFFLINE slashed Ssephyroth in half.
+19:26 [Info] [Death Notes] A Wolf followed Ssephyroth until it finally caught him.
+19:26 [Info] [Notifier v2.18.4] Type /map for the server map link.
+19:27 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+19:27 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
+19:27 [Debug]   at Oxide.Plugins.Notifier.Plugin_Command (.BasePlayer player, System.String command, System.String[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+19:27 [Info] [Death Notes] ZezinhoGaming killed a Horse with a Hunting Bow from 25.99m.
+19:28 [Info] [Death Notes] Bokudo was shot in the Chest by OFFLINE with a Hunting Bow from 26.27m.
+19:29 [Info] [Death Notes] Bokudo killed a Boar with a Hunting Bow from 12.02m.
+19:29 [Info] [Death Notes] ZezinhoGaming killed a Horse with a Hunting Bow from 47.84m.
+19:31 [Info] Unloaded plugin Shop v1.1.0 by Bombardir
+19:31 [Info] Loaded plugin Shop v1.1.0 by Bombardir
+19:31 [Info] This Shop requires Economics! Please install: http://forum.rustoxide.com/plugins/economics.717/  
+19:32 [Info] [IGather] ShadowFoxx was given the player default rates.
+19:32 [Info] [Notifier] ShadowFoxx joined from Brazil
+19:32 [Info] [Notifier v2.18.4] ShadowFoxx joined the server, from Brazil.
+19:32 [Info] Updater was compiled successfully in 2275ms
+19:32 [Info] Loaded plugin Updater v2.0.0 by LaserHydra
+19:32 [Warning] [Updater] Generating new config file...
+19:32 [Info] [Notifier v2.18.4] ShadowFoxx left the server. (Reason: Timed Out)
+19:32 [Info] [Notifier] ShadowFoxx left the server
+19:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+19:33 [Info] [Notifier v2.18.4] ShadowFoxx joined the server, from Brazil.
+19:33 [Info] [Notifier] ShadowFoxx joined from Brazil
+19:33 [Info] [Death Notes] Ssephyroth was shot in the Head by OFFLINE with a Bolt Action Rifle from 24.52m.
+19:33 [Info] [Notifier v2.18.4] ShadowFoxx left the server. (Reason: Timed Out)
+19:33 [Info] [Notifier] ShadowFoxx left the server
+19:34 [Info] [Death Notes] ZezinhoGaming killed a Horse with a Hunting Bow from 10m.
+19:34 [Info] [Notifier v2.18.4] ShadowFoxx joined the server, from Brazil.
+19:34 [Info] [Notifier] ShadowFoxx joined from Brazil
+19:34 [Info] Notifier was compiled successfully in 2369ms
+19:34 [Info] Unloaded plugin Notifier v3.0.0 by SkinN
+19:34 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+19:34 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+19:35 [Info] [Death Notes] A Bear followed Bokudo until it finally caught him.
+19:37 [Info] [Notifier v2.18.4] OFFLINE left the server. (Reason: Disconnected)
+19:37 [Info] [Notifier] OFFLINE left the server
+19:38 [Info] [Notifier v2.18.4] Jogadores ON: 5 / 100 Folgados: 1
+19:39 [Info] [Death Notes] Shadowkyl did a header into the ground.
+19:46 [Info] [Notifier] Check Notifier's with /notifier help command.
+19:47 [Info] [Death Notes] Shadowkyl did a header into the ground.
+19:50 [Info] [Notifier v2.18.4] Este servidor usa os mods Oxide 2.
+19:52 [Info] [Notifier v2.18.4] ShadowFoxx left the server. (Reason: Disconnected)
+19:52 [Info] [Notifier] ShadowFoxx left the server
+19:53 [Info] [Notifier v2.18.4] Shadowkyl left the server. (Reason: Timed Out)
+19:53 [Info] [Notifier] Shadowkyl left the server
+19:58 [Info] [Notifier] You are playing on: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+19:59 [Info] [Notifier v2.18.4] Shadowkyl joined the server, from Brazil.
+19:59 [Info] [Notifier] Shadowkyl joined from Brazil
+19:59 [Info] [Death Notes] ZezinhoGaming was shot to pieces by a Patrol Helicopter.
+19:59 [Info] [Notifier v2.18.4] ZezinhoGaming left the server. (Reason: Disconnected)
+19:59 [Info] [Notifier] ZezinhoGaming left the server
+20:02 [Info] [Death Notes] Shadowkyl was shot to pieces by a Patrol Helicopter.
+20:02 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+20:03 [Info] [IGather] leo was given the player default rates.
+20:03 [Info] [Notifier] leo joined from Brazil
+20:03 [Info] [Notifier v2.18.4] leo joined the server, from Brazil.
+20:09 [Info] [Notifier v2.18.4] ZezinhoGaming joined the server, from Brazil.
+20:09 [Info] [Notifier] ZezinhoGaming joined from Brazil
+20:10 [Info] [Death Notes] Bokudo killed a Stag with a Hunting Bow from 22.2m.
+20:10 [Info] [Death Notes] Shadowkyl became an iceblock.
+20:10 [Info] [Notifier] Please avoid any insults and be respectful!
+20:11 [Info] [Notifier v2.18.4] ShadowFoxx joined the server, from Brazil.
+20:11 [Info] [Notifier] ShadowFoxx joined from Brazil
+20:13 [Info] [Death Notes] Bokudo killed a Chicken with a Hunting Bow from 6.26m.
+20:14 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+20:17 [Info] [Death Notes] Bokudo killed a Boar with a Hunting Bow from 23.09m.
+20:17 [Info] [Death Notes] ZezinhoGaming became an iceblock.
+20:18 [Info] [Notifier v2.18.4] leo left the server. (Reason: Disconnected)
+20:18 [Info] [Notifier] leo left the server
+20:18 [Info] [IGather] Kronovi CSGODUCK.COM was given the player default rates.
+20:18 [Info] [Notifier v2.18.4] Kronovi CSGODUCK.COM joined the server, from Brazil.
+20:18 [Info] [Notifier] Kronovi CSGODUCK.COM joined from Brazil
+20:19 [Info] [Notifier v2.18.4] Kronovi CSGODUCK.COM left the server. (Reason: Disconnected)
+20:19 [Info] [Notifier] Kronovi CSGODUCK.COM left the server
+20:19 [Error] Failed to call hook 'OnQuarryGather' on plugin 'IGather v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)
+20:19 [Debug]   at Oxide.Plugins.IGather.OnQuarryGather (.MiningQuarry quarry, .Item item) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.IGather.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+20:21 [Info] [IGather] Junio was given the player default rates.
+20:21 [Info] [Notifier] Junio joined from Brazil
+20:21 [Info] [Notifier v2.18.4] Junio joined the server, from Brazil.
+20:22 [Info] [Notifier] Need help? Try calling for the Admins in the chat.
+20:25 [Info] [Death Notes] Shadowkyl was shot in the Left Arm by ShadowFoxx with a Hunting Bow from 2.46m.
+20:26 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/28/2024 14:50:44
+20:27 [Info] [Death Notes] ZezinhoGaming killed a Boar with a Hunting Bow from 3.93m.
+20:28 [Info] [Death Notes] Bokudo killed a Boar with a Hunting Bow from 10.76m.
+20:30 [Info] [Death Notes] ShadowFoxx killed a Horse with a Crossbow from 51.3m.
+20:32 [Info] [Death Notes] Junio was shot in the Left Knee by ShadowFoxx with a Crossbow from 0.98m.
+20:32 [Info] [Death Notes] Shadowkyl killed a Boar with a Hunting Bow from 11.23m.
+20:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+20:33 [Info] [Death Notes] Shadowkyl killed a Boar with a Hunting Bow from 10.67m.
+20:33 [Info] [Notifier v2.18.4] ZezinhoGaming left the server. (Reason: Disconnected)
+20:33 [Info] [Notifier] ZezinhoGaming left the server
+20:34 [Info] [Notifier] Please avoid any insults and be respectful!
+20:35 [Info] [Notifier v2.18.4] Junio left the server. (Reason: Disconnected)
+20:35 [Info] [Notifier] Junio left the server
+20:38 [Info] [Notifier v2.18.4] Este servidor usa os mods Oxide 2.
+20:39 [Info] [Death Notes] ShadowFoxx killed a Boar with a Crossbow from 23.59m.
+20:39 [Info] [Notifier v2.18.4] ZezinhoGaming joined the server, from Brazil.
+20:39 [Info] [Notifier] ZezinhoGaming joined from Brazil
+20:40 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
+20:40 [Debug]   at Oxide.Plugins.Notifier.Plugin_Command (.BasePlayer player, System.String command, System.String[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+20:42 [Info] [Death Notes] Shadowkyl killed a Boar with a Hunting Bow from 13.12m.
+20:46 [Info] [Notifier] There are 5/100 players playing in the server, and 4 sleepers.
+20:50 [Info] [Notifier v2.18.4] Jogadores ON: 5 / 100 Folgados: 4
+20:54 [Info] [Death Notes] ZezinhoGaming killed a Horse with a Hunting Bow from 11.66m.
+20:54 [Info] [Death Notes] ZezinhoGaming killed a Boar with a Hunting Bow from 22.63m.
+20:58 [Info] [Notifier] Check Notifier's with /notifier help command.
+20:59 [Info] [Death Notes] ZezinhoGaming killed a Boar with a Hunting Bow from 23.84m.
+21:02 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+21:03 [Info] [Death Notes] Bokudo killed a Chicken with a Stone Pick Axe from 2.03m.
+21:03 [Info] [Death Notes] ZezinhoGaming killed a Boar with a Hunting Bow from 15.72m.
+21:05 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+21:05 [Info] [Notifier] Bokudo left the server
+21:10 [Info] [Death Notes] ShadowFoxx killed a Boar with a Hunting Bow from 3.11m.
+21:10 [Info] [Notifier] There are 4/100 players playing in the server, and 5 sleepers.
+21:14 [Info] [Notifier v2.18.4] Jogadores ON: 4 / 100 Folgados: 5
+21:19 [Info] [Death Notes] Shadowkyl killed a Boar with a Hunting Bow from 12.39m.
+21:22 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+21:26 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+21:28 [Info] [Death Notes] ZezinhoGaming killed a Stag with a Hunting Bow from 39.58m.
+21:29 [Info] [Death Notes] ZezinhoGaming killed a Stag with a Stone Pick Axe from 2.12m.
+21:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+21:34 [Info] [Notifier] Need help? Try calling for the Admins in the chat.
+21:38 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/29/2024 17:10:49
+21:42 [Info] [Death Notes] Shadowkyl did a header into the ground.
+21:46 [Info] [Notifier] There are 4/100 players playing in the server, and 5 sleepers.
+21:50 [Info] [Notifier v2.18.4] Type /map for the server map link.
+21:52 [Info] [Notifier v2.18.4] ZezinhoGaming left the server. (Reason: Disconnected)
+21:52 [Info] [Notifier] ZezinhoGaming left the server
+21:54 [Info] [IGather] patrickfbraz was given the player default rates.
+21:54 [Info] [Notifier v2.18.4] patrickfbraz joined the server, from Brazil.
+21:54 [Info] [Notifier] patrickfbraz joined from Brazil
+21:58 [Info] [Notifier] Cheating or abusing of game exploits will result in a permanent ban.
+22:02 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+22:09 [Info] [IGather] Fzn was given the player default rates.
+22:09 [Info] [Notifier v2.18.4] Fzn joined the server, from Brazil.
+22:09 [Info] [Notifier] Fzn joined from Brazil
+22:10 [Info] [Notifier] Check Notifier's with /notifier help command.
+22:14 [Info] [Notifier v2.18.4] Jogadores ON: 5 / 100 Folgados: 6
+22:15 [Info] [Death Notes] Shadowkyl killed a Boar with a Hunting Bow from 13.34m.
+22:20 [Info] [Notifier v2.18.4] Bokudo joined the server, from Brazil.
+22:20 [Info] [Notifier] Bokudo joined from Brazil
+22:21 [Info] [Death Notes] Fzn killed a Boar with a Hunting Bow from 4.2m.
+22:22 [Info] [Notifier] Need help? Try calling for the Admins in the chat.
+22:26 [Info] [Notifier v2.18.4] Jogando: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+22:29 [Info] [IGather] ♛iluminati♛ was given the player default rates.
+22:29 [Info] [Notifier v2.18.4] ♛iluminati♛ joined the server, from Argentina.
+22:29 [Info] [Notifier] ♛iluminati♛ joined from Argentina
+22:31 [Info] [Death Notes] Fzn killed a Horse with a Hunting Bow from 34.62m.
+22:31 [Info] DeathNotes was compiled successfully in 2309ms
+22:31 [Info] Unloaded plugin Death Notes v5.2.1 by LaserHydra
+22:31 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+22:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+22:33 [Info] [Death Notes] Bokudo matou um Bear com Waterpipe Shotgun á 2.43m.
+22:34 [Info] [Death Notes] Bokudo sangrando.
+22:34 [Info] [Notifier] Please avoid any insults and be respectful!
+22:35 [Info] [IGather] Desconhecido was given the player default rates.
+22:35 [Info] [Notifier v2.18.4] Desconhecido joined the server, from Brazil.
+22:35 [Info] [Notifier] Desconhecido joined from Brazil
+22:36 [Info] [IGather] Sr.Pato was given the player default rates.
+22:36 [Info] [Notifier v2.18.4] Sr.Pato joined the server, from Brazil.
+22:36 [Info] [Notifier] Sr.Pato joined from Brazil
+22:37 [Info] [Notifier v2.18.4] Desconhecido left the server. (Reason: Disconnected)
+22:37 [Info] [Notifier] Desconhecido left the server
+22:38 [Info] [Death Notes] O Bear seguio Sr.Pato e finalmente a pegou.
+22:38 [Info] [Notifier v2.18.4] Sr.Pato left the server. (Reason: Disconnected)
+22:38 [Info] [Notifier] Sr.Pato left the server
+22:38 [Info] [Death Notes] O Bear seguio Bokudo e finalmente a pegou.
+22:38 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+22:40 [Info] [Notifier v2.18.4] ♛iluminati♛ left the server. (Reason: Disconnected)
+22:40 [Info] [Notifier] ♛iluminati♛ left the server
+22:41 [Info] [Death Notes] Bokudo matou um Stag com Arco de Caça á 20.46m.
+22:44 [Info] [Notifier v2.18.4] Shadowkyl left the server. (Reason: Timed Out)
+22:44 [Info] [Notifier] Shadowkyl left the server
+22:45 [Info] [Death Notes] O Bear seguio Bokudo e finalmente a pegou.
+22:45 [Info] Unloaded plugin Death Notes v5.2.1 by LaserHydra
+22:45 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+22:46 [Info] [Notifier] There are 5/100 players playing in the server, and 8 sleepers.
+22:47 [Info] Unloaded plugin Death Notes v5.2.1 by LaserHydra
+22:47 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+22:50 [Info] [Notifier v2.18.4] Shadowkyl joined the server, from Brazil.
+22:50 [Info] [Notifier] Shadowkyl joined from Brazil
+22:50 [Info] [Notifier v2.18.4] Jogando: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+22:58 [Info] [Notifier] Need help? Try calling for the Admins in the chat.
+23:00 [Info] Unloaded plugin Death Notes v5.2.1 by LaserHydra
+23:00 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+23:02 [Info] [Notifier v2.18.4] Jogadores ON: 6 / 100 Folgados: 7
+23:02 [Info] [Death Notes] Shadowkyl matou um Javali com Arco de Caça á 24.9m.
+23:03 [Info] [Death Notes] Bokudo matou um Veado com Arco de Caça á 12.73m.
+23:04 [Info] [IGather] Carrasco was given the player default rates.
+23:04 [Info] [Notifier v2.18.4] Carrasco joined the server, from Brazil.
+23:04 [Info] [Notifier] Carrasco joined from Brazil
+23:05 [Info] [Notifier v2.18.4] Carrasco left the server. (Reason: Disconnected)
+23:05 [Info] [Notifier] Carrasco left the server
+23:07 [Info] [Death Notes] Ssephyroth foi baleada Cabeça por Fzn com Arco de Caça á 1.24m.
+23:10 [Info] [Notifier] There are 6/100 players playing in the server, and 8 sleepers.
+23:13 [Info] [Death Notes] Bokudo foi baleada Braço Esquerdo por ShadowFoxx com Thompson á 0.31m.
+23:13 [Info] [Death Notes] Fzn matou um Urso com Arco de Caça á 6.01m.
+23:14 [Info] [Notifier v2.18.4] Jogando: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+23:16 [Info] [Death Notes] Fzn matou um Veado com Arco de Caça á 12.51m.
+23:17 [Info] [Death Notes] Shadowkyl had enough of life.
+23:17 [Info] [Death Notes] Fzn matou um Veado com Arco de Caça á 24.67m.
+23:19 [Info] Loaded plugin ViP / Admin / Other - Auto Name Changer v1.0.0 by TheDoc - Uprising RuST Server
+23:21 [Info] Unloaded plugin ViP / Admin / Other - Auto Name Changer v1.0.0 by TheDoc - Uprising RuST Server
+23:21 [Info] Loaded plugin ViP / Admin / Other - Auto Name Changer v1.0.0 by TheDoc - Uprising RuST Server
+23:22 [Info] [Death Notes] Fzn matou um Javali com Arco de Caça á 14.55m.
+23:22 [Info] [Notifier] You are playing on: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
+23:23 [Info] [IGather] -- was given the player default rates.
+23:23 [Info] [Notifier v2.18.4] -- joined the server, from Brazil.
+23:23 [Info] [Notifier] -- joined from Brazil
+23:24 [Info] [Notifier v2.18.4] patrickfbraz left the server. (Reason: You were kicked for being AFK for 15 minutes)
+23:24 [Info] [Notifier] patrickfbraz left the server
+23:24 [Info] [Death Notes] Fzn matou um Veado com Arco de Caça á 27.86m.
+23:26 [Info] [Notifier v2.18.4] Jogadores ON: 6 / 100 Folgados: 9
+23:27 [Info] [Notifier v2.18.4] Bokudo left the server. (Reason: Disconnected)
+23:27 [Info] [Notifier] Bokudo left the server
+23:32 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.0 | http://oxidemod.org/plugins/797/
+
+23:34 [Info] [Notifier] There are 5/100 players playing in the server, and 10 sleepers.
+23:35 [Info] [Death Notes] patrickfbraz estava dormindo e foi baleado Neck pelo louco ShadowFoxx com uma Arco de Caça á 0.48m. Porque tem balas sobrando pelo jeito...
+23:36 [Info] [Death Notes] Fzn foi baleada Left Hand por ShadowFoxx com Arco de Caça á 1.76m.
+23:36 [Info] [Death Notes] Ssephyroth sangrando.
+23:36 [Info] [IGather] ChicoPorolata was given the player default rates.
+23:36 [Info] [Notifier] ChicoPorolata joined from Brazil
+23:36 [Info] [Notifier v2.18.4] ChicoPorolata joined the server, from Brazil.
+23:37 [Info] [Notifier v2.18.4] ChicoPorolata left the server. (Reason: Disconnected)
+23:37 [Info] [Notifier] ChicoPorolata left the server
+23:38 [Info] [Notifier v2.18.4] Este servidor usa os mods Oxide 2.
+23:39 [Info] [Notifier v2.18.4] Fzn left the server. (Reason: Disconnected)
+23:39 [Info] [Notifier] Fzn left the server
+23:39 [Info] [IGather] DUCIONI-SC was given the player default rates.
+23:39 [Info] [Notifier] DUCIONI-SC joined from Brazil
+23:39 [Info] [Notifier v2.18.4] DUCIONI-SC joined the server, from Brazil.
+23:42 [Info] [Death Notes] Shadowkyl had enough of life.
+23:44 [Info] [IGather] Tsadkiel was given the player default rates.
+23:44 [Info] [Notifier v2.18.4] Tsadkiel joined the server, from Brazil.
+23:44 [Info] [Notifier] Tsadkiel joined from Brazil
+23:45 [Info] [Death Notes] -- matou um Urso com Arco de Caça á 8.27m.
+23:46 [Info] Unloaded plugin Notifier v3.0.0 by SkinN
+23:46 [Info] Loaded plugin Notifier v3.0.0 by SkinN
+23:46 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+23:47 [Info] [Notifier v2.18.4] patrickfbraz joined the server, from Brazil.
+23:47 [Info] [Notifier] patrickfbraz joined from Brazil
+23:47 [Info] Unloaded plugin Death Notes v5.2.1 by LaserHydra
+23:47 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+23:48 [Info] [Death Notes] Ssephyroth had enough of life.
+23:48 [Info] [Notifier v2.18.4] patrickfbraz left the server. (Reason: Disconnected)
+23:48 [Info] [Notifier] patrickfbraz left the server
+23:50 [Info] [Notifier v2.18.4] Horario do Rust(Game) 06/01/2024 00:43:15
+23:55 [Info] [Death Notes] DUCIONI-SC matou um Cavalo com Arco de Caça á 27.93m.
+23:56 [Info] [Death Notes] DUCIONI-SC matou um Lobo com Arco de Caça á 1.3m.
+23:57 [Info] [Notifier v2.18.4] [ADMIN] Bokudo joined the server, from Brazil.
+23:57 [Info] [Notifier] Bokudo joined from Brazil
+23:58 [Info] [Notifier v2.18.4] [ADMIN] Bokudo left the server. (Reason: Disconnected)
+23:58 [Info] [Notifier] Bokudo left the server
+23:58 [Info] [Notifier] Você está jogando em: [BR] DENFENDERS BRASIL - 5x/INSTANT/TP/HOME/AIRDROP/KIT
