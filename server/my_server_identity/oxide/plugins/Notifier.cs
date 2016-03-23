@@ -11,7 +11,7 @@ using System;
 
 namespace Oxide.Plugins
 {
-    [Info("Notifier", "SkinN", "3.0.0", ResourceId = 797)]
+    [Info("Notifier", "SkinN", "3.0.1", ResourceId = 797)]
     [Description("Server administration tool with chat based notifications")]
 
     class Notifier : RustPlugin
@@ -44,7 +44,8 @@ namespace Oxide.Plugins
             { "NL", "Dutch" },
             { "RO", "Romanian" },
             { "HU", "Hungarian" },
-            { "JP", "Japanese" }
+            { "JP", "Japanese" },
+            { "CZ", "Czech" }            
         };
 
         // Player Database Class
@@ -185,120 +186,109 @@ namespace Oxide.Plugins
 
             #region Rules
 
-            SetConfig("Rules", new Dictionary<string, object>
-                {
-                    {
-                        "EN", new List<object> {
-                            "Cheating is strictly prohibited.",
-                            "Respect all players",
-                            "Avoid spam in chat.",
-                            "Play fair and don\'t abuse of bugs/exploits."
-                        }
-                    },
-                    {
-                        "PT", new List<object> {
-                            "Usar cheats e totalmente proibido.",
-                            "Respeita todos os jogadores.",
-                            "Evita spam no chat.",
-                            "Nao abuses de bugs ou exploits."
-                        }
-                    },
-                    {
-                        "FR", new List<object> {
-                            "Tricher est strictement interdit.",
-                            "Respectez tous les joueurs.",
-                            "Évitez le spam dans le chat.",
-                            "Jouer juste et ne pas abuser des bugs / exploits."
-                        }
-                    },
-                    {
-                        "ES", new List<object> {
-                            "Los trucos están terminantemente prohibidos.",
-                            "Respeta a todos los jugadores.",
-                            "Evita el Spam en el chat.",
-                            "Juega limpio y no abuses de bugs/exploits."
-                        }
-                    },
-                    {
-                        "DE", new List<object> {
-                            "Cheaten ist verboten!",
-                            "Respektiere alle Spieler",
-                            "Spam im Chat zu vermeiden.",
-                            "Spiel fair und missbrauche keine Bugs oder Exploits."
-                        }
-                    },
-                    {
-                        "TR", new List<object> {
-                            "Hile kesinlikle yasaktır.",
-                            "Tüm oyuncular Saygı.",
-                            "Sohbet Spam kaçının.",
-                            "Adil oynayın ve böcek / açıkları kötüye yok."
-                        }
-                    },
-                    {
-                        "IT", new List<object> {
-                            "Cheating è severamente proibito.",
-                            "Rispettare tutti i giocatori.",
-                            "Evitare lo spam in chat.",
-                            "Fair Play e non abusare di bug / exploit."
-                        }
-                    },
-                    {
-                        "DK", new List<object> {
-                            "Snyd er strengt forbudt.",
-                            "Respekter alle spillere.",
-                            "Undgå spam i chatten.",
-                            "Spil fair og misbrug ikke bugs / exploits."
-                        }
-                    },
-                    {
-                        "RU", new List<object> {
-                            "Запрещено использовать читы.",
-                            "Запрещено спамить и материться.",
-                            "Уважайте других игроков.",
-                            "Играйте честно и не используйте баги и лазейки."
-                        }
-                    },
-                    {
-                        "UA", new List<object> {
-                            "Обман суворо заборонено.",
-                            "Поважайте всіх гравців",
-                            "Щоб уникнути спаму в чаті.",
-                            "Грати чесно і не зловживати помилки / подвиги."
-                        }
-                    },
-                    {
-                        "NL", new List<object> {
-                            "Vals spelen is ten strengste verboden.",
-                            "Respecteer alle spelers",
-                            "Vermijd spam in de chat.",
-                            "Speel eerlijk en maak geen misbruik van bugs / exploits."
-                        }
-                    },
-                    {
-                        "RO", new List<object> {
-                            "Cheaturile sunt strict interzise!",
-                            "Respectați toți jucătorii!",
-                            "Evitați spamul în chat!",
-                            "Jucați corect și nu abuzați de bug-uri/exploituri!"
-                        }
-                    },
-                    {
-                        "HU", new List<object> {
-                            "Csalás szigorúan tilos.",
-                            "Tiszteld minden játékostársad.",
-                            "Kerüld a spammolást a chaten.",
-                            "Játssz tisztességesen és nem élj vissza a hibákkal."
-                        }
-                    },
-                    {
-                        "JP", new List<object> {
-                            "チート行為は固く禁じております。",
-                            "全てのプレイヤーに敬意を払って下さい。",
-                            "チャットでスパム行為はしないで下さい。",
-                            "バグの悪用行為や公平なプレイはしないで下さい"
-                        }
-                    }
+            SetConfig("Rules", "EN", new List<object> {
+                    "Cheating is strictly prohibited.",
+                    "Respect all players",
+                    "Avoid spam in chat.",
+                    "Play fair and don\'t abuse of bugs/exploits."
+                }
+            );
+            SetConfig("Rules", "PT", new List<object> {
+                    "Usar cheats e totalmente proibido.",
+                    "Respeita todos os jogadores.",
+                    "Evita spam no chat.",
+                    "Nao abuses de bugs ou exploits."
+                }
+            );
+            SetConfig("Rules", "FR", new List<object> {
+                    "Tricher est strictement interdit.",
+                    "Respectez tous les joueurs.",
+                    "Évitez le spam dans le chat.",
+                    "Jouer juste et ne pas abuser des bugs / exploits."
+                }
+            );
+            SetConfig("Rules", "ES", new List<object> {
+                    "Los trucos están terminantemente prohibidos.",
+                    "Respeta a todos los jugadores.",
+                    "Evita el Spam en el chat.",
+                    "Juega limpio y no abuses de bugs/exploits."
+                }
+            );
+            SetConfig("Rules", "DE", new List<object> {
+                    "Cheaten ist verboten!",
+                    "Respektiere alle Spieler",
+                    "Spam im Chat zu vermeiden.",
+                    "Spiel fair und missbrauche keine Bugs oder Exploits."
+                }
+            );
+            SetConfig("Rules", "TR", new List<object> {
+                    "Hile kesinlikle yasaktır.",
+                    "Tüm oyuncular Saygı.",
+                    "Sohbet Spam kaçının.",
+                    "Adil oynayın ve böcek / açıkları kötüye yok."
+                }
+            );
+            SetConfig("Rules", "IT", new List<object> {
+                    "Cheating è severamente proibito.",
+                    "Rispettare tutti i giocatori.",
+                    "Evitare lo spam in chat.",
+                    "Fair Play e non abusare di bug / exploit."
+                }
+            );
+            SetConfig("Rules", "DK", new List<object> {
+                    "Snyd er strengt forbudt.",
+                    "Respekter alle spillere.",
+                    "Undgå spam i chatten.",
+                    "Spil fair og misbrug ikke bugs / exploits."
+                }
+            );
+            SetConfig("Rules", "RU", new List<object>{
+                    "Запрещено использовать читы.",
+                    "Запрещено спамить и материться.",
+                    "Уважайте других игроков.",
+                    "Играйте честно и не используйте баги и лазейки."
+                }
+            );
+            SetConfig("Rules", "UA", new List<object> {
+                    "Обман суворо заборонено.",
+                    "Поважайте всіх гравців",
+                    "Щоб уникнути спаму в чаті.",
+                    "Грати чесно і не зловживати помилки / подвиги."
+                }
+            );
+            SetConfig("Rules", "NL", new List<object> {
+                    "Vals spelen is ten strengste verboden.",
+                    "Respecteer alle spelers",
+                    "Vermijd spam in de chat.",
+                    "Speel eerlijk en maak geen misbruik van bugs / exploits."
+                }
+            );
+            SetConfig("Rules", "RO", new List<object> {
+                    "Cheaturile sunt strict interzise!",
+                    "Respectați toți jucătorii!",
+                    "Evitați spamul în chat!",
+                    "Jucați corect și nu abuzați de bug-uri/exploituri!"
+                }
+            );
+            SetConfig("Rules", "HU", new List<object> {
+                    "Csalás szigorúan tilos.",
+                    "Tiszteld minden játékostársad.",
+                    "Kerüld a spammolást a chaten.",
+                    "Játssz tisztességesen és nem élj vissza a hibákkal."
+                }
+            );
+            SetConfig("Rules", "JP", new List<object> {
+                    "チート行為は固く禁じております。",
+                    "全てのプレイヤーに敬意を払って下さい。",
+                    "チャットでスパム行為はしないで下さい。",
+                    "バグの悪用行為や公平なプレイはしないで下さい"
+                }
+            );
+            SetConfig("Rules", "CZ", new List<object> {
+                    "Cheatování je přísně zakázáno.",
+                    "Respektuj a neurážej ostatní hráče.",
+                    "Nespamuj chat zbytečně.",
+                    "Hraj fair play a nezneužívej bugy/exploity."
                 }
             );
 
@@ -371,9 +361,9 @@ namespace Oxide.Plugins
         {
             lang.RegisterMessages(new Dictionary<string, string> {
                 { "Join Message", "<lightblue>{player.name} <silver>joined from<end> {player.country}<end>" },
-                { "Leave Message", "<lightblue>{player.name}<end> left the server" },
+                { "Leave Message", "<lightblue>{player.name}<end> left the server (Reason: {reason})" },
                 { "Incoming Airdrop", "<yellow>Airdrop <silver>incoming, drop coordinates are:<end> {x}, {y}, {z}<end>."},
-                { "Incoming Helicopter", "<yellow>Patrol Helicoter<end> incoming!" },
+                { "Incoming Helicopter", "<yellow>Patrol Helicopter<end> incoming!" },
                 { "No Admins Online", "There are no <cyan>Admins<end> currently online" },
                 { "Players List Description", "List of active players" },
                 { "Plugins List Description", "List of plugins running in the server" },
@@ -386,9 +376,11 @@ namespace Oxide.Plugins
                 { "Plugins List Title", "Plugins List" },
                 { "Admins List Title", "Admins Online" },
                 { "Server Rules Title", "Server Rules" },
+                { "Rules Languages List Title", "Available Rules Languages" },
                 { "Server MOTD Title", "Message Of The Day" },
                 { "Server Map Message", "Check our live map at: <yellow>{server.ip}:{server.port}<end>" },
-                { "Players Count Message", "There are <orange>{players.active} <silver>of<end> {server.maxplayers}<end> <silver>players in the server, and <orange>{players.sleepers}<end> sleepers<end>" }
+                { "Players Count Message", "There are <orange>{players.active} <silver>of<end> {server.maxplayers}<end> <silver>players in the server, and <orange>{players.sleepers}<end> sleepers<end>" },
+                { "Help Text Message", "For all the <cyan>Notifier<end>'s commands type <orange>/notifier help<end>" }
             }, this);
         }
 
@@ -612,11 +604,43 @@ namespace Oxide.Plugins
             string name = "Unknown";
             Dictionary<string, object> Rules = (Dictionary<string, object>) Config.Get("Rules");
 
-            if (!String.IsNullOrEmpty(arg) && Countries.ContainsKey(arg))
+            if (Rules.Count == 0)
+                return;
+
+            if (!String.IsNullOrEmpty(arg) && Rules.ContainsKey(arg))
+            {
                 lang = arg;
+            }
+            else if (arg == "LIST")
+            {
+                Tell(player, "<white>" + GetMsg("Rules Languages List Title") + "<end>");
+
+                if (EnableChatSeparators)
+                    Tell(player, Seperator, prefix: false);
+
+                List<string> langs = new List<string>();
+
+                foreach (var item in Rules)
+                {
+                    if (Countries.ContainsKey(item.Key))
+                        name = Countries[item.Key];
+                    else
+                        name = item.Key;
+                    langs.Add("<orange>" + name + "<end> (" + item.Key + ")");
+                }
+
+                List<List<string>> Chuncks = SplitList(langs);
+
+                foreach (List<string> lis in Chuncks)
+                    Tell(player, String.Join(", ", lis.ToArray()), prefix: false);
+
+                return;
+            }
 
             if (Countries.ContainsKey(lang))
-                name = Countries[lang];
+                    name = Countries[lang];
+                else
+                    name = lang.ToUpper();
 
             Tell(player, "<white>" + GetMsg("Server Rules Title") + "<end>");
 
@@ -686,8 +710,8 @@ namespace Oxide.Plugins
                 {
                     if ((bool)cmd.Value)
                     {
-                        string[] triggers = (string[])Config.Get("Commands", "Triggers", cmd.Key);
-                        string row = string.Join("<silver>,<end> /", triggers);
+                        List<string> triggers = ConvertList(Config.Get("Commands", "Triggers", cmd.Key));
+                        string row = string.Join("<silver>,<end> /", triggers.ToArray());
                         Tell(player, "<orange>" + row + "<end> - <lightblue>" + GetMsg(cmd.Key + " Description") + "<end>", prefix: false);
                     }
                 }
@@ -779,14 +803,15 @@ namespace Oxide.Plugins
         {
             string lang = "EN";
             string DefaultLang = RulesDefaultLanguage.ToUpper();
+            Dictionary<string, object> Rules = (Dictionary<string, object>) Config.Get("Rules");
 
             if (player != null && DefaultLang == "AUTO")
             {
                 string PlyLang = Players[player.userID.ToString()].countrycode;
-                if (Countries.ContainsKey(PlyLang))
+                if (Rules.ContainsKey(PlyLang))
                     lang = PlyLang;
             }
-            else if (Countries.ContainsKey(DefaultLang))
+            else if (Rules.ContainsKey(DefaultLang))
                 lang = DefaultLang;
 
             return lang;
@@ -850,6 +875,8 @@ namespace Oxide.Plugins
         private List<string> GetActivePlayersList() { return (from ply in BasePlayer.activePlayerList where (Players.ContainsKey(ply.userID.ToString())) select ply.userID.ToString()).ToList(); }
 
         private string Pads(string target, int number = 2) { return target.PadLeft(number, '0'); }
+
+        void SendHelpText(BasePlayer player) { Say(GetMsg("Help Text Message")); }
 
         #endregion
     }

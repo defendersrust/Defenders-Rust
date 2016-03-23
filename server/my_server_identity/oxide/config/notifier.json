@@ -132,6 +132,12 @@
   },
   "MOTD": "This server now has the new <yellow>Message Of The Day<end> feature provided by <cyan>Notifier<end>. Use <orange>/motd<end> to know server's daily news!",
   "Rules": {
+    "CZ": [
+      "Cheatování je přísně zakázáno.",
+      "Respektuj a neurážej ostatní hráče.",
+      "Nespamuj chat zbytečně.",
+      "Hraj fair play a nezneužívej bugy/exploity."
+    ],
     "DE": [
       "Cheaten ist verboten!",
       "Respektiere alle Spieler",

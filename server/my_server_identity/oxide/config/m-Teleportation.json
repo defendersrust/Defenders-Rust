@@ -1,13 +1,13 @@
 {
   "AdminTP": {
-    "AnnounceTeleportToTarget": false,
+    "AnnounceTeleportToTarget": true,
     "LocationRadius": 25,
     "TeleportNearDefaultDistance": 30,
     "UseableByModerators": true
   },
   "Homes": {
     "CheckFoundationForOwner": true,
-    "Cooldown": 600,
+    "Cooldown": 300,
     "Countdown": 15,
     "DailyLimit": 5,
     "ForceOnTopOfFoundation": true,

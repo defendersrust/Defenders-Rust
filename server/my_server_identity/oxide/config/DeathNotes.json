@@ -1,17 +1,24 @@
 {
-  "Attachments": {},
+  "Attachments": {
+    "4x Zoom Scope": "4x Zoom Scope",
+    "Holosight": "Holosight"
+  },
   "Bodyparts": {
     "Body": "Corpo",
     "Chest": "Peito",
     "Head": "Cabeça",
+    "Jaw": "Jaw",
     "Left Arm": "Braço Esquerdo",
     "Left Forearm": "Left Forearm",
     "Left Hand": "Left Hand",
     "Left Knee": "Joelho Esquerdo",
-    "Neck": "Neck",
+    "Neck": "Pescoço",
     "Pelvis": "Pelvis",
-    "Right Eye": "Right Eye",
-    "Right Forearm": "Right Forearm",
+    "Right Arm": "Right Arm",
+    "Right Eye": "Olho Direito",
+    "Right Forearm": "Antebraço Direito",
+    "Right Hand": "Right Hand",
+    "Right Knee": "Right Knee",
     "Right Shoulder": "Ombro Direito"
   },
   "Messages": {
@@ -64,28 +71,28 @@
       "{victim} burned to ashes."
     ],
     "Helicopter": [
-      "{victim} was shot to pieces by a {attacker}."
+      "{victim} foi deixado em pedaços por {attacker}."
     ],
     "Helicopter Sleeping": [
-      "{victim} was sleeping when he was shot to pieces by a {attacker}."
+      "{victim} foi dormir e foi retalhado por {attacker}."
     ],
     "HelicopterDeath": [
-      "The {victim} was taken down."
+      "Simplemente foi morto por {victim}."
     ],
     "Hunger": [
-      "{victim} forgot to eat."
+      "{victim} serio que você morreu de fome?!"
     ],
     "Poison": [
-      "{victim} died after being poisoned."
+      "{victim}, milhões de pessoas morrem envenedadas."
     ],
     "Radiation": [
-      "{victim} became a bit too radioactive."
+      "{victim} radiação mata muito rapido viu."
     ],
     "Slash": [
-      "{attacker} slashed {victim} in half."
+      "{attacker} deixou {victim} quase morto."
     ],
     "Slash Sleeping": [
-      "{attacker} slashed sleeping {victim} in half."
+      "{attacker} pegou {victim} enquando estava dormindo e deixou quase morto."
     ],
     "Stab": [
       "{victim} was stabbed to death by {attacker} using a {weapon}."
@@ -109,7 +116,7 @@
       "A {attacker} defended its home against {victim}."
     ],
     "Unknown": [
-      "{victim} died. Nobody knows why, it just happened."
+      "{victim} morreu. Porque não se sabe."
     ],
     "Unknown Sleeping": [
       "{victim} was sleeping when he died. Nobody knows why, it just happened."
@@ -160,16 +167,21 @@
   "Weapons": {
     "Assault Rifle": "Assault Rifle",
     "Bolt Action Rifle": "Rifle de Precisão",
+    "Bone Knife": "Bone Knife",
     "Crossbow": "Besta",
-    "Eoka Pistol": "Eoka Pistol",
+    "Eoka Pistol": "Pistola Eoka",
     "Hatchet": "Machadinha",
     "Hunting Bow": "Arco de Caça",
     "No Weapon": "Porrada",
+    "Rock": "Rock",
+    "Rocket Fire": "Rocket Fire",
+    "Rocket Heli": "Rocket Heli",
     "Stone Hatchet": "Pedra",
     "Stone Pick Axe": "Picareta de Pedra",
-    "Stone Pickaxe": "Stone Pickaxe",
+    "Stone Pickaxe": "Machadinha de Pedra",
+    "Stone Spear": "Stone Spear",
     "Thompson": "Thompson",
-    "Torch": "Torch",
+    "Torch": "Tocha",
     "Waterpipe Shotgun": "Escopeta Caseira",
     "Wooden Spear": "Lança de Madeira"
   }

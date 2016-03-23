@@ -312,3 +312,239 @@ Following plugins are outdated:
 
 # Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
 
+[03/20/2016 11:26:28] [Oxide] 11:26 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/20/2016 11:26:28] [Oxide] 11:26 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/20/2016 11:26:28] [Oxide] 11:26 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/20/2016 11:26:28] [Oxide] 11:26 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/20/2016 11:26:28] [Oxide] 11:26 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 11:27:18] [Oxide] 11:27 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9007ms
+[03/20/2016 11:27:18] [Oxide] 11:27 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 575ms
+[03/20/2016 12:11:34] [Oxide] 12:11 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/20/2016 12:11:34] [Oxide] 12:11 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/20/2016 12:11:34] [Oxide] 12:11 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/20/2016 12:11:34] [Oxide] 12:11 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/20/2016 12:11:34] [Oxide] 12:11 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.0 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 12:12:20] [Oxide] 12:12 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9294ms
+[03/20/2016 12:12:20] [Oxide] 12:12 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 567ms
+[03/20/2016 12:17:03] [Oxide] 12:16 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/20/2016 12:17:03] [Oxide] 12:16 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/20/2016 12:17:03] [Oxide] 12:16 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/20/2016 12:17:03] [Oxide] 12:16 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/20/2016 12:17:06] [Oxide] 12:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 12:17:47] [Oxide] 12:17 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8652ms
+[03/20/2016 12:17:47] [Oxide] 12:17 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 556ms
+[03/20/2016 13:17:02] [Oxide] 13:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 13:53:16] Missing projectileID  (4) 
+[03/20/2016 13:53:27] Missing projectileID  (7) 
+[03/20/2016 13:53:27] Missing projectileID  (8) 
+[03/20/2016 14:17:06] [Oxide] 14:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 15:17:05] [Oxide] 15:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 15:39:52] Missing projectileID  (108) 
+[03/20/2016 15:39:52] Missing projectileID  (109) 
+[03/20/2016 15:55:37] Missing projectileID  (121) 
+[03/20/2016 16:17:04] [Oxide] 16:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 16:26:08] Missing projectileID  (88) 
+[03/20/2016 16:49:16] Missing projectileID  (59) 
+[03/20/2016 16:49:18] Missing projectileID  (61) 
+[03/20/2016 16:49:30] Missing projectileID  (49) 
+[03/20/2016 17:17:03] [Oxide] 17:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 17:25:11] Missing projectileID  (48) 
+[03/20/2016 18:17:06] [Oxide] 18:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 18:43:39] Missing projectileID  (61) 
+[03/20/2016 19:17:04] [Oxide] 19:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 19:18:02] Missing projectileID  (60) 
+[03/20/2016 19:18:02] Missing projectileID  (61) 
+[03/20/2016 19:18:02] Missing projectileID  (62) 
+[03/20/2016 19:18:02] Missing projectileID  (63) 
+[03/20/2016 19:18:02] Missing projectileID  (64) 
+[03/20/2016 19:18:02] Missing projectileID  (67) 
+[03/20/2016 19:18:02] Missing projectileID  (68) 
+[03/20/2016 19:18:02] Missing projectileID  (69) 
+[03/20/2016 19:18:02] Missing projectileID  (70) 
+[03/20/2016 19:18:02] Missing projectileID  (73) 
+[03/20/2016 19:18:02] Missing projectileID  (65) 
+[03/20/2016 19:18:02] Missing projectileID  (66) 
+[03/20/2016 19:18:02] Missing projectileID  (71) 
+[03/20/2016 19:18:02] Missing projectileID  (72) 
+[03/20/2016 19:41:46] Missing projectileID  (103) 
+[03/20/2016 19:41:46] Missing projectileID  (104) 
+[03/20/2016 19:41:46] Missing projectileID  (105) 
+[03/20/2016 19:41:46] Missing projectileID  (106) 
+[03/20/2016 19:41:46] Missing projectileID  (107) 
+[03/20/2016 19:41:46] Missing projectileID  (108) 
+[03/20/2016 19:41:46] Missing projectileID  (109) 
+[03/20/2016 19:41:46] Missing projectileID  (110) 
+[03/20/2016 19:41:46] Missing projectileID  (111) 
+[03/20/2016 19:41:46] Missing projectileID  (112) 
+[03/20/2016 19:41:46] Missing projectileID  (113) 
+[03/20/2016 19:41:46] Missing projectileID  (114) 
+[03/20/2016 19:42:11] Missing projectileID  (152) 
+[03/20/2016 19:42:12] Missing projectileID  (154) 
+[03/20/2016 19:42:13] Missing projectileID  (148) 
+[03/20/2016 19:42:19] Missing projectileID  (159) 
+[03/20/2016 19:42:19] Missing projectileID  (161) 
+[03/20/2016 19:42:19] Missing projectileID  (162) 
+[03/20/2016 19:42:19] Missing projectileID  (165) 
+[03/20/2016 19:42:19] Missing projectileID  (166) 
+[03/20/2016 19:42:19] Missing projectileID  (170) 
+[03/20/2016 19:42:19] Missing projectileID  (171) 
+[03/20/2016 19:42:19] Missing projectileID  (173) 
+[03/20/2016 19:42:19] Missing projectileID  (174) 
+[03/20/2016 19:42:19] Missing projectileID  (160) 
+[03/20/2016 19:42:19] Missing projectileID  (163) 
+[03/20/2016 19:42:19] Missing projectileID  (164) 
+[03/20/2016 19:42:19] Missing projectileID  (167) 
+[03/20/2016 19:42:19] Missing projectileID  (168) 
+[03/20/2016 19:42:19] Missing projectileID  (169) 
+[03/20/2016 19:42:19] Missing projectileID  (172) 
+[03/20/2016 19:42:26] Missing projectileID  (184) 
+[03/20/2016 19:42:26] Missing projectileID  (185) 
+[03/20/2016 19:42:26] Missing projectileID  (187) 
+[03/20/2016 19:42:26] Missing projectileID  (188) 
+[03/20/2016 19:42:26] Missing projectileID  (191) 
+[03/20/2016 19:42:26] Missing projectileID  (192) 
+[03/20/2016 19:42:26] Missing projectileID  (176) 
+[03/20/2016 19:42:26] Missing projectileID  (186) 
+[03/20/2016 19:42:26] Missing projectileID  (189) 
+[03/20/2016 19:42:26] Missing projectileID  (190) 
+[03/20/2016 19:42:26] Missing projectileID  (193) 
+[03/20/2016 19:42:26] Missing projectileID  (194) 
+[03/20/2016 20:17:03] [Oxide] 20:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 21:17:03] [Oxide] 21:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 22:17:12] [Oxide] 22:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/20/2016 22:41:28] [Oxide] 22:41 [Warning] CallHook 'OnEntityTakeDamage' on plugin 'm-Teleportation v1.4.23' took: 574ms
+[03/20/2016 23:17:05] [Oxide] 23:17 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/21/2016 17:20:04] [Oxide] 17:19 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/21/2016 17:20:04] [Oxide] 17:19 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/21/2016 17:20:04] [Oxide] 17:19 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/21/2016 17:20:04] [Oxide] 17:19 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/21/2016 17:20:04] [Oxide] 17:19 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/21/2016 17:20:55] [Oxide] 17:20 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8580ms
+[03/21/2016 17:20:55] [Oxide] 17:20 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 528ms
+[03/21/2016 18:00:12] [Oxide] 17:59 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/21/2016 18:00:12] [Oxide] 17:59 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/21/2016 18:00:12] [Oxide] 17:59 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/21/2016 18:00:12] [Oxide] 17:59 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/21/2016 18:00:12] [Oxide] 18:00 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/21/2016 18:01:02] [Oxide] 18:01 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 9228ms
+[03/21/2016 18:01:02] [Oxide] 18:01 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 534ms
+[03/21/2016 18:09:49] Missing projectileID  (12) 
+[03/21/2016 18:59:57] [Oxide] 18:59 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/21/2016 19:26:56] Missing projectileID  (76) 
+[03/21/2016 19:26:56] Missing projectileID  (77) 
+[03/21/2016 19:26:56] Missing projectileID  (79) 
+[03/21/2016 19:26:56] Missing projectileID  (81) 
+[03/21/2016 19:26:56] Missing projectileID  (82) 
+[03/21/2016 19:26:56] Missing projectileID  (83) 
+[03/21/2016 19:26:56] Missing projectileID  (84) 
+[03/21/2016 19:26:56] Missing projectileID  (85) 
+[03/22/2016 17:16:44] [Oxide] 17:16 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/22/2016 17:16:44] [Oxide] 17:16 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/22/2016 17:16:44] [Oxide] 17:16 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/22/2016 17:16:44] [Oxide] 17:16 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/22/2016 17:16:44] [Oxide] 17:16 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/22/2016 17:17:32] [Oxide] 17:17 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took: 8952ms
+[03/22/2016 17:17:32] [Oxide] 17:17 [Warning] CallHook 'OnTick' on plugin 'RustIO v2.8.0' took average: 549ms
+[03/22/2016 18:16:23] [Oxide] 18:16 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/22/2016 19:16:22] [Oxide] 19:16 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/22/2016 20:16:22] [Oxide] 20:16 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/22/2016 21:16:23] [Oxide] 21:16 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/22/2016 22:16:22] [Oxide] 22:16 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.1 | http://oxidemod.org/plugins/797/
+
+[03/22/2016 22:29:19] [Oxide] 22:29 [Warning] [Explosives Modifier] New configuration file created.
+[03/22/2016 22:31:27] [Oxide] 22:31 [Warning] 'ExplosivesModifier v1.3.0' plugin is using deprecated hook: OnWeaponThrown

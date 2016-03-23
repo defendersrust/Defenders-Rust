@@ -82,5 +82,197 @@
   "76561198226980740": {
     "ui": false,
     "chat": true
+  },
+  "76561198198030626": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198224375308": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198285702039": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198250091936": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198082160856": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198087924694": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198254485135": {
+    "ui": false,
+    "chat": true
+  },
+  "76561197997771046": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198120770782": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198277612194": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198092361843": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198150488666": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198127179415": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198073403674": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198088828448": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198116265214": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198268296361": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198118794374": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198291018192": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198167490316": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198255626007": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198078981093": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198173786533": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198188314835": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198038126827": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198219641747": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198255297300": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198116172972": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198271140881": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198127808975": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198137116295": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198120625406": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198123401913": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198126799582": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198211345993": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198174256829": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198179090259": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198281117559": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198061944805": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198245670682": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198044177517": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198242556134": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198057405007": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198073023247": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198284780770": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198238439766": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198151528468": {
+    "ui": false,
+    "chat": true
+  },
+  "76561198235463136": {
+    "ui": false,
+    "chat": true
   }
 }

@@ -1,1 +1,49 @@
-{}
+{
+  "clans": {
+    "AB": {
+      "description": "bolacha",
+      "invited": [],
+      "members": [
+        "76561198065999433",
+        "76561198105205002"
+      ],
+      "moderators": [],
+      "owner": "76561198065999433",
+      "tag": "AB"
+    },
+    "KDA": {
+      "description": "Karai de Asa",
+      "invited": [],
+      "members": [
+        "76561197997771046"
+      ],
+      "moderators": [],
+      "owner": "76561197997771046",
+      "tag": "KDA"
+    },
+    "PAE": {
+      "description": "Amigos",
+      "invited": [],
+      "members": [
+        "76561198116265214",
+        "76561198268296361",
+        "76561198255626007"
+      ],
+      "moderators": [],
+      "owner": "76561198116265214",
+      "tag": "PAE"
+    },
+    "XBR": {
+      "description": "XABLAU REINA",
+      "invited": [
+        "76561198151528468"
+      ],
+      "members": [
+        "76561198235463136"
+      ],
+      "moderators": [],
+      "owner": "76561198235463136",
+      "tag": "XBR"
+    }
+  }
+}

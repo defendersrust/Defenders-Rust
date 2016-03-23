@@ -17,5 +17,7 @@
   "Server Rules Title": "Server Rules",
   "Server MOTD Title": "Message Of The Day",
   "Server Map Message": "Check our live map at: <yellow>{server.ip}:{server.port}<end>",
-  "Players Count Message": "There are <orange>{players.active} <silver>of<end> {server.maxplayers}<end> <silver>players in the server, and <orange>{players.sleepers}<end> sleepers<end>"
+  "Players Count Message": "There are <orange>{players.active} <silver>of<end> {server.maxplayers}<end> <silver>players in the server, and <orange>{players.sleepers}<end> sleepers<end>",
+  "Rules Languages List Title": "Available Rules Languages",
+  "Help Text Message": "For all the <cyan>Notifier<end>'s commands type <orange>/notifier help<end>"
 }
