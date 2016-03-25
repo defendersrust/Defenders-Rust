@@ -60,3 +60,8 @@
 [03/22/2016 21:54:23] [Oxide] 21:54 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
 [03/22/2016 21:55:06] [Oxide] 21:55 [Error] Failed to call hook 'OnPlayerInit' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
 [03/22/2016 22:16:59] [Oxide] 22:16 [Error] Failed to call hook 'ccmdShopShow' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
+[03/22/2016 23:01:12] [Oxide] 23:01 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+[03/24/2016 00:16:44] [Oxide] 00:16 [Error] Failed to call hook 'ccmdShopShow' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
+[03/24/2016 00:16:44] [Oxide] 00:16 [Error] Failed to call hook 'ccmdShopShow' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
+[03/24/2016 10:20:09] [Oxide] 10:20 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
+[03/24/2016 10:20:21] [Oxide] 10:20 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)

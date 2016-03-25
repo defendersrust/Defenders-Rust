@@ -11,6 +11,19 @@
       "owner": "76561198065999433",
       "tag": "AB"
     },
+    "Hu3": {
+      "description": "Hu3",
+      "invited": [],
+      "members": [
+        "76561198227634700",
+        "76561198084239784",
+        "76561198154737408",
+        "76561198117809284"
+      ],
+      "moderators": [],
+      "owner": "76561198227634700",
+      "tag": "Hu3"
+    },
     "KDA": {
       "description": "Karai de Asa",
       "invited": [],
@@ -32,6 +45,16 @@
       "moderators": [],
       "owner": "76561198116265214",
       "tag": "PAE"
+    },
+    "US": {
+      "description": "US",
+      "invited": [],
+      "members": [
+        "76561197967627064"
+      ],
+      "moderators": [],
+      "owner": "76561197967627064",
+      "tag": "US"
     },
     "XBR": {
       "description": "XABLAU REINA",
