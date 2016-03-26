@@ -1028,3 +1028,422 @@
 3/26/2016 3:35:42 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
 3/26/2016 3:35:47 PM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
 3/26/2016 3:37:03 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:38:24 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:39:45 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:41:06 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:42:27 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:43:48 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:45:09 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:46:30 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:47:51 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:48:50 PM [Info] User status changed: 76561198003886454. Status: Authenticated Message: N/A
+03/26/2016 15:49:05 [Info] [UnregisterUser] GUID: 76561198003886454
+3/26/2016 3:49:12 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:50:33 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:51:24 PM [Info] User status changed: 76561198003886454. Status: Authenticated Message: N/A
+3/26/2016 3:51:54 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:53:15 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:54:36 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:55:57 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:57:18 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 3:58:39 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:00:00 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:01:21 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:02:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:03:52 PM [Info] User status changed: 76561198205236029. Status: Authenticated Message: N/A
+3/26/2016 4:04:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:05:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:06:47 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:08:08 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:09:29 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:10:50 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:11:20 PM [Info] User status changed: 76561198280632910. Status: Authenticated Message: N/A
+3/26/2016 4:12:11 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:13:32 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:14:53 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:16:14 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:17:35 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:18:56 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:20:17 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:21:38 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:22:32 PM [Info] User status changed: 76561198083495852. Status: Authenticated Message: N/A
+3/26/2016 4:22:44 PM [Info] User status changed: 76561198006362941. Status: Authenticated Message: N/A
+3/26/2016 4:22:59 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:24:20 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:25:41 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:27:02 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 16:27:58 [Info] [UnregisterUser] GUID: 76561197994523959
+3/26/2016 4:28:23 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:29:44 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:30:21 PM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/26/2016 4:31:05 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 16:32:05 [Info] [UnregisterUser] GUID: 76561198280632910
+3/26/2016 4:32:26 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:33:47 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:35:08 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:36:29 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 16:36:58 [Info] [UnregisterUser] GUID: 76561198205236029
+3/26/2016 4:37:50 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:39:11 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:40:32 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:41:53 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:43:14 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:44:35 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:45:56 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:47:17 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:48:38 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:49:59 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:50:58 PM [Info] User status changed: 76561198205236029. Status: Authenticated Message: N/A
+3/26/2016 4:51:20 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:52:41 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:54:02 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:55:23 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:56:44 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:58:05 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 4:59:26 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:00:48 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:01:59 PM [Info] User status changed: 76561198293836499. Status: Authenticated Message: N/A
+3/26/2016 5:02:09 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 17:02:41 [Info] [UnregisterUser] GUID: 76561198293836499
+3/26/2016 5:03:30 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:04:51 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:06:12 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:07:33 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:08:54 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:10:15 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:11:36 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:12:57 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:14:18 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:15:39 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:17:00 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:18:21 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:19:42 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:21:03 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:22:24 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:23:45 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:25:06 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:26:27 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:27:48 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:29:09 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:30:06 PM [Info] User status changed: 76561198082216382. Status: Authenticated Message: N/A
+3/26/2016 5:30:30 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:31:51 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:32:42 PM [Info] User status changed: 76561198084770641. Status: Authenticated Message: N/A
+03/26/2016 17:33:11 [Info] [UnregisterUser] GUID: 76561198006362941
+3/26/2016 5:33:12 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:34:33 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 17:35:41 [Info] [UnregisterUser] GUID: 76561198082216382
+3/26/2016 5:35:54 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:37:15 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:38:36 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 17:39:24 [Info] [UnregisterUser] GUID: 76561198205236029
+3/26/2016 5:39:48 PM [Info] User status changed: 76561198006362941. Status: Authenticated Message: N/A
+3/26/2016 5:39:57 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:40:48 PM [Info] User status changed: 76561198152831056. Status: Authenticated Message: N/A
+3/26/2016 5:41:18 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:42:39 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:44:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561198083495852
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561198121019368
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561198084770641
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561198006362941
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561197998087180
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561198152831056
+03/26/2016 17:45:16 [Info] [UnregisterUser] GUID: 76561198003886454
+3/26/2016 5:45:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:45:25 PM [Info] User status changed: 76561198121019368. Status: Authenticated Message: N/A
+3/26/2016 5:45:29 PM [Info] User status changed: 76561198006362941. Status: Authenticated Message: N/A
+3/26/2016 5:45:29 PM [Info] User status changed: 76561198152831056. Status: Authenticated Message: N/A
+3/26/2016 5:45:29 PM [Info] User status changed: 76561197998087180. Status: Authenticated Message: N/A
+3/26/2016 5:45:29 PM [Info] User status changed: 76561198084770641. Status: Authenticated Message: N/A
+3/26/2016 5:45:36 PM [Info] User EAC client connection lost: 76561198121019368
+03/26/2016 17:45:37 [Info] [UnregisterUser] GUID: 76561198121019368
+3/26/2016 5:46:27 PM [Info] User status changed: 76561198003886454. Status: Authenticated Message: N/A
+03/26/2016 17:46:35 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 17:46:35 [Error] [UnregisterUser] Unknown user! Token: 00000000546FAB18 SizeOfToken: 234
+3/26/2016 5:46:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:48:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:48:20 PM [Info] User status changed: 76561198083495852. Status: Authenticated Message: N/A
+3/26/2016 5:48:40 PM [Info] User status changed: 76561198121019368. Status: Authenticated Message: N/A
+3/26/2016 5:49:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:50:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:52:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:53:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:53:39 PM [Info] User status changed: 76561198117520766. Status: Authenticated Message: N/A
+3/26/2016 5:54:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:56:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:57:22 PM [Info] User status changed: 76561198077422497. Status: Authenticated Message: N/A
+3/26/2016 5:57:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:58:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 5:59:17 PM [Info] User status changed: 76561198191558721. Status: Authenticated Message: N/A
+3/26/2016 6:00:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:01:34 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:02:42 [Info] [UnregisterUser] GUID: 76561198191558721
+3/26/2016 6:02:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:04:02 PM [Info] User status changed: 76561198191558721. Status: Authenticated Message: N/A
+3/26/2016 6:04:10 PM [Info] User EAC client connection lost: 76561198191558721
+3/26/2016 6:04:14 PM [Info] User status changed: 76561198191558721. Status: Authenticated Message: N/A
+3/26/2016 6:04:16 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:05:13 [Info] [UnregisterUser] GUID: 76561198191558721
+3/26/2016 6:05:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:05:51 [Info] [UnregisterUser] GUID: 76561198117520766
+3/26/2016 6:06:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:08:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:09:40 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:11:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:12:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:13:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:14:36 PM [Info] User status changed: 76561198090223543. Status: Authenticated Message: N/A
+3/26/2016 6:15:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:16:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:17:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:19:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:20:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:21:34 PM [Info] User status changed: 76561198078374720. Status: Authenticated Message: N/A
+3/26/2016 6:21:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:22:16 PM [Info] User status changed: 76561198076548016. Status: Authenticated Message: N/A
+3/26/2016 6:23:00 PM [Info] User status changed: 76561198208077331. Status: Authenticated Message: N/A
+3/26/2016 6:23:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:24:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:25:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:25:58 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:25:58 [Error] [UnregisterUser] Unknown user! Token: 0000000049B6B638 SizeOfToken: 234
+03/26/2016 18:25:59 [Info] [UnregisterUser] GUID: 76561198208077331
+03/26/2016 18:26:23 [Info] [UnregisterUser] GUID: 76561198152831056
+3/26/2016 6:26:31 PM [Info] User status changed: 76561198208077331. Status: Authenticated Message: N/A
+3/26/2016 6:27:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:27:14 [Info] [UnregisterUser] GUID: 76561198090223543
+3/26/2016 6:28:35 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:29:31 [Info] [UnregisterUser] GUID: 76561198078374720
+3/26/2016 6:29:56 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:31:17 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:31:17 PM [Info] User status changed: 76561198149954471. Status: Authenticated Message: N/A
+03/26/2016 18:31:26 [Info] [UnregisterUser] GUID: 76561197998087180
+3/26/2016 6:32:19 PM [Info] User without EAC connection: 76561198090223543. User status: Disconnected.
+03/26/2016 18:32:19 [Info] [UnregisterUser] GUID: 76561198090223543
+03/26/2016 18:32:19 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:32:19 [Error] [UnregisterUser] Unknown user! Token: 0000000057559D88 SizeOfToken: 234
+3/26/2016 6:32:38 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:32:52 PM [Info] User without EAC connection: 76561198090223543. User status: Disconnected.
+03/26/2016 18:32:53 [Info] [UnregisterUser] GUID: 76561198090223543
+03/26/2016 18:32:53 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:32:53 [Error] [UnregisterUser] Unknown user! Token: 0000000051F94C50 SizeOfToken: 234
+3/26/2016 6:33:25 PM [Info] User status changed: 76561197998087180. Status: Authenticated Message: N/A
+3/26/2016 6:33:32 PM [Info] User without EAC connection: 76561198090223543. User status: Disconnected.
+03/26/2016 18:33:33 [Info] [UnregisterUser] GUID: 76561198090223543
+03/26/2016 18:33:33 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:33:33 [Error] [UnregisterUser] Unknown user! Token: 000000004FFBFB18 SizeOfToken: 234
+3/26/2016 6:33:58 PM [Info] User status changed: 76561198155371793. Status: Authenticated Message: N/A
+3/26/2016 6:33:59 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:34:18 [Info] [UnregisterUser] GUID: 76561197994523959
+3/26/2016 6:34:19 PM [Info] User without EAC connection: 76561198090223543. User status: Disconnected.
+03/26/2016 18:34:19 [Info] [UnregisterUser] GUID: 76561198090223543
+03/26/2016 18:34:19 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:34:19 [Error] [UnregisterUser] Unknown user! Token: 0000000049A839E0 SizeOfToken: 234
+03/26/2016 18:34:28 [Info] [UnregisterUser] GUID: 76561198155371793
+3/26/2016 6:35:20 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:36:27 PM [Info] User status changed: 76561198155371793. Status: Authenticated Message: N/A
+3/26/2016 6:36:39 PM [Info] User status changed: 76561197994523959. Status: Authenticated Message: N/A
+3/26/2016 6:36:42 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:37:23 PM [Info] User status changed: 76561198090223543. Status: Authenticated Message: N/A
+3/26/2016 6:38:03 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:39:24 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:39:36 PM [Info] User status changed: 76561198116231725. Status: Authenticated Message: N/A
+3/26/2016 6:40:45 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:42:06 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:43:27 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:44:48 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:46:09 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:47:30 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:48:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:50:05 [Info] [UnregisterUser] GUID: 76561198090223543
+3/26/2016 6:50:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:51:33 PM [Info] User status changed: 76561198214076745. Status: Authenticated Message: N/A
+3/26/2016 6:51:34 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:51:48 [Info] [UnregisterUser] GUID: 76561198155371793
+3/26/2016 6:52:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:53:58 [Info] [UnregisterUser] GUID: 76561198214076745
+3/26/2016 6:54:16 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:55:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:56:36 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:56:36 [Error] [UnregisterUser] Unknown user! Token: 0000000015AD8750 SizeOfToken: 304
+3/26/2016 6:56:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 6:58:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 18:58:59 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 18:58:59 [Error] [UnregisterUser] Unknown user! Token: 00000000461DC8C0 SizeOfToken: 304
+3/26/2016 6:59:40 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:00:30 PM [Info] User status changed: 76561198182083909. Status: Authenticated Message: N/A
+03/26/2016 19:01:01 [Info] [UnregisterUser] GUID: 76561198076548016
+3/26/2016 7:01:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:01:30 PM [Info] User status changed: 76561198214076745. Status: Authenticated Message: N/A
+3/26/2016 7:02:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:03:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:05:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:05:38 PM [Info] User status changed: 76561198119020455. Status: Authenticated Message: N/A
+03/26/2016 19:06:12 [Info] [UnregisterUser] GUID: 76561198149954471
+3/26/2016 7:06:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:06:37 PM [Info] User status changed: 76561198032641492. Status: Authenticated Message: N/A
+3/26/2016 7:07:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:08:02 PM [Info] User status changed: 76561198152831056. Status: Authenticated Message: N/A
+03/26/2016 19:08:58 [Info] [UnregisterUser] GUID: 76561198214076745
+3/26/2016 7:09:09 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:09:39 PM [Info] User status changed: 76561198065190752. Status: Authenticated Message: N/A
+03/26/2016 19:10:14 [Info] [UnregisterUser] GUID: 76561198119020455
+3/26/2016 7:10:30 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 19:11:07 [Info] [UnregisterUser] GUID: 76561198116231725
+3/26/2016 7:11:51 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:13:12 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:14:33 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 19:15:32 [Info] [UnregisterUser] GUID: 76561198084770641
+3/26/2016 7:15:54 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:16:38 PM [Info] User status changed: 76561198113491555. Status: Authenticated Message: N/A
+3/26/2016 7:17:15 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:18:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:19:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:20:21 PM [Info] User status changed: 76561198238659708. Status: Authenticated Message: N/A
+3/26/2016 7:21:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 19:22:15 [Info] [UnregisterUser] GUID: 76561198003886454
+3/26/2016 7:22:40 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:24:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:25:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:26:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:28:01 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:28:02 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:28:02 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:28:02 [Error] [UnregisterUser] Unknown user! Token: 000000001C6538A8 SizeOfToken: 234
+3/26/2016 7:28:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 19:28:21 [Info] [UnregisterUser] GUID: 76561198113491555
+3/26/2016 7:29:08 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:29:09 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:29:09 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:29:09 [Error] [UnregisterUser] Unknown user! Token: 0000000015F3F500 SizeOfToken: 234
+3/26/2016 7:29:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:29:57 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:29:57 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:29:57 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:29:57 [Error] [UnregisterUser] Unknown user! Token: 000000007A779158 SizeOfToken: 234
+3/26/2016 7:30:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:30:47 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:30:47 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:30:47 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:30:47 [Error] [UnregisterUser] Unknown user! Token: 000000006F9AF8A8 SizeOfToken: 234
+3/26/2016 7:31:48 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:31:48 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:31:48 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:31:48 [Error] [UnregisterUser] Unknown user! Token: 0000000052F5CD88 SizeOfToken: 234
+3/26/2016 7:32:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:32:18 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:32:19 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:32:19 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:32:19 [Error] [UnregisterUser] Unknown user! Token: 0000000051244770 SizeOfToken: 234
+03/26/2016 19:32:43 [Info] [UnregisterUser] GUID: 76561198065190752
+3/26/2016 7:33:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:33:51 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:33:52 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:33:52 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:33:52 [Error] [UnregisterUser] Unknown user! Token: 0000000046B06D88 SizeOfToken: 234
+3/26/2016 7:34:06 PM [Info] User status changed: 76561198262291217. Status: Authenticated Message: N/A
+3/26/2016 7:34:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:36:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:37:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 19:37:51 [Info] [UnregisterUser] GUID: 76561197994523959
+3/26/2016 7:38:53 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:40:14 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:41:35 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:42:56 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:44:17 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:45:38 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:46:59 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:48:20 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:49:03 PM [Info] User without EAC connection: 76561198219016839. User status: Disconnected.
+03/26/2016 19:49:03 [Info] [UnregisterUser] GUID: 76561198219016839
+03/26/2016 19:49:03 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:49:03 [Error] [UnregisterUser] Unknown user! Token: 00000000499D08A8 SizeOfToken: 234
+3/26/2016 7:49:35 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:49:35 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:49:35 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:49:35 [Error] [UnregisterUser] Unknown user! Token: 0000000046C073C8 SizeOfToken: 234
+3/26/2016 7:49:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:50:28 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:50:29 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:50:29 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:50:29 [Error] [UnregisterUser] Unknown user! Token: 00000000457EA158 SizeOfToken: 234
+3/26/2016 7:50:59 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:50:59 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:50:59 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:50:59 [Error] [UnregisterUser] Unknown user! Token: 00000000428E6020 SizeOfToken: 234
+3/26/2016 7:51:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:51:32 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:51:33 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:51:33 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:51:33 [Error] [UnregisterUser] Unknown user! Token: 000000003E8BAEC0 SizeOfToken: 234
+03/26/2016 19:51:49 [Info] [UnregisterUser] GUID: 76561198262291217
+3/26/2016 7:52:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:53:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:55:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:56:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:57:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 7:58:37 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 19:58:38 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 19:58:38 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 19:58:38 [Error] [UnregisterUser] Unknown user! Token: 0000000015E59020 SizeOfToken: 234
+3/26/2016 7:59:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 19:59:58 [Info] [UnregisterUser] GUID: 76561198238659708
+3/26/2016 8:00:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:01:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:03:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:03:13 PM [Info] User without EAC connection: 76561198218334669. User status: Disconnected.
+03/26/2016 20:03:13 [Info] [UnregisterUser] GUID: 76561198218334669
+03/26/2016 20:03:13 [Error] [Cerberus] UnregisterPlayer called for unknown GUID: N/A.
+03/26/2016 20:03:13 [Error] [UnregisterUser] Unknown user! Token: 0000000051243B18 SizeOfToken: 234
+3/26/2016 8:03:35 PM [Info] User status changed: 76561198265971844. Status: Authenticated Message: N/A
+3/26/2016 8:04:34 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:05:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 20:06:16 [Info] [UnregisterUser] GUID: 76561198265971844
+3/26/2016 8:07:16 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:08:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 20:09:46 [Info] [UnregisterUser] GUID: 76561198182083909
+3/26/2016 8:09:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 20:10:11 [Info] [UnregisterUser] GUID: 76561198208077331
+3/26/2016 8:11:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:12:40 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:14:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:15:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:16:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:18:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 20:18:44 [Info] [UnregisterUser] GUID: 76561198083495852
+03/26/2016 20:18:50 [Info] [UnregisterUser] GUID: 76561198152831056
+3/26/2016 8:19:25 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:20:46 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:22:07 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:23:28 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:24:49 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:26:10 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:27:31 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:28:52 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:30:13 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:31:34 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:32:55 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:34:16 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:35:37 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:36:58 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:38:19 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 20:38:36 [Info] [UnregisterUser] GUID: 76561198121019368
+3/26/2016 8:39:40 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:41:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:42:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:43:43 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+03/26/2016 20:44:35 [Info] [UnregisterUser] GUID: 76561198006362941
+03/26/2016 20:44:38 [Info] [UnregisterUser] GUID: 76561198032641492
+03/26/2016 20:44:47 [Info] [UnregisterUser] GUID: 76561198077422497
+3/26/2016 8:44:54 PM [Info] User status changed: 76561198006362941. Status: Authenticated Message: N/A
+3/26/2016 8:44:54 PM [Info] User status changed: 76561198032641492. Status: Authenticated Message: N/A
+3/26/2016 8:45:04 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:45:13 PM [Info] User status changed: 76561198077422497. Status: Authenticated Message: N/A
+03/26/2016 20:57:40 [Info] [SetLogCallback] Procedure: 0000000016E2F2E0 LogLevel: Debug
+03/26/2016 20:57:40 [Info] [SetEACServer] Name: client
+3/26/2016 8:58:01 PM [Info] Back-end connection established.
+3/26/2016 8:58:05 PM [Info] User status changed: 76561198006362941. Status: Authenticated Message: N/A
+3/26/2016 8:58:22 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 8:59:01 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..
+3/26/2016 9:00:23 PM [Warning] [Cerberus] Connection attempt to the back-end failed! Reconnecting in 60 seconds..

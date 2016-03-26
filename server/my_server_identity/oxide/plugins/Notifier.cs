@@ -11,7 +11,7 @@ using System;
 
 namespace Oxide.Plugins
 {
-    [Info("Notifier", "SkinN", "3.0.2", ResourceId = 797)]
+    [Info("Notifier", "SkinN", "3.0.3", ResourceId = 797)]
     [Description("Server administration tool with chat based notifications")]
 
     class Notifier : RustPlugin
@@ -47,6 +47,14 @@ namespace Oxide.Plugins
             { "HU", "Hungarian" },
             { "JP", "Japanese" },
             { "CZ", "Czech" }            
+        };
+
+        // HTML default colors
+        private List<string> HTMLColors = new List<string> {
+            "white", "silver", "gray", "black", "red", "maroon",
+            "yellow", "orange", "olive", "lime", "green", "aqua",
+            "teal", "blue", "navy", "fuchsia", "purple", "cyan",
+            "grey", "lightblue", "dimgrey", "lightgreen", "pink", "magenta"
         };
 
         // Player Database Class
@@ -109,8 +117,7 @@ namespace Oxide.Plugins
         private void LoadVariables()
         {
             // Force Clear Configuration On Developer Mode
-            if (Dev)
-                Config.Clear();
+            //Config.Clear();
 
             #region General Settings
 
@@ -437,9 +444,15 @@ namespace Oxide.Plugins
             }
             else
             {   
+                foreach (Match i in names.Matches(text))
+                {
+                    string x = i.ToString().Replace("<", "").Replace(">", "");
+                    if (HTMLColors.Contains(x.ToLower()))
+                        text = text.Replace("<" + x + ">", "<color=" + x.ToLower() + ">");
+                }
+
                 // Replace tags
                 text = end.Replace(text, "</color>");
-                text = names.Replace(text, "<color=$1>");
                 text = hex.Replace(text, "<color=$1>");
             }
 
@@ -536,11 +549,12 @@ namespace Oxide.Plugins
             }
         }
 
-        void OnPlayerRespawned(BasePlayer player)
+        void OnPlayerSleepEnded(BasePlayer player)
         {
             string uid = player.userID.ToString();
             if (WM_Queue.Contains(uid))
             {
+                WM_Queue.Remove(uid);
                 List<string> WelcomeMessage = ConvertList(Config.Get("Welcome Messages"));
                 foreach (string line in WelcomeMessage)
                     Tell(player, GetNameFormats(line, player), prefix: false);

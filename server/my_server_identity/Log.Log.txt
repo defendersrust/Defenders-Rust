@@ -4375,3 +4375,1568 @@
 [03/26/2016 12:35:28] [Oxide] 12:35 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
 [03/26/2016 12:35:42] 132.255.196.56:51476/76561197994523959/Bokudo has auth level 2
 [03/26/2016 12:36:28] [Oxide] 12:36 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 12:37:28] [Oxide] 12:37 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 12:38:03] [Oxide] 12:38 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 12:38:03] [Oxide] 12:38 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 12:38:28] [Oxide] 12:38 [Info] [BetterLoot] BetterLoot: Refreshed 20 containers (2 destroyed)
+[03/26/2016 12:39:28] [Oxide] 12:39 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (1 destroyed)
+[03/26/2016 12:39:54] [Oxide] 12:39 [Info] [Notifier v2.18.4] [ADMIN] Bokudo entrou no servidor, país de origem Brazil.
+[03/26/2016 12:39:54] [Oxide] 12:39 [Info] [Notifier] Bokudo joined from Brazil
+[03/26/2016 12:39:54] 132.255.196.56:51476/76561197994523959/[ADMIN] Bokudo joined [windows/76561197994523959]
+[03/26/2016 12:40:28] [Oxide] 12:40 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (1 destroyed)
+[03/26/2016 12:41:01] [Oxide] 12:41 [Info] [Notifier v2.18.4] Jogadores ON: 3 / 100 Folgados: 23
+[03/26/2016 12:41:04] [Oxide] 12:41 [Info] [Notifier] Insultos e Xingamentos não serão tolerados!
+[03/26/2016 12:41:28] [Oxide] 12:41 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (3 destroyed)
+[03/26/2016 12:41:42] Saved 11,955 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:41:42] Saving complete
+[03/26/2016 12:42:28] [Oxide] 12:42 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 12:42:42] Saved 11,964 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:42:42] Saving complete
+[03/26/2016 12:43:05] [Oxide] 12:43 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 12:43:21] [Oxide] 12:43 [Info] [HeliControl] 1 helicopter(s) were annihilated!
+[03/26/2016 12:43:28] [Oxide] 12:43 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 12:43:41] Saved 11,978 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:43:41] Saving complete
+[03/26/2016 12:44:28] [Oxide] 12:44 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (1 destroyed)
+[03/26/2016 12:44:41] Saved 11,984 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:44:41] Saving complete
+[03/26/2016 12:45:28] [Oxide] 12:45 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 12:45:41] Saved 12,007 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:45:41] Saving complete
+[03/26/2016 12:46:03] [Oxide] 12:46 [Info] Unloaded plugin Timed Events v1.1.1 by InSaNe8472
+[03/26/2016 12:46:03] [Oxide] 12:46 [Info] Loaded plugin Timed Events v1.1.1 by InSaNe8472
+[03/26/2016 12:46:28] [Oxide] 12:46 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 12:46:41] Saved 11,985 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:46:41] Saving complete
+[03/26/2016 12:47:41] Saved 11,980 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:47:41] Saving complete
+[03/26/2016 12:48:28] [Oxide] 12:48 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 12:48:41] Saved 11,970 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:48:41] Saving complete
+[03/26/2016 12:49:28] [Oxide] 12:49 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 12:49:41] Saved 11,963 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:49:41] Saving complete
+[03/26/2016 12:50:28] [Oxide] 12:50 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (1 destroyed)
+[03/26/2016 12:50:41] Saved 11,960 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:50:41] Saving complete
+[03/26/2016 12:51:28] [Oxide] 12:51 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 12:51:41] Saved 11,955 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:51:41] Saving complete
+[03/26/2016 12:52:28] [Oxide] 12:52 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 12:52:41] Saved 11,948 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:52:41] Saving complete
+[03/26/2016 12:53:01] [Oxide] 12:53 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+[03/26/2016 12:53:04] [Oxide] 12:53 [Info] [Notifier] Você está jogando em: [BR] DENFENDERS BRASIL -WIPE 24/03- 5x/INSTANT/TP/HOME/AIRDROP/KIT
+[03/26/2016 12:53:28] [Oxide] 12:53 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (3 destroyed)
+[03/26/2016 12:53:40] Saved 11,949 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:53:40] Saving complete
+[03/26/2016 12:54:28] [Oxide] 12:54 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 12:54:40] Saved 11,952 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:54:40] Saving complete
+[03/26/2016 12:55:28] [Oxide] 12:55 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (1 destroyed)
+[03/26/2016 12:55:40] Saved 11,947 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:55:40] Saving complete
+[03/26/2016 12:56:28] [Oxide] 12:56 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 12:56:40] Saved 11,948 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:56:40] Saving complete
+[03/26/2016 12:57:28] [Oxide] 12:57 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (2 destroyed)
+[03/26/2016 12:57:40] Saved 11,945 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:57:40] Saving complete
+[03/26/2016 12:58:28] [Oxide] 12:58 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 12:58:40] Saved 11,933 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:58:40] Saving complete
+[03/26/2016 12:59:28] [Oxide] 12:59 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 12:59:40] Saved 11,928 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 12:59:40] Saving complete
+[03/26/2016 13:00:05] 191.251.144.13:63199/76561198003886454/ThunderDark (BR) joined [windows/76561198003886454]
+[03/26/2016 13:00:05] [Oxide] 13:00 [Info] [Notifier] ThunderDark (BR) joined from Brazil
+[03/26/2016 13:00:07] [Oxide] 13:00 [Info] [Notifier v2.18.4] ThunderDark (BR) entrou no servidor, país de origem Brazil.
+[03/26/2016 13:00:29] [Oxide] 13:00 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 13:00:40] Saved 11,934 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:00:40] Saving complete
+[03/26/2016 13:01:29] [Oxide] 13:01 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 13:01:39] Saved 11,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:01:39] Saving complete
+[03/26/2016 13:02:29] [Oxide] 13:02 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:02:39] Saved 11,933 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:02:39] Saving complete
+[03/26/2016 13:03:29] [Oxide] 13:03 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 13:03:39] Saved 11,935 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:03:39] Saving complete
+[03/26/2016 13:04:29] [Oxide] 13:04 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 13:04:39] Saved 11,945 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:04:39] Saving complete
+[03/26/2016 13:05:01] [Oxide] 13:05 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/26/2016 13:05:04] [Oxide] 13:05 [Info] [Notifier] Precisa de Ajuda? Entre em contato com os Admins no chat.
+[03/26/2016 13:05:29] [Oxide] 13:05 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:05:39] Saved 11,946 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:05:39] Saving complete
+[03/26/2016 13:06:29] [Oxide] 13:06 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 13:06:33] 201.159.117.66:59069/76561198205236029/Hero_HD joined [windows/76561198205236029]
+[03/26/2016 13:06:34] [Oxide] 13:06 [Info] [Notifier v2.18.4] Hero_HD entrou no servidor, país de origem Brazil.
+[03/26/2016 13:06:34] [Oxide] 13:06 [Info] [Notifier] Hero_HD joined from Brazil
+[03/26/2016 13:06:39] Saved 11,956 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:06:39] Saving complete
+[03/26/2016 13:07:29] [Oxide] 13:07 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 13:07:39] Saved 11,947 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:07:39] Saving complete
+[03/26/2016 13:08:29] [Oxide] 13:08 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 13:08:39] Saved 11,944 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.02).
+[03/26/2016 13:08:39] Saving complete
+[03/26/2016 13:09:03] [Oxide] 13:09 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 13:09:03] [Oxide] 13:09 [Info] [Easy Airdrop] Console Message
+[03/26/2016 13:09:29] [Oxide] 13:09 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:10:29] [Oxide] 13:10 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 13:11:29] [Oxide] 13:11 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (2 destroyed)
+[03/26/2016 13:12:29] [Oxide] 13:12 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:12:39] 200.140.4.32:65035/76561198280632910/BiGoDe GroSsO joined [windows/76561198280632910]
+[03/26/2016 13:12:39] [Oxide] 13:12 [Info] [Notifier] BiGoDe GroSsO joined from Brazil
+[03/26/2016 13:12:39] [Oxide] 13:12 [Info] [Notifier v2.18.4] BiGoDe GroSsO entrou no servidor, país de origem Brazil.
+[03/26/2016 13:13:29] [Oxide] 13:13 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 13:13:32] [Oxide] 13:13 [Info] [Death Notes] BiGoDe GroSsO matou um Javali com Arco de Caça á 14.37m.
+[03/26/2016 13:14:12] [Oxide] 13:14 [Info] [SkipNightVote] SkipNightVote: has changed the server time.
+[03/26/2016 13:14:29] [Oxide] 13:14 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 13:14:38] Saved 12,000 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 13:14:38] Saving complete
+[03/26/2016 13:15:29] [Oxide] 13:15 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 13:15:39] Saved 12,017 ents, serialization(0.01), write(0.01), disk(0.00) totalstall(0.04).
+[03/26/2016 13:15:39] Saving complete
+[03/26/2016 13:16:29] [Oxide] 13:16 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 13:16:36] [Oxide] 13:16 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 13:16:39] Saved 12,026 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:16:39] Saving complete
+[03/26/2016 13:17:01] [Oxide] 13:17 [Info] [Notifier v2.18.4] Jogadores ON: 6 / 100 Folgados: 23
+[03/26/2016 13:17:04] [Oxide] 13:17 [Info] [Notifier] Abuso de Bugs, Cheats e Hackers não são tolerados, resultando em BAN permanente.
+[03/26/2016 13:17:29] [Oxide] 13:17 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:17:39] Saved 12,031 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:17:39] Saving complete
+[03/26/2016 13:18:29] [Oxide] 13:18 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 13:18:39] Saved 12,029 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.04).
+[03/26/2016 13:18:39] Saving complete
+[03/26/2016 13:19:29] [Oxide] 13:19 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 13:19:39] Saved 12,025 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:19:39] Saving complete
+[03/26/2016 13:20:29] [Oxide] 13:20 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:20:39] Saved 12,022 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:20:39] Saving complete
+[03/26/2016 13:21:29] [Oxide] 13:21 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 13:21:38] Saved 12,021 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:21:38] Saving complete
+[03/26/2016 13:22:29] [Oxide] 13:22 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 13:22:38] Saved 12,025 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:22:38] Saving complete
+[03/26/2016 13:23:29] [Oxide] 13:23 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 13:23:38] Saved 12,028 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:23:38] Saving complete
+[03/26/2016 13:24:29] [Oxide] 13:24 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:24:33] [Oxide] 13:24 [Info] [Death Notes] Hero_HD matou um Cavalo com Arco de Caça á 17.96m.
+[03/26/2016 13:24:38] Saved 12,036 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:24:38] Saving complete
+[03/26/2016 13:24:49] [Oxide] 13:24 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 13:24:49] [Oxide] 13:24 [Info] [Easy Airdrop] Console Message
+[03/26/2016 13:24:49] [Oxide] 13:24 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 13:25:29] [Oxide] 13:25 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 13:26:29] [Oxide] 13:26 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 13:26:57] [Oxide] 13:26 [Info] [Notifier v2.18.4] TEQUILA entrou no servidor, país de origem Brazil.
+[03/26/2016 13:26:57] [Oxide] 13:26 [Info] [Notifier] [TiTaN] TEQUILA joined from Brazil
+[03/26/2016 13:26:57] 189.38.2.166:61865/76561198006362941/TEQUILA joined [windows/76561198006362941]
+[03/26/2016 13:27:12] [Oxide] 13:27 [Info] [Notifier v2.18.4] dc entrou no servidor, país de origem Brazil.
+[03/26/2016 13:27:12] [Oxide] 13:27 [Info] [Notifier] [DCW] dc joined from Brazil
+[03/26/2016 13:27:12] 200.217.99.114:52892/76561198083495852/dc joined [windows/76561198083495852]
+[03/26/2016 13:27:29] [Oxide] 13:27 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:27:58] 132.255.196.56:51476/76561197994523959/[ADMIN] Bokudo disconnecting: closing
+[03/26/2016 13:27:58] [Oxide] 13:27 [Info] [Notifier v2.18.4] [ADMIN] Bokudo deixou o servidor. (Reação: Disconnected)
+[03/26/2016 13:27:58] [Oxide] 13:27 [Info] [Notifier] Bokudo left the server
+[03/26/2016 13:28:29] [Oxide] 13:28 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 13:29:01] [Oxide] 13:29 [Info] [Notifier v2.18.4] Este servidor usa os mods Oxide 2.
+[03/26/2016 13:29:04] [Oxide] 13:29 [Info] [Notifier] Total de Jogadores 7/100 , e  23 preguiçosos.
+[03/26/2016 13:29:30] [Oxide] 13:29 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 13:29:38] [Oxide] 13:29 [Info] [Death Notes] BiGoDe GroSsO sangrando.
+[03/26/2016 13:29:38] BiGoDe GroSsO[308883/76561198280632910] died (Bleeding)
+[03/26/2016 13:29:40] [Oxide] 13:29 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 13:29:40] [Oxide] 13:29 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 13:30:16] 132.255.196.56:56079/76561197994523959/Bokudo has auth level 2
+[03/26/2016 13:30:30] [Oxide] 13:30 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 13:30:37] Saved 12,068 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:30:37] Saving complete
+[03/26/2016 13:31:30] [Oxide] 13:31 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 13:31:37] Saved 12,077 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:31:37] Saving complete
+[03/26/2016 13:32:05] 200.140.4.32:65035/76561198280632910/BiGoDe GroSsO disconnecting: disconnect
+[03/26/2016 13:32:05] [Oxide] 13:32 [Info] [Notifier v2.18.4] BiGoDe GroSsO deixou o servidor. (Reação: Disconnected)
+[03/26/2016 13:32:05] [Oxide] 13:32 [Info] [Notifier] BiGoDe GroSsO left the server
+[03/26/2016 13:32:27] [Oxide] 13:32 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 13:32:30] [Oxide] 13:32 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:32:37] Saved 12,067 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:32:37] Saving complete
+[03/26/2016 13:33:30] [Oxide] 13:33 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 13:33:37] Saved 12,073 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:33:37] Saving complete
+[03/26/2016 13:34:17] [Oxide] 13:34 [Info] [Notifier v2.18.4] [ADMIN] Bokudo entrou no servidor, país de origem Brazil.
+[03/26/2016 13:34:17] [Oxide] 13:34 [Info] [Notifier] Bokudo joined from Brazil
+[03/26/2016 13:34:17] 132.255.196.56:56079/76561197994523959/[ADMIN] Bokudo joined [windows/76561197994523959]
+[03/26/2016 13:34:30] [Oxide] 13:34 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 13:34:37] Saved 12,076 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:34:37] Saving complete
+[03/26/2016 13:35:30] [Oxide] 13:35 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:35:37] Saved 12,079 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:35:37] Saving complete
+[03/26/2016 13:35:48] [Oxide] 13:35 [Info] [Death Notes] Lobo foi seguindo Hero_HD até esquarteja-lo.. hue
+[03/26/2016 13:35:48] Hero_HD[307217/76561198205236029] was killed by wolf.prefab (wolf)
+[03/26/2016 13:36:30] [Oxide] 13:36 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 13:36:37] Saved 12,103 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.03).
+[03/26/2016 13:36:37] Saving complete
+[03/26/2016 13:36:58] 201.159.117.66:59069/76561198205236029/Hero_HD kicked: Unresponsive
+[03/26/2016 13:36:58] [Oxide] 13:36 [Info] [Notifier v2.18.4] Hero_HD deixou o servidor. (Reação: Unresponsive)
+[03/26/2016 13:36:58] [Oxide] 13:36 [Info] [Notifier] Hero_HD left the server
+[03/26/2016 13:37:30] [Oxide] 13:37 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 13:37:37] Saved 12,109 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:37:37] Saving complete
+[03/26/2016 13:38:30] [Oxide] 13:38 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 13:38:37] Saved 12,104 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:38:37] Saving complete
+[03/26/2016 13:39:04] [Oxide] 13:39 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Salvaged Sword á 1.22m.
+[03/26/2016 13:39:30] [Oxide] 13:39 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:39:36] Saved 12,095 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:39:36] Saving complete
+[03/26/2016 13:39:38] [Oxide] 13:39 [Info] [Death Notes] [TiTaN] TEQUILA matou um Veado com Arco de Caça á 11.21m.
+[03/26/2016 13:40:30] [Oxide] 13:40 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (1 destroyed)
+[03/26/2016 13:40:36] Saved 12,104 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:40:36] Saving complete
+[03/26/2016 13:41:01] [Oxide] 13:41 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/27/2024 14:15:16
+[03/26/2016 13:41:04] [Oxide] 13:41 [Info] [Notifier] Abuso de Bugs, Cheats e Hackers não são tolerados, resultando em BAN permanente.
+[03/26/2016 13:41:30] [Oxide] 13:41 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (1 destroyed)
+[03/26/2016 13:41:36] Saved 12,097 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.02).
+[03/26/2016 13:41:36] Saving complete
+[03/26/2016 13:42:30] [Oxide] 13:42 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:42:36] Saved 12,101 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:42:36] Saving complete
+[03/26/2016 13:43:30] [Oxide] 13:43 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 13:43:36] Saved 12,096 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:43:36] Saving complete
+[03/26/2016 13:43:59] [Oxide] 13:43 [Info] [Death Notes] Bokudo achou que era o Sub-Zero e chegou ao zero absoluto.
+[03/26/2016 13:43:59] Bokudo[18183/76561197994523959] died (Cold)
+[03/26/2016 13:44:30] [Oxide] 13:44 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 13:44:36] Saved 12,099 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:44:36] Saving complete
+[03/26/2016 13:45:30] [Oxide] 13:45 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 13:45:36] Saved 12,105 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:45:36] Saving complete
+[03/26/2016 13:46:03] [Oxide] 13:46 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 13:46:03] [Oxide] 13:46 [Info] [Easy Airdrop] Console Message
+[03/26/2016 13:46:03] [Oxide] 13:46 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 13:46:30] [Oxide] 13:46 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 13:47:30] [Oxide] 13:47 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:48:23] Invalid Position: assets/prefabs/player/player_corpse.prefab[318612] (59.6, -5001.7, 7.7) (destroying)
+[03/26/2016 13:48:30] [Oxide] 13:48 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 13:49:30] [Oxide] 13:49 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 13:49:47] [Oxide] 13:49 [Info] [Death Notes] ThunderDark (BR) matou um Javali com Arco de Caça á 14.46m.
+[03/26/2016 13:50:30] [Oxide] 13:50 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:51:30] [Oxide] 13:51 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 13:51:35] Saved 12,115 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:51:35] Saving complete
+[03/26/2016 13:52:00] [Oxide] 13:52 [Info] [Death Notes] Bokudo matou um Veado com Arco de Caça á 63m.
+[03/26/2016 13:52:30] [Oxide] 13:52 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 13:52:35] Saved 12,106 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 13:52:35] Saving complete
+[03/26/2016 13:53:01] [Oxide] 13:53 [Info] [Notifier v2.18.4] Olha Hora!(Real) --> 03/26/2016 13:53
+[03/26/2016 13:53:04] [Oxide] 13:53 [Info] [Notifier] Precisa de Ajuda? Entre em contato com os Admins no chat.
+[03/26/2016 13:53:30] [Oxide] 13:53 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 13:53:35] Saved 12,109 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:53:35] Saving complete
+[03/26/2016 13:53:36] [Oxide] 13:53 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 13:53:39] [Oxide] 13:53 [Info] [Notifier v2.18.4] Hero_HD entrou no servidor, país de origem Brazil.
+[03/26/2016 13:53:39] [Oxide] 13:53 [Info] [Notifier] Hero_HD joined from Brazil
+[03/26/2016 13:53:39] 201.159.117.66:63148/76561198205236029/Hero_HD joined [windows/76561198205236029]
+[03/26/2016 13:54:30] [Oxide] 13:54 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (1 destroyed)
+[03/26/2016 13:54:34] Saved 12,115 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:54:35] Saving complete
+[03/26/2016 13:55:30] [Oxide] 13:55 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:55:34] Saved 12,108 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:55:34] Saving complete
+[03/26/2016 13:56:30] [Oxide] 13:56 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 13:56:34] Saved 12,105 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:56:34] Saving complete
+[03/26/2016 13:57:30] [Oxide] 13:57 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 13:57:34] Saved 12,114 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 13:57:34] Saving complete
+[03/26/2016 13:58:30] [Oxide] 13:58 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 13:58:34] Saved 12,105 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:58:34] Saving complete
+[03/26/2016 13:59:14] [Oxide] 13:59 [Info] [Death Notes] Hero_HD matou um Javali com Lança de Madeira á 2.47m.
+[03/26/2016 13:59:30] [Oxide] 13:59 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 13:59:34] Saved 12,093 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 13:59:34] Saving complete
+[03/26/2016 14:00:30] [Oxide] 14:00 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (3 destroyed)
+[03/26/2016 14:00:34] Saved 12,086 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:00:34] Saving complete
+[03/26/2016 14:00:35] [Oxide] 14:00 [Info] [SkipNightVote] SkipNightVote: has changed the server time.
+[03/26/2016 14:00:50] [Oxide] 14:00 [Info] [Death Notes] Diogo matou um Urso com Pump Shotgun á 10.64m.
+[03/26/2016 14:01:31] [Oxide] 14:01 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 14:01:34] Saved 12,077 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:01:34] Saving complete
+[03/26/2016 14:02:31] [Oxide] 14:02 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:02:34] Saved 12,081 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:02:34] Saving complete
+[03/26/2016 14:02:41] 186.213.244.121:59564/76561198293836499/Samuel disconnecting: closing
+[03/26/2016 14:03:11] [Oxide] 14:03 [Info] [Death Notes] ThunderDark (BR) sangrando.
+[03/26/2016 14:03:11] ThunderDark (BR)[306767/76561198003886454] died (Bleeding)
+[03/26/2016 14:03:31] [Oxide] 14:03 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 14:03:34] Saved 12,099 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:03:34] Saving complete
+[03/26/2016 14:03:55] [Oxide] 14:03 [Info] [Death Notes] Diogo matou um Veado com Pump Shotgun á 13.69m.
+[03/26/2016 14:04:08] [Oxide] 14:04 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Salvaged Sword á 0.9m.
+[03/26/2016 14:04:31] [Oxide] 14:04 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (5 destroyed)
+[03/26/2016 14:04:33] Saved 12,101 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:04:33] Saving complete
+[03/26/2016 14:05:01] [Oxide] 14:05 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/27/2024 09:41:11
+[03/26/2016 14:05:04] [Oxide] 14:05 [Info] [Notifier] Cheque os comandos Notifier's com /notifier help.
+[03/26/2016 14:05:31] [Oxide] 14:05 [Info] [BetterLoot] BetterLoot: Refreshed 0 containers (1 destroyed)
+[03/26/2016 14:05:33] Saved 12,095 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:05:33] Saving complete
+[03/26/2016 14:05:43] [Oxide] 14:05 [Info] [Death Notes] Bokudo matou um Veado com Arco de Caça á 10.3m.
+[03/26/2016 14:06:23] [Oxide] 14:06 [Info] [Death Notes] Bokudo matou um Urso com Pump Shotgun á 3.93m.
+[03/26/2016 14:06:31] [Oxide] 14:06 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 14:06:33] Saved 12,098 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:06:33] Saving complete
+[03/26/2016 14:07:31] [Oxide] 14:07 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 14:07:33] Saved 12,117 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:07:33] Saving complete
+[03/26/2016 14:08:31] [Oxide] 14:08 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 14:08:33] Saved 12,103 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:08:33] Saving complete
+[03/26/2016 14:09:31] [Oxide] 14:09 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (2 destroyed)
+[03/26/2016 14:09:33] Saved 12,103 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:09:33] Saving complete
+[03/26/2016 14:10:31] [Oxide] 14:10 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:10:33] Saved 12,101 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:10:33] Saving complete
+[03/26/2016 14:11:11] [Oxide] 14:11 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 14:11:11] [Oxide] 14:11 [Info] [Easy Airdrop] Console Message
+[03/26/2016 14:11:11] [Oxide] 14:11 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 14:11:31] [Oxide] 14:11 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:12:31] [Oxide] 14:12 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:13:31] [Oxide] 14:13 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 14:14:31] [Oxide] 14:14 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 14:15:31] [Oxide] 14:15 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (1 destroyed)
+[03/26/2016 14:16:02] [Oxide] 14:16 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 14:16:02] [Oxide] 14:16 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 14:16:31] [Oxide] 14:16 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 14:16:32] Saved 12,134 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:16:32] Saving complete
+[03/26/2016 14:17:01] [Oxide] 14:17 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+[03/26/2016 14:17:04] [Oxide] 14:17 [Info] [Notifier] Você está jogando em: [BR] DENFENDERS BRASIL -WIPE 24/03- 5x/INSTANT/TP/HOME/AIRDROP/KIT
+[03/26/2016 14:17:26] [Oxide] 14:17 [Info] [Death Notes] Diogo matou um Urso com Pump Shotgun á 2.68m.
+[03/26/2016 14:17:31] [Oxide] 14:17 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:17:32] Saved 12,129 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:17:32] Saving complete
+[03/26/2016 14:18:31] [Oxide] 14:18 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 14:18:31] Saved 12,125 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:18:31] Saving complete
+[03/26/2016 14:18:50] [Oxide] 14:18 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 14:19:31] [Oxide] 14:19 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 14:19:31] Saved 12,112 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:19:31] Saving complete
+[03/26/2016 14:20:31] Saved 12,109 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 14:20:31] Saving complete
+[03/26/2016 14:20:41] [Oxide] 14:20 [Info] [Death Notes] BiGoDe GroSsO foi morto por Lobo enquanto dormia.
+[03/26/2016 14:20:41] BiGoDe GroSsO[308883/76561198280632910] was killed by wolf.prefab (wolf)
+[03/26/2016 14:21:31] Saved 12,106 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:21:31] Saving complete
+[03/26/2016 14:21:31] [Oxide] 14:21 [Info] [BetterLoot] BetterLoot: Refreshed 10 containers (0 destroyed)
+[03/26/2016 14:22:31] Saved 12,126 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:22:31] Saving complete
+[03/26/2016 14:22:31] [Oxide] 14:22 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 14:23:27] [Oxide] 14:23 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Salvaged Sword á 0.83m.
+[03/26/2016 14:23:31] Saved 12,135 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:23:31] Saving complete
+[03/26/2016 14:23:31] [Oxide] 14:23 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 14:24:31] Saved 12,143 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:24:31] Saving complete
+[03/26/2016 14:24:31] [Oxide] 14:24 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 14:25:31] Saved 12,142 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:25:31] Saving complete
+[03/26/2016 14:25:31] [Oxide] 14:25 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:26:30] Saved 12,136 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:26:30] Saving complete
+[03/26/2016 14:26:31] [Oxide] 14:26 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:27:30] Saved 12,142 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:27:30] Saving complete
+[03/26/2016 14:27:31] [Oxide] 14:27 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:28:30] Saved 12,152 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:28:30] Saving complete
+[03/26/2016 14:28:31] [Oxide] 14:28 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 14:29:01] [Oxide] 14:29 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/26/2016 14:29:04] [Oxide] 14:29 [Info] [Notifier] Cheque os comandos Notifier's com /notifier help.
+[03/26/2016 14:29:30] Saved 12,139 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:29:30] Saving complete
+[03/26/2016 14:29:31] [Oxide] 14:29 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 14:30:30] Saved 12,140 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:30:30] Saving complete
+[03/26/2016 14:30:31] [Oxide] 14:30 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (1 destroyed)
+[03/26/2016 14:31:30] Saved 12,140 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:31:30] Saving complete
+[03/26/2016 14:31:32] [Oxide] 14:31 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 14:32:30] 179.191.8.5:54989/76561198082216382/Paludetto joined [windows/76561198082216382]
+[03/26/2016 14:32:30] Saved 12,146 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:32:30] Saving complete
+[03/26/2016 14:32:30] [Oxide] 14:32 [Info] [Notifier v2.18.4] Paludetto entrou no servidor, país de origem Brazil.
+[03/26/2016 14:32:32] [Oxide] 14:32 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:32:37] [Oxide] 14:32 [Info] [Notifier] Paludetto joined from Brazil
+[03/26/2016 14:32:37] [Oxide] 14:32 [Info] Notifier was compiled successfully in 2406ms
+[03/26/2016 14:32:37] [Oxide] 14:32 [Info] Unloaded plugin Notifier v3.0.2 by SkinN
+[03/26/2016 14:32:37] [Oxide] 14:32 [Info] Loaded plugin Notifier v3.0.3 by SkinN
+[03/26/2016 14:32:37] [Oxide] 14:32 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+[03/26/2016 14:33:11] 189.38.2.166:61865/76561198006362941/TEQUILA kicked: Unresponsive
+[03/26/2016 14:33:11] [Oxide] 14:33 [Info] [Notifier v2.18.4] TEQUILA deixou o servidor. (Reação: Unresponsive)
+[03/26/2016 14:33:11] [Oxide] 14:33 [Info] [Notifier] [TiTaN] TEQUILA left the server
+[03/26/2016 14:33:30] Saved 12,143 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:33:30] Saving complete
+[03/26/2016 14:33:32] [Oxide] 14:33 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 14:34:30] Saved 12,147 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:34:30] Saving complete
+[03/26/2016 14:34:32] [Oxide] 14:34 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 14:34:45] 189.40.20.208:65384/76561198084770641/Serapha joined [windows/76561198084770641]
+[03/26/2016 14:34:48] [Oxide] 14:34 [Info] [Notifier v2.18.4] Serapha entrou no servidor, país de origem Brazil.
+[03/26/2016 14:34:48] [Oxide] 14:34 [Info] [Notifier] Serapha joined from Brazil
+[03/26/2016 14:35:30] Saved 12,159 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:35:30] Saving complete
+[03/26/2016 14:35:41] 179.191.8.5:54989/76561198082216382/Paludetto disconnecting: disconnect
+[03/26/2016 14:35:41] [Oxide] 14:35 [Info] [Notifier v2.18.4] Paludetto deixou o servidor. (Reação: Disconnected)
+[03/26/2016 14:35:41] [Oxide] 14:35 [Info] [Notifier] Paludetto left the server
+[03/26/2016 14:36:30] Saved 12,169 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:36:30] Saving complete
+[03/26/2016 14:36:32] [Oxide] 14:36 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (4 destroyed)
+[03/26/2016 14:37:17] [Oxide] 14:37 [Info] [Death Notes] ThunderDark (BR) matou um Javali com Arco de Caça á 23.13m.
+[03/26/2016 14:37:30] Saved 12,168 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:37:30] Saving complete
+[03/26/2016 14:37:32] [Oxide] 14:37 [Info] [BetterLoot] BetterLoot: Refreshed 13 containers (2 destroyed)
+[03/26/2016 14:38:30] Saved 12,172 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:38:30] Saving complete
+[03/26/2016 14:38:32] [Oxide] 14:38 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 14:39:24] 201.159.117.66:63148/76561198205236029/Hero_HD disconnecting: disconnect
+[03/26/2016 14:39:24] [Oxide] 14:39 [Info] [Notifier v2.18.4] Hero_HD deixou o servidor. (Reação: Disconnected)
+[03/26/2016 14:39:24] [Oxide] 14:39 [Info] [Notifier] Hero_HD left the server
+[03/26/2016 14:39:30] Saved 12,174 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:39:30] Saving complete
+[03/26/2016 14:39:32] [Oxide] 14:39 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (2 destroyed)
+[03/26/2016 14:39:36] [Oxide] 14:39 [Info] NoEscape was compiled successfully in 2594ms
+[03/26/2016 14:39:36] [Oxide] 14:39 [Info] Loaded plugin NoEscape v0.2.6 by Calytic @ cyclone.network
+[03/26/2016 14:39:45] [Oxide] 14:39 [Info] [Death Notes] Diogo matou um Lobo com Pump Shotgun á 2.23m.
+[03/26/2016 14:40:29] Saved 12,190 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:40:29] Saving complete
+[03/26/2016 14:40:32] [Oxide] 14:40 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:41:01] [Oxide] 14:41 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+[03/26/2016 14:41:30] Saved 12,187 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:41:30] Saving complete
+[03/26/2016 14:41:32] [Oxide] 14:41 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:41:46] 186.195.26.250:57083/76561198152831056/Vinicios Moraes joined [windows/76561198152831056]
+[03/26/2016 14:41:46] [Oxide] 14:41 [Info] [Notifier v2.18.4] Vinicios Moraes entrou no servidor, país de origem Brazil.
+[03/26/2016 14:41:49] [Oxide] 14:41 [Info] [Notifier] Vinicios Moraes joined from Brazil
+[03/26/2016 14:42:19] [Oxide] 14:42 [Info] [Death Notes] Shadowkyl matou um Javali com Arco de Caça á 13.45m.
+[03/26/2016 14:42:26] [Oxide] 14:42 [Info] [Notifier v2.18.4] TEQUILA entrou no servidor, país de origem Brazil.
+[03/26/2016 14:42:26] [Oxide] 14:42 [Info] [Notifier] [TiTaN] TEQUILA joined from Brazil
+[03/26/2016 14:42:26] 189.38.2.166:60568/76561198006362941/TEQUILA joined [windows/76561198006362941]
+[03/26/2016 14:42:30] Saved 12,189 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:42:30] Saving complete
+[03/26/2016 14:42:32] [Oxide] 14:42 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:43:29] Saved 12,206 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:43:29] Saving complete
+[03/26/2016 14:43:32] [Oxide] 14:43 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 14:44:16] [Oxide] 14:44 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Arco de Caça á 5.74m.
+[03/26/2016 14:44:29] Saved 12,212 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:44:29] Saving complete
+[03/26/2016 14:44:32] [Oxide] 14:44 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 14:44:37] [Oxide] 14:44 [Info] [Notifier] Total de Jogadores 8/100 , e  24 preguiçosos.
+[03/26/2016 14:44:59] [Oxide] 14:44 [Info] [Death Notes] Shadowkyl matou um Galinha com Arco de Caça á 11.16m.
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] dc deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier] [DCW] dc left the server
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] Shadowkyl deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier] Shadowkyl left the server
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] Serapha deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier] Serapha left the server
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] TEQUILA deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier] [TiTaN] TEQUILA left the server
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] Diogo deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Debug]   at Oxide.Plugins.Notifier.GetNameFormats (System.String text, .BasePlayer player) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.OnPlayerDisconnected (.BasePlayer player, System.String reason) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] Vinicios Moraes deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier] Vinicios Moraes left the server
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier v2.18.4] ThunderDark (BR) deixou o servidor. (Reação: Timed Out)
+[03/26/2016 14:45:16] [Oxide] 14:45 [Info] [Notifier] ThunderDark (BR) left the server
+[03/26/2016 14:45:23] 187.49.26.89:65063/76561197998087180/Diogo has auth level 2
+[03/26/2016 14:45:29] Saved 12,205 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:45:29] Saving complete
+[03/26/2016 14:45:32] [Oxide] 14:45 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 14:45:37] 191.54.136.198:61147/76561198121019368/Shadowkyl kicked: Steam: k_EAuthSessionResponseAuthTicketCanceled
+[03/26/2016 14:46:03] [Oxide] 14:46 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 14:46:03] [Oxide] 14:46 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 14:46:03] [Oxide] 14:46 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 14:46:03] [Oxide] 14:46 [Info] [Easy Airdrop] Console Message
+[03/26/2016 14:46:03] [Oxide] 14:46 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 14:46:15] [Oxide] 14:46 [Info] [Notifier v2.18.4] Serapha entrou no servidor, país de origem Brazil.
+[03/26/2016 14:46:15] [Oxide] 14:46 [Info] [Notifier] Serapha joined from Brazil
+[03/26/2016 14:46:15] 189.40.20.208:63088/76561198084770641/Serapha joined [windows/76561198084770641]
+[03/26/2016 14:46:24] [Oxide] 14:46 [Info] [Notifier v2.18.4] Vinicios Moraes entrou no servidor, país de origem Brazil.
+[03/26/2016 14:46:24] [Oxide] 14:46 [Info] [Notifier] Vinicios Moraes joined from Brazil
+[03/26/2016 14:46:24] 186.195.26.250:61208/76561198152831056/Vinicios Moraes joined [windows/76561198152831056]
+[03/26/2016 14:46:26] [Oxide] 14:46 [Info] [Notifier v2.18.4] Diogo entrou no servidor, país de origem Brazil.
+[03/26/2016 14:46:26] [Oxide] 14:46 [Debug]   at Oxide.Plugins.Notifier.GetNameFormats (System.String text, .BasePlayer player) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.JoinMessages (.BasePlayer player) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.OnPlayerInit (.BasePlayer player, Boolean sendJoinMessages) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+[03/26/2016 14:46:26] 187.49.26.89:65063/76561197998087180/Diogo joined [windows/76561197998087180]
+[03/26/2016 14:46:28] [Oxide] 14:46 [Info] [Notifier v2.18.4] TEQUILA entrou no servidor, país de origem Brazil.
+[03/26/2016 14:46:28] [Oxide] 14:46 [Info] [Notifier] [TiTaN] TEQUILA joined from Brazil
+[03/26/2016 14:46:28] 189.38.2.166:60974/76561198006362941/TEQUILA joined [windows/76561198006362941]
+[03/26/2016 14:46:32] [Oxide] 14:46 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 14:46:35] 200.217.99.114:52291/76561198083495852/dc Rejecting connection - Steam Auth Timeout
+[03/26/2016 14:46:35] 200.217.99.114:52291/76561198083495852/dc kicked: Steam Auth Timeout
+[03/26/2016 14:47:12] [Oxide] 14:47 [Info] [SkipNightVote] SkipNightVote: has changed the server time.
+[03/26/2016 14:47:32] [Oxide] 14:47 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 14:48:32] [Oxide] 14:48 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 14:49:32] [Oxide] 14:49 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 14:50:02] [Oxide] 14:50 [Info] [Notifier v2.18.4] dc entrou no servidor, país de origem Brazil.
+[03/26/2016 14:50:02] [Oxide] 14:50 [Info] [Notifier] [DCW] dc joined from Brazil
+[03/26/2016 14:50:02] 200.217.99.114:63441/76561198083495852/dc joined [windows/76561198083495852]
+[03/26/2016 14:51:16] [Oxide] 14:51 [Info] [Notifier v2.18.4] Shadowkyl entrou no servidor, país de origem Brazil.
+[03/26/2016 14:51:16] [Oxide] 14:51 [Info] [Notifier] Shadowkyl joined from Brazil
+[03/26/2016 14:51:16] 191.54.136.198:61510/76561198121019368/Shadowkyl joined [windows/76561198121019368]
+[03/26/2016 14:51:28] Saved 12,208 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:51:28] Saving complete
+[03/26/2016 14:51:32] [Oxide] 14:51 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (1 destroyed)
+[03/26/2016 14:51:49] [Oxide] 14:51 [Info] [Notifier v2.18.4] ThunderDark (BR) entrou no servidor, país de origem Brazil.
+[03/26/2016 14:51:49] [Oxide] 14:51 [Info] [Notifier] ThunderDark (BR) joined from Brazil
+[03/26/2016 14:51:49] 191.251.144.13:49411/76561198003886454/ThunderDark (BR) joined [windows/76561198003886454]
+[03/26/2016 14:52:28] Saved 12,210 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:52:28] Saving complete
+[03/26/2016 14:52:32] [Oxide] 14:52 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (2 destroyed)
+[03/26/2016 14:53:01] [Oxide] 14:53 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/26/2016 14:53:28] Saved 12,227 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:53:28] Saving complete
+[03/26/2016 14:53:32] [Oxide] 14:53 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 14:53:37] [Oxide] 14:53 [Debug]   at (wrapper managed-to-native) UnityEngine.Object:get_name ()
+  at Oxide.Plugins.SupplyDropDestroyer+<OnEntitySpawned>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.Update () [0x00000] in <filename unknown>:0 
+[03/26/2016 14:54:28] Saved 12,236 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 14:54:28] Saving complete
+[03/26/2016 14:54:32] [Oxide] 14:54 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 14:55:28] Saved 12,236 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:55:28] Saving complete
+[03/26/2016 14:55:32] [Oxide] 14:55 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (2 destroyed)
+[03/26/2016 14:55:34] [Oxide] 14:55 [Info] [Notifier v2.18.4] OFFLINE entrou no servidor, país de origem Brazil.
+[03/26/2016 14:55:34] [Oxide] 14:55 [Info] [Notifier] OFFLINE joined from Brazil
+[03/26/2016 14:55:34] 189.33.176.71:26700/76561198117520766/OFFLINE joined [windows/76561198117520766]
+[03/26/2016 14:55:43] [Oxide] 14:55 [Info] [Death Notes] Vinicios Moraes matou um Veado com Arco de Caça á 16.01m.
+[03/26/2016 14:55:55] [Oxide] 14:55 [Info] [Death Notes] Vinicios Moraes matou um Javali com Arco de Caça á 11.12m.
+[03/26/2016 14:56:28] Saved 12,235 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:56:28] Saving complete
+[03/26/2016 14:56:32] [Oxide] 14:56 [Info] [BetterLoot] BetterLoot: Refreshed 0 containers (1 destroyed)
+[03/26/2016 14:56:37] [Oxide] 14:56 [Info] [Notifier] Cheque os comandos Notifier's com /notifier help.
+[03/26/2016 14:56:46] [Oxide] 14:56 [Info] Unloaded plugin Teleportation System v1.4.23 by Mughisi
+[03/26/2016 14:56:46] [Oxide] 14:56 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/26/2016 14:56:46] [Oxide] 14:56 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/26/2016 14:56:46] [Oxide] 14:56 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/26/2016 14:56:46] [Oxide] 14:56 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/26/2016 14:57:23] [Oxide] 14:57 [Info] [Death Notes] Vinicios Moraes matou um Veado com Arco de Caça á 12.28m.
+[03/26/2016 14:57:28] Saved 12,239 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 14:57:28] Saving complete
+[03/26/2016 14:57:32] [Oxide] 14:57 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 14:57:49] [Oxide] 14:57 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 14:57:49] [Oxide] 14:57 [Info] [Easy Airdrop] Console Message
+[03/26/2016 14:57:49] [Oxide] 14:57 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 14:58:32] [Oxide] 14:58 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 14:59:32] [Oxide] 14:59 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 14:59:42] [Oxide] 14:59 [Info] [Death Notes] Lobo foi seguindo [DCW] dc até esquarteja-lo.. hue
+[03/26/2016 14:59:42] [DCW] dc[29175/76561198083495852] was killed by wolf.prefab (wolf)
+[03/26/2016 14:59:45] [Oxide] 14:59 [Info] [Death Notes] [TiTaN] TEQUILA matou um Veado com Arco de Caça á 15.73m.
+[03/26/2016 14:59:53] [Oxide] 14:59 [Info] [Notifier] Ssephyroth joined from Brazil
+[03/26/2016 14:59:53] 191.54.229.106:57669/76561198077422497/Ssephyroth joined [windows/76561198077422497]
+[03/26/2016 14:59:54] [Oxide] 14:59 [Info] [Notifier v2.18.4] Ssephyroth entrou no servidor, país de origem Brazil.
+[03/26/2016 15:00:00] [Oxide] 15:00 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 15:00:00] [Oxide] 15:00 [Info] [Easy Airdrop] Console Message
+[03/26/2016 15:00:00] [Oxide] 15:00 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 15:00:11] [Oxide] 15:00 [Info] [Death Notes] [TiTaN] TEQUILA matou um Veado com Arco de Caça á 11.99m.
+[03/26/2016 15:00:32] [Oxide] 15:00 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 15:00:45] 187.86.106.75:54697/76561198191558721/Wagner Fernandes joined [windows/76561198191558721]
+[03/26/2016 15:00:46] [Oxide] 15:00 [Info] [Notifier v2.18.4] Wagner Fernandes entrou no servidor, país de origem Brazil.
+[03/26/2016 15:00:46] [Oxide] 15:00 [Info] [Notifier] Wagner Fernandes joined from Brazil
+[03/26/2016 15:01:33] [Oxide] 15:01 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:02:33] [Oxide] 15:02 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 15:02:40] [Oxide] 15:02 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 15:02:40] [Oxide] 15:02 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 15:02:42] [Oxide] 15:02 [Info] [Notifier v2.18.4] Wagner Fernandes deixou o servidor. (Reação: Timed Out)
+[03/26/2016 15:02:42] [Oxide] 15:02 [Info] [Notifier] Wagner Fernandes left the server
+[03/26/2016 15:03:16] [Oxide] 15:03 [Info] [Death Notes] Vinicios Moraes matou um Javali com Arco de Caça á 10.01m.
+[03/26/2016 15:03:33] [Oxide] 15:03 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 15:04:33] [Oxide] 15:04 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:05:01] [Oxide] 15:05 [Info] [Notifier v2.18.4] Olha Hora!(Real) --> 03/26/2016 15:05
+[03/26/2016 15:05:26] [Oxide] 15:05 [Debug]   at (wrapper managed-to-native) UnityEngine.Object:get_name ()
+  at Oxide.Plugins.SupplyDropDestroyer+<OnEntitySpawned>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.Update () [0x00000] in <filename unknown>:0 
+[03/26/2016 15:05:27] Saved 12,301 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:05:27] Saving complete
+[03/26/2016 15:05:41] [Oxide] 15:05 [Info] [Death Notes] Serapha matou um Javali com Arco de Caça á 5.98m.
+[03/26/2016 15:05:51] 189.33.176.71:26700/76561198117520766/OFFLINE disconnecting: disconnect
+[03/26/2016 15:05:51] [Oxide] 15:05 [Info] [Notifier v2.18.4] OFFLINE deixou o servidor. (Reação: Disconnected)
+[03/26/2016 15:05:51] [Oxide] 15:05 [Info] [Notifier] OFFLINE left the server
+[03/26/2016 15:06:17] [Oxide] 15:06 [Info] [Death Notes] Bokudo morreu. Porque não se sabe.
+[03/26/2016 15:06:17] Bokudo[18183/76561197994523959] was killed by bear.prefab (bear)
+[03/26/2016 15:06:27] Saved 12,311 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:06:27] Saving complete
+[03/26/2016 15:06:33] [Oxide] 15:06 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:07:27] Saved 12,326 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:07:27] Saving complete
+[03/26/2016 15:07:31] [Oxide] 15:07 [Debug]   at (wrapper managed-to-native) UnityEngine.Object:get_name ()
+  at Oxide.Plugins.SupplyDropDestroyer+<OnEntitySpawned>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.Update () [0x00000] in <filename unknown>:0 
+[03/26/2016 15:07:33] [Oxide] 15:07 [Info] [BetterLoot] BetterLoot: Refreshed 13 containers (2 destroyed)
+[03/26/2016 15:08:26] Saved 12,325 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:08:26] Saving complete
+[03/26/2016 15:08:33] [Oxide] 15:08 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 15:08:37] [Oxide] 15:08 [Info] [Notifier] Você está jogando em: [BR] DENFENDERS BRASIL -WIPE 24/03- 5x/INSTANT/TP/HOME/AIRDROP/KIT
+[03/26/2016 15:09:26] Saved 12,338 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:09:26] Saving complete
+[03/26/2016 15:09:33] [Oxide] 15:09 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:10:26] Saved 12,340 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:10:26] Saving complete
+[03/26/2016 15:10:33] [Oxide] 15:10 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (1 destroyed)
+[03/26/2016 15:11:26] [Oxide] 15:11 [Info] Unloaded plugin HeliControl v1.0.18 by Shady
+[03/26/2016 15:11:26] [Oxide] 15:11 [Info] Loaded plugin HeliControl v1.0.18 by Shady
+[03/26/2016 15:11:26] Saved 12,337 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:11:26] Saving complete
+[03/26/2016 15:12:14] [Oxide] 15:12 [Info] [HeliControl] 1 helicopter(s) were annihilated!
+[03/26/2016 15:12:26] Saved 12,338 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:12:26] Saving complete
+[03/26/2016 15:12:33] [Oxide] 15:12 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 15:13:26] Saved 12,343 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:13:26] Saving complete
+[03/26/2016 15:13:33] [Oxide] 15:13 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 15:14:26] Saved 12,340 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 15:14:26] Saving complete
+[03/26/2016 15:14:33] [Oxide] 15:14 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 15:15:26] Saved 12,348 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:15:26] Saving complete
+[03/26/2016 15:15:33] [Oxide] 15:15 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (2 destroyed)
+[03/26/2016 15:15:50] 187.39.30.110:53490/76561198090223543/LuBronkZ joined [windows/76561198090223543]
+[03/26/2016 15:15:51] [Oxide] 15:15 [Info] [Notifier v2.18.4] LuBronkZ entrou no servidor, país de origem Brazil.
+[03/26/2016 15:15:54] [Oxide] 15:15 [Info] [Notifier] LuBronkZ joined from Brazil
+[03/26/2016 15:16:26] Saved 12,348 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:16:26] Saving complete
+[03/26/2016 15:16:33] [Oxide] 15:16 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:17:01] [Oxide] 15:17 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/27/2024 14:50:21
+[03/26/2016 15:17:04] [Oxide] 15:17 [Info] [Death Notes] Wagner Fernandes foi morto por Lobo enquanto dormia.
+[03/26/2016 15:17:04] Wagner Fernandes[347245/76561198191558721] was killed by wolf.prefab (wolf)
+[03/26/2016 15:17:25] Saved 12,376 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:17:25] Saving complete
+[03/26/2016 15:17:33] [Oxide] 15:17 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:17:44] [Oxide] 15:17 [Info] [Death Notes] Serapha morreu. Porque não se sabe.
+[03/26/2016 15:17:44] Serapha[337313/76561198084770641] was killed by lock.code.prefab (entity)
+[03/26/2016 15:18:02] [Oxide] 15:18 [Info] [Death Notes] Vinicios Moraes matou um Lobo com Arco de Caça á 8.05m.
+[03/26/2016 15:18:21] [Oxide] 15:18 [Info] [Death Notes] LuBronkZ matou um Veado com Arco de Caça á 9.9m.
+[03/26/2016 15:18:25] Saved 12,390 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:18:25] Saving complete
+[03/26/2016 15:18:33] [Oxide] 15:18 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 15:19:08] [Oxide] 15:19 [Info] [Death Notes] LuBronkZ matou um Veado com Arco de Caça á 10.95m.
+[03/26/2016 15:19:25] Saved 12,391 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:19:25] Saving complete
+[03/26/2016 15:19:33] [Oxide] 15:19 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:20:25] Saved 12,391 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:20:25] Saving complete
+[03/26/2016 15:20:37] [Oxide] 15:20 [Info] [Notifier] Total de Jogadores 10/100 , e  25 preguiçosos.
+[03/26/2016 15:21:25] Saved 12,394 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:21:25] Saving complete
+[03/26/2016 15:21:33] [Oxide] 15:21 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:22:25] Saved 12,404 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 15:22:25] Saving complete
+[03/26/2016 15:22:33] [Oxide] 15:22 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (2 destroyed)
+[03/26/2016 15:22:44] 189.18.193.132:50906/76561198078374720/Lothbrok joined [windows/76561198078374720]
+[03/26/2016 15:22:46] [Oxide] 15:22 [Info] [Notifier v2.18.4] Lothbrok entrou no servidor, país de origem Brazil.
+[03/26/2016 15:22:46] [Oxide] 15:22 [Info] [Notifier] Lothbrok joined from Brazil
+[03/26/2016 15:23:20] [Oxide] 15:23 [Info] [Death Notes] LuBronkZ matou um Veado com Arco de Caça á 30.95m.
+[03/26/2016 15:23:25] Saved 12,422 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:23:25] Saving complete
+[03/26/2016 15:23:33] [Oxide] 15:23 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (2 destroyed)
+[03/26/2016 15:23:34] 189.35.252.253:57174/76561198076548016/Peckzera joined [windows/76561198076548016]
+[03/26/2016 15:23:35] [Oxide] 15:23 [Info] [Notifier v2.18.4] Peckzera entrou no servidor, país de origem Brazil.
+[03/26/2016 15:23:35] [Oxide] 15:23 [Info] [Notifier] Peckzera joined from Brazil
+[03/26/2016 15:24:25] Saved 12,426 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:24:25] Saving complete
+[03/26/2016 15:24:33] [Oxide] 15:24 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:24:50] [Oxide] 15:24 [Info] [Death Notes] Peckzera matou um Veado com Arco de Caça á 16.19m.
+[03/26/2016 15:25:24] Saved 12,440 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:25:24] Saving complete
+[03/26/2016 15:25:33] [Oxide] 15:25 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 15:25:58] 189.73.69.55:54684/76561198208077331/Word_D1nario Rejecting connection - Steam Auth: k_EBeginAuthSessionResultDuplicateRequest
+[03/26/2016 15:25:58] 189.73.69.55:54684/76561198208077331/Word_D1nario kicked: Steam Auth: k_EBeginAuthSessionResultDuplicateRequest
+[03/26/2016 15:26:23] 186.195.26.250:61208/76561198152831056/Vinicios Moraes disconnecting: disconnect
+[03/26/2016 15:26:23] [Oxide] 15:26 [Info] [Notifier v2.18.4] Vinicios Moraes deixou o servidor. (Reação: Disconnected)
+[03/26/2016 15:26:23] [Oxide] 15:26 [Info] [Notifier] Vinicios Moraes left the server
+[03/26/2016 15:26:24] Saved 12,440 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 15:26:24] Saving complete
+[03/26/2016 15:27:14] 187.39.30.110:53490/76561198090223543/LuBronkZ kicked: Unresponsive
+[03/26/2016 15:27:14] [Oxide] 15:27 [Info] [Notifier v2.18.4] LuBronkZ deixou o servidor. (Reação: Unresponsive)
+[03/26/2016 15:27:14] [Oxide] 15:27 [Info] [Notifier] LuBronkZ left the server
+[03/26/2016 15:27:24] Saved 12,444 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:27:24] Saving complete
+[03/26/2016 15:27:33] [Oxide] 15:27 [Info] [BetterLoot] BetterLoot: Refreshed 9 containers (0 destroyed)
+[03/26/2016 15:28:24] Saved 12,453 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:28:24] Saving complete
+[03/26/2016 15:28:32] [Oxide] 15:28 [Info] [Notifier v2.18.4] Word_D1nario entrou no servidor, país de origem Brazil.
+[03/26/2016 15:28:32] [Oxide] 15:28 [Info] [Notifier] [DCW] Word_D1nario joined from Brazil
+[03/26/2016 15:28:32] 189.73.69.55:54694/76561198208077331/Word_D1nario joined [windows/76561198208077331]
+[03/26/2016 15:28:33] [Oxide] 15:28 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 15:28:58] [Oxide] 15:28 [Info] [Death Notes] Shadowkyl matou um Javali com Arco de Caça á 18.41m.
+[03/26/2016 15:29:01] [Oxide] 15:29 [Info] [Notifier v2.18.4] Digite /map para saber o mapa do servidor.
+[03/26/2016 15:29:24] Saved 12,455 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:29:24] Saving complete
+[03/26/2016 15:29:31] 189.18.193.132:50906/76561198078374720/Lothbrok disconnecting: disconnect
+[03/26/2016 15:29:31] [Oxide] 15:29 [Info] [Notifier v2.18.4] Lothbrok deixou o servidor. (Reação: Disconnected)
+[03/26/2016 15:29:31] [Oxide] 15:29 [Info] [Notifier] Lothbrok left the server
+[03/26/2016 15:29:33] [Oxide] 15:29 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 15:30:13] [Oxide] 15:30 [Info] [Death Notes] Shadowkyl matou um Javali com Arco de Caça á 13.85m.
+[03/26/2016 15:30:24] Saved 12,449 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:30:24] Saving complete
+[03/26/2016 15:30:33] [Oxide] 15:30 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (0 destroyed)
+[03/26/2016 15:31:24] Saved 12,437 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:31:24] Saving complete
+[03/26/2016 15:31:26] 187.49.26.89:65063/76561197998087180/Diogo kicked: You were kicked for being AFK for 15 minutes
+[03/26/2016 15:31:26] [Oxide] 15:31 [Info] [Notifier v2.18.4] Diogo deixou o servidor. (Reação: You were kicked for being AFK for 15 minutes)
+[03/26/2016 15:31:26] [Oxide] 15:31 [Debug]   at Oxide.Plugins.Notifier.GetNameFormats (System.String text, .BasePlayer player) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.OnPlayerDisconnected (.BasePlayer player, System.String reason) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+[03/26/2016 15:31:34] [Oxide] 15:31 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:32:19] [EAC] Kicking 76561198090223543 (EAC Disconnected)
+[03/26/2016 15:32:19] 187.39.30.110:64302/76561198090223543/LuBronkZ kicked: EAC: EAC Disconnected
+[03/26/2016 15:32:19] [EAC] Kicking 76561198090223543 (account owner) (EAC Disconnected)
+[03/26/2016 15:32:24] Saved 12,451 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:32:24] Saving complete
+[03/26/2016 15:32:34] [Oxide] 15:32 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:32:37] [Oxide] 15:32 [Info] [Notifier] Abuso de Bugs, Cheats e Hackers não são tolerados, resultando em BAN permanente.
+[03/26/2016 15:32:53] [EAC] Kicking 76561198090223543 (EAC Disconnected)
+[03/26/2016 15:32:53] 187.39.30.110:59837/76561198090223543/LuBronkZ kicked: EAC: EAC Disconnected
+[03/26/2016 15:32:53] [EAC] Kicking 76561198090223543 (account owner) (EAC Disconnected)
+[03/26/2016 15:33:23] 187.49.26.89:61866/76561197998087180/Diogo has auth level 2
+[03/26/2016 15:33:24] Saved 12,451 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:33:24] Saving complete
+[03/26/2016 15:33:33] [EAC] Kicking 76561198090223543 (EAC Disconnected)
+[03/26/2016 15:33:33] 187.39.30.110:49659/76561198090223543/LuBronkZ kicked: EAC: EAC Disconnected
+[03/26/2016 15:33:33] [EAC] Kicking 76561198090223543 (account owner) (EAC Disconnected)
+[03/26/2016 15:33:34] [Oxide] 15:33 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 15:34:03] [Oxide] 15:34 [Info] [SkipNightVote] SkipNightVote: has changed the server time.
+[03/26/2016 15:34:18] 132.255.196.56:56079/76561197994523959/[ADMIN] Bokudo kicked: You were kicked for being AFK for 15 minutes
+[03/26/2016 15:34:18] [Oxide] 15:34 [Info] [Notifier v2.18.4] [ADMIN] Bokudo deixou o servidor. (Reação: You were kicked for being AFK for 15 minutes)
+[03/26/2016 15:34:18] [Oxide] 15:34 [Info] [Notifier] Bokudo left the server
+[03/26/2016 15:34:19] [EAC] Kicking 76561198090223543 (EAC Disconnected)
+[03/26/2016 15:34:19] 187.39.30.110:57027/76561198090223543/LuBronkZ kicked: EAC: EAC Disconnected
+[03/26/2016 15:34:19] [EAC] Kicking 76561198090223543 (account owner) (EAC Disconnected)
+[03/26/2016 15:34:23] Saved 12,465 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:34:23] Saving complete
+[03/26/2016 15:34:26] [Oxide] 15:34 [Info] [Notifier v2.18.4] Diogo entrou no servidor, país de origem Brazil.
+[03/26/2016 15:34:26] [Oxide] 15:34 [Debug]   at Oxide.Plugins.Notifier.GetNameFormats (System.String text, .BasePlayer player) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.JoinMessages (.BasePlayer player) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.OnPlayerInit (.BasePlayer player, Boolean sendJoinMessages) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Notifier.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (System.Reflection.MethodInfo method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hookname, System.Object[] args) [0x00000] in <filename unknown>:0 
+[03/26/2016 15:34:26] 187.49.26.89:61866/76561197998087180/Diogo joined [windows/76561197998087180]
+[03/26/2016 15:34:34] [Oxide] 15:34 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:34:51] [Oxide] 15:34 [Info] [Death Notes] Lothbrok estava dormindo e foi baleado Right Arm pelo louco Peckzera com uma Arco de Caça á 0m. Porque tem balas sobrando pelo jeito...
+[03/26/2016 15:34:51] Lothbrok[362610/76561198078374720] was killed by Peckzera[363314/76561198076548016]
+[03/26/2016 15:35:23] Saved 12,483 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:35:23] Saving complete
+[03/26/2016 15:35:35] [Oxide] 15:35 [Info] AFK was compiled successfully in 1953ms
+[03/26/2016 15:35:35] [Oxide] 15:35 [Info] Unloaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/26/2016 15:35:35] [Oxide] 15:35 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/26/2016 15:35:56] 181.110.83.56:54071/76561198149954471/na3k joined [windows/76561198149954471]
+[03/26/2016 15:36:15] [Oxide] 15:36 [Info] [Notifier] na3k joined from Argentina
+[03/26/2016 15:36:15] [Oxide] 15:36 [Info] [Notifier v2.18.4] na3k entrou no servidor, país de origem Argentina.
+[03/26/2016 15:36:34] [Oxide] 15:36 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:36:34] 132.255.196.56:54239/76561197994523959/Bokudo has auth level 2
+[03/26/2016 15:36:42] Saved 12,486 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.11).
+[03/26/2016 15:36:42] Saving complete
+[03/26/2016 15:37:34] [Oxide] 15:37 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 15:37:40] 187.114.118.206:63288/76561198155371793/Caze joined [windows/76561198155371793]
+[03/26/2016 15:37:42] Saved 12,522 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:37:42] Saving complete
+[03/26/2016 15:37:43] [Oxide] 15:37 [Info] [Notifier v2.18.4] Caze entrou no servidor, país de origem Brazil.
+[03/26/2016 15:37:51] [Oxide] 15:37 [Info] [Notifier v2.18.4] [ADMIN] Bokudo entrou no servidor, país de origem Brazil.
+[03/26/2016 15:37:51] [Oxide] 15:37 [Info] [Notifier] Bokudo joined from Brazil
+[03/26/2016 15:37:51] 132.255.196.56:54239/76561197994523959/[ADMIN] Bokudo joined [windows/76561197994523959]
+[03/26/2016 15:37:52] [Oxide] 15:37 [Info] [Notifier] Caze joined from Unknown
+[03/26/2016 15:38:34] [Oxide] 15:38 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (0 destroyed)
+[03/26/2016 15:38:42] Saved 12,521 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:38:42] Saving complete
+[03/26/2016 15:38:58] [Oxide] 15:38 [Info] [Death Notes] LucasBH22 estava dormindo e foi baleado Pescoço pelo louco Peckzera com uma Arco de Caça á 1.35m. Porque tem balas sobrando pelo jeito...
+[03/26/2016 15:38:58] LucasBH22[226923/76561198200465902] was killed by Peckzera[363314/76561198076548016]
+[03/26/2016 15:39:34] [Oxide] 15:39 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (1 destroyed)
+[03/26/2016 15:39:41] Saved 12,514 ents, serialization(0.00), write(0.01), disk(0.02) totalstall(0.01).
+[03/26/2016 15:39:41] Saving complete
+[03/26/2016 15:40:34] [Oxide] 15:40 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (2 destroyed)
+[03/26/2016 15:40:41] Saved 12,539 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:40:41] Saving complete
+[03/26/2016 15:40:42] [Oxide] 15:40 [Info] [Notifier v2.18.4] LuBronkZ entrou no servidor, país de origem Brazil.
+[03/26/2016 15:40:42] [Oxide] 15:40 [Info] [Notifier] LuBronkZ joined from Brazil
+[03/26/2016 15:40:42] 187.39.30.110:61036/76561198090223543/LuBronkZ joined [windows/76561198090223543]
+[03/26/2016 15:40:43] [Oxide] 15:40 [Info] [Death Notes] ThunderDark (BR) foi baleado Cabeça por na3k com Arco de Caça á 1.15m.
+[03/26/2016 15:40:43] ThunderDark (BR)[306767/76561198003886454] was killed by na3k[371638/76561198149954471]
+[03/26/2016 15:41:01] [Oxide] 15:41 [Info] [Notifier v2.18.4] Este servidor usa os mods Oxide 2.
+[03/26/2016 15:41:31] [Oxide] 15:41 [Info] [Death Notes] Caze matou um Veado com Arco de Caça á 8.09m.
+[03/26/2016 15:41:35] 190.44.0.118:56746/76561198116231725/'mercAツ joined [windows/76561198116231725]
+[03/26/2016 15:41:35] [Oxide] 15:41 [Info] [Notifier v2.18.4] 'mercAツ entrou no servidor, país de origem Chile.
+[03/26/2016 15:41:35] [Oxide] 15:41 [Info] [Notifier] 'mercAツ joined from Chile
+[03/26/2016 15:41:42] Saved 12,549 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:41:42] Saving complete
+[03/26/2016 15:41:48] [Oxide] 15:41 [Info] [Death Notes] Shadowkyl foi baleado Left Shoulder por Diogo com Pump Shotgun á 0.3m.
+[03/26/2016 15:41:48] Shadowkyl[27383/76561198121019368] was killed by Diogo[22107/76561197998087180]
+[03/26/2016 15:42:34] [Oxide] 15:42 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (2 destroyed)
+[03/26/2016 15:42:42] Saved 12,555 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:42:42] Saving complete
+[03/26/2016 15:43:05] [Oxide] 15:43 [Info] [Death Notes] 'mercAツ matou um Veado com Arco de Caça á 14.65m.
+[03/26/2016 15:43:34] [Oxide] 15:43 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 15:43:42] Saved 12,548 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:43:42] Saving complete
+[03/26/2016 15:44:12] [Oxide] 15:44 [Info] [Death Notes] na3k matou um Cavalo com Arco de Caça á 40.16m.
+[03/26/2016 15:44:34] [Oxide] 15:44 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (3 destroyed)
+[03/26/2016 15:44:37] [Oxide] 15:44 [Info] [Notifier] Insultos e Xingamentos não serão tolerados!
+[03/26/2016 15:44:42] Saved 12,550 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:44:42] Saving complete
+[03/26/2016 15:44:43] [Oxide] 15:44 [Info] [Death Notes] na3k matou um Veado com Arco de Caça á 23.11m.
+[03/26/2016 15:44:58] [Oxide] 15:44 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 15:44:58] [Oxide] 15:44 [Info] [Easy Airdrop] Console Message
+[03/26/2016 15:44:58] [Oxide] 15:44 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 15:45:27] [Oxide] 15:45 [Info] [Death Notes] Paludetto estava dormindo e foi baleado Cabeça pelo louco 'mercAツ com uma Arco de Caça á 2.89m. Porque tem balas sobrando pelo jeito...
+[03/26/2016 15:45:27] Paludetto[336269/76561198082216382] was killed by 'mercAツ[375122/76561198116231725]
+[03/26/2016 15:45:34] [Oxide] 15:45 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (0 destroyed)
+[03/26/2016 15:46:03] [Oxide] 15:46 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 15:46:03] [Oxide] 15:46 [Info] [Easy Airdrop] Console Message
+[03/26/2016 15:46:03] [Oxide] 15:46 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 15:46:34] [Oxide] 15:46 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:47:34] [Oxide] 15:47 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 15:48:01] [Oxide] 15:48 [Info] [Death Notes] na3k matou um Veado com Arco de Caça á 25.36m.
+[03/26/2016 15:48:34] [Oxide] 15:48 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (3 destroyed)
+[03/26/2016 15:49:09] [Oxide] 15:49 [Info] [Death Notes] LuBronkZ foi baleado Hip por Peckzera com Stone Spear á 2.08m.
+[03/26/2016 15:49:09] LuBronkZ[357664/76561198090223543] was killed by Peckzera[363314/76561198076548016]
+[03/26/2016 15:49:34] [Oxide] 15:49 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:49:49] [Oxide] 15:49 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 15:49:49] [Oxide] 15:49 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 15:50:05] 187.39.30.110:61036/76561198090223543/LuBronkZ disconnecting: disconnect
+[03/26/2016 15:50:05] [Oxide] 15:50 [Info] [Notifier v2.18.4] LuBronkZ deixou o servidor. (Reação: Disconnected)
+[03/26/2016 15:50:05] [Oxide] 15:50 [Info] [Notifier] LuBronkZ left the server
+[03/26/2016 15:50:11] [Oxide] 15:50 [Info] [Death Notes] Peckzera achou que sabia voar. Mais Deus te deu braços e não asas.
+[03/26/2016 15:50:11] Peckzera[363314/76561198076548016] died (Fall)
+[03/26/2016 15:50:59] [Oxide] 15:50 [Info] [Death Notes] Caze foi baleado Pelvis por Shadowkyl com Arco de Caça á 9.72m.
+[03/26/2016 15:50:59] Caze[372703/76561198155371793] was killed by Shadowkyl[27383/76561198121019368]
+[03/26/2016 15:51:22] [Oxide] 15:51 [Info] [Death Notes] Serapha matou um Javali com Arco de Caça á 18.83m.
+[03/26/2016 15:51:34] [Oxide] 15:51 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 15:51:40] Saved 12,595 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:51:40] Saving complete
+[03/26/2016 15:51:48] 187.114.118.206:63288/76561198155371793/Caze disconnecting: disconnect
+[03/26/2016 15:51:48] [Oxide] 15:51 [Info] [Notifier v2.18.4] Caze deixou o servidor. (Reação: Disconnected)
+[03/26/2016 15:51:48] [Oxide] 15:51 [Info] [Notifier] Caze left the server
+[03/26/2016 15:52:34] [Oxide] 15:52 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 15:52:40] Saved 12,618 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.02).
+[03/26/2016 15:52:40] Saving complete
+[03/26/2016 15:52:45] [Oxide] 15:52 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 15:53:01] [Oxide] 15:53 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/27/2024 12:38:50
+[03/26/2016 15:53:34] [Oxide] 15:53 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (0 destroyed)
+[03/26/2016 15:53:40] [Oxide] 15:53 [Info] [Death Notes] na3k matou um Javali com Picareta de Pedra á 1.75m.
+[03/26/2016 15:53:40] [Oxide] 15:53 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 15:53:40] Saved 12,611 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:53:40] Saving complete
+[03/26/2016 15:54:34] [Oxide] 15:54 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (1 destroyed)
+[03/26/2016 15:54:40] Saved 12,606 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:54:40] Saving complete
+[03/26/2016 15:55:34] [Oxide] 15:55 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (1 destroyed)
+[03/26/2016 15:55:40] Saved 12,598 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 15:55:40] Saving complete
+[03/26/2016 15:56:36] 177.75.151.233:54861/76561199572197402/bruno2002zago Rejecting connection - Steam Auth: k_EBeginAuthSessionResultInvalidTicket
+[03/26/2016 15:56:36] 177.75.151.233:54861/76561199572197402/bruno2002zago kicked: Steam Auth: k_EBeginAuthSessionResultInvalidTicket
+[03/26/2016 15:56:37] [Oxide] 15:56 [Info] [Notifier] Precisa de Ajuda? Entre em contato com os Admins no chat.
+[03/26/2016 15:56:40] Saved 12,584 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:56:40] Saving complete
+[03/26/2016 15:57:35] [Oxide] 15:57 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (1 destroyed)
+[03/26/2016 15:57:40] Saved 12,590 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.02).
+[03/26/2016 15:57:40] Saving complete
+[03/26/2016 15:58:35] [Oxide] 15:58 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 15:58:40] Saved 12,589 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 15:58:40] Saving complete
+[03/26/2016 15:58:59] 177.75.151.233:54862/76561199572197402/bruno2002zago Rejecting connection - Steam Auth: k_EBeginAuthSessionResultInvalidTicket
+[03/26/2016 15:58:59] 177.75.151.233:54862/76561199572197402/bruno2002zago kicked: Steam Auth: k_EBeginAuthSessionResultInvalidTicket
+[03/26/2016 15:59:33] [Oxide] 15:59 [Info] [Death Notes] [DCW] Word_D1nario pegou Vinicios Moraes enquando estava dormindo e deixou quase morto.
+[03/26/2016 15:59:33] Vinicios Moraes[341018/76561198152831056] was killed by [DCW] Word_D1nario[30290/76561198208077331]
+[03/26/2016 15:59:35] [Oxide] 15:59 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 15:59:40] Saved 12,587 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 15:59:40] Saving complete
+[03/26/2016 16:00:35] [Oxide] 16:00 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (1 destroyed)
+[03/26/2016 16:00:39] Saved 12,580 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:00:39] Saving complete
+[03/26/2016 16:01:01] 189.35.252.253:57174/76561198076548016/Peckzera disconnecting: disconnect
+[03/26/2016 16:01:01] [Oxide] 16:01 [Info] [Notifier v2.18.4] Peckzera deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:01:01] [Oxide] 16:01 [Info] [Notifier] Peckzera left the server
+[03/26/2016 16:01:32] 177.158.114.229:63063/76561198182083909/ChuiGamer joined [windows/76561198182083909]
+[03/26/2016 16:01:35] [Oxide] 16:01 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (2 destroyed)
+[03/26/2016 16:01:36] [Oxide] 16:01 [Info] [Notifier v2.18.4] ChuiGamer entrou no servidor, país de origem Brazil.
+[03/26/2016 16:01:39] Saved 12,577 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:01:39] Saving complete
+[03/26/2016 16:01:42] [Oxide] 16:01 [Info] [Death Notes] ChuiGamer foi morto por Urso enquanto dormia.
+[03/26/2016 16:01:42] ChuiGamer[386628/76561198182083909] was killed by bear.prefab (bear)
+[03/26/2016 16:01:45] [Oxide] 16:01 [Info] [Notifier] ChuiGamer joined from Brazil
+[03/26/2016 16:02:35] [Oxide] 16:02 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 16:02:39] Saved 12,596 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:02:39] Saving complete
+[03/26/2016 16:02:49] 187.0.66.198:51583/76561198214076745/Lock DzN joined [windows/76561198214076745]
+[03/26/2016 16:02:49] [Oxide] 16:02 [Info] [Notifier] Lock DzN joined from Brazil
+[03/26/2016 16:02:52] [Oxide] 16:02 [Info] [Notifier v2.18.4] Lock DzN entrou no servidor, país de origem Brazil.
+[03/26/2016 16:03:28] [Oxide] 16:03 [Info] [Death Notes] ThunderDark (BR) foi baleado Right Arm por Shadowkyl com Arco de Caça á 0.02m.
+[03/26/2016 16:03:28] ThunderDark (BR)[306767/76561198003886454] died (Bullet)
+[03/26/2016 16:03:35] [Oxide] 16:03 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:03:39] Saved 12,593 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:03:39] Saving complete
+[03/26/2016 16:03:47] [Oxide] 16:03 [Info] [Death Notes] Serapha matou um Javali com Pump Shotgun á 6.06m.
+[03/26/2016 16:03:57] [Oxide] 16:03 [Info] [Death Notes] Serapha matou um Galinha com Pump Shotgun á 5.78m.
+[03/26/2016 16:04:35] [Oxide] 16:04 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 16:04:39] Saved 12,617 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:04:39] Saving complete
+[03/26/2016 16:04:53] [Oxide] 16:04 [Info] [Death Notes] Serapha matou um Urso com Pump Shotgun á 4.52m.
+[03/26/2016 16:05:01] [Oxide] 16:05 [Info] [Notifier v2.18.4] Respeite as regras do servidor /rules.
+[03/26/2016 16:05:05] [Oxide] 16:05 [Info] [Death Notes] 'mercAツ foi baleado Right Knee por na3k com Thompson á 19.81m.
+[03/26/2016 16:05:05] 'mercAツ[375122/76561198116231725] died (Bullet)
+[03/26/2016 16:05:16] [Oxide] 16:05 [Info] [Death Notes] Lock DzN matou um Lobo com Arco de Caça á 2.3m.
+[03/26/2016 16:05:39] Saved 12,619 ents, serialization(0.00), write(0.01), disk(0.02) totalstall(0.01).
+[03/26/2016 16:05:39] Saving complete
+[03/26/2016 16:05:40] [Oxide] 16:05 [Info] [Death Notes] Serapha sangrando.
+[03/26/2016 16:05:40] Serapha[337313/76561198084770641] died (Bleeding)
+[03/26/2016 16:06:04] [Oxide] 16:06 [Info] [Death Notes] na3k foi baleado Peito por ChuiGamer com Arco de Caça á 1.19m.
+[03/26/2016 16:06:04] na3k[371638/76561198149954471] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:06:12] 181.110.83.56:54071/76561198149954471/na3k disconnecting: disconnect
+[03/26/2016 16:06:12] [Oxide] 16:06 [Info] [Notifier v2.18.4] na3k deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:06:12] [Oxide] 16:06 [Info] [Notifier] na3k left the server
+[03/26/2016 16:06:23] [Oxide] 16:06 [Info] [Death Notes] Diogo matou um Urso com Revolver á 7.81m.
+[03/26/2016 16:06:35] [Oxide] 16:06 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 16:06:39] Saved 12,618 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:06:39] Saving complete
+[03/26/2016 16:06:48] [Oxide] 16:06 [Info] [Death Notes] [TiTaN] TEQUILA matou um Urso com Thompson á 3.54m.
+[03/26/2016 16:07:27] [Oxide] 16:07 [Info] [Death Notes] ThunderDark (BR) foi baleado Right Arm por Shadowkyl com Arco de Caça á 1.32m.
+[03/26/2016 16:07:27] ThunderDark (BR)[306767/76561198003886454] was killed by Shadowkyl[27383/76561198121019368]
+[03/26/2016 16:07:35] [Oxide] 16:07 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 16:07:39] Saved 12,628 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:07:39] Saving complete
+[03/26/2016 16:08:35] [Oxide] 16:08 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (0 destroyed)
+[03/26/2016 16:08:37] [Oxide] 16:08 [Info] [Notifier] Total de Jogadores 12/100 , e  24 preguiçosos.
+[03/26/2016 16:08:39] Saved 12,615 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:08:39] Saving complete
+[03/26/2016 16:08:43] [Oxide] 16:08 [Info] [Notifier v2.18.4] Alan entrou no servidor, país de origem Brazil.
+[03/26/2016 16:08:43] [Oxide] 16:08 [Info] [Notifier] [TiTaN] Alan joined from Brazil
+[03/26/2016 16:08:43] 177.96.172.98:65222/76561198032641492/Alan joined [windows/76561198032641492]
+[03/26/2016 16:08:58] 187.0.66.198:51583/76561198214076745/Lock DzN disconnecting: disconnect
+[03/26/2016 16:08:58] [Oxide] 16:08 [Info] [Notifier v2.18.4] Lock DzN deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:08:58] [Oxide] 16:08 [Info] [Notifier] Lock DzN left the server
+[03/26/2016 16:09:05] [Oxide] 16:09 [Info] [Death Notes] ChuiGamer matou um Veado com Arco de Caça á 28.38m.
+[03/26/2016 16:09:27] 189.107.176.114:60728/76561198119020455/Thax joined [windows/76561198119020455]
+[03/26/2016 16:09:28] [Oxide] 16:09 [Info] [Notifier] Thax joined from Brazil
+[03/26/2016 16:09:28] [Oxide] 16:09 [Info] [Notifier v2.18.4] Thax entrou no servidor, país de origem Brazil.
+[03/26/2016 16:09:35] [Oxide] 16:09 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 16:09:39] Saved 12,616 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:09:39] Saving complete
+[03/26/2016 16:09:57] [Oxide] 16:09 [Info] [Death Notes] ThunderDark (BR) foi baleado Hip por Ssephyroth com Arco de Caça á 24.76m.
+[03/26/2016 16:09:57] ThunderDark (BR)[306767/76561198003886454] was killed by Ssephyroth[346814/76561198077422497]
+[03/26/2016 16:10:11] [Oxide] 16:10 [Info] [Death Notes] Urso foi seguindo Thax até esquarteja-lo.. hue
+[03/26/2016 16:10:11] Thax[390879/76561198119020455] was killed by bear.prefab (bear)
+[03/26/2016 16:10:14] 189.107.176.114:60728/76561198119020455/Thax kicked: Steam: k_EAuthSessionResponseAuthTicketCanceled
+[03/26/2016 16:10:14] [Oxide] 16:10 [Info] [Notifier v2.18.4] Thax deixou o servidor. (Reação: Steam: k_EAuthSessionResponseAuthTicketCanceled)
+[03/26/2016 16:10:14] [Oxide] 16:10 [Info] [Notifier] Thax left the server
+[03/26/2016 16:10:16] [Oxide] 16:10 [Info] [Death Notes] ChuiGamer matou um Veado com Arco de Caça á 26.54m.
+[03/26/2016 16:10:21] [Oxide] 16:10 [Info] [Notifier v2.18.4] Vinicios Moraes entrou no servidor, país de origem Brazil.
+[03/26/2016 16:10:21] [Oxide] 16:10 [Info] [Notifier] Vinicios Moraes joined from Brazil
+[03/26/2016 16:10:21] 186.195.26.250:53847/76561198152831056/Vinicios Moraes joined [windows/76561198152831056]
+[03/26/2016 16:10:35] [Oxide] 16:10 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 16:10:38] Saved 12,605 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:10:38] Saving complete
+[03/26/2016 16:11:07] 190.44.0.118:56746/76561198116231725/'mercAツ disconnecting: closing
+[03/26/2016 16:11:07] [Oxide] 16:11 [Info] [Notifier v2.18.4] 'mercAツ deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:11:07] [Oxide] 16:11 [Info] [Notifier] 'mercAツ left the server
+[03/26/2016 16:11:38] Saved 12,590 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:11:38] Saving complete
+[03/26/2016 16:12:35] [Oxide] 16:12 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:12:38] Saved 12,585 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:12:38] Saving complete
+[03/26/2016 16:13:01] 187.13.95.194:55187/76561198065190752/Din0Rock joined [windows/76561198065190752]
+[03/26/2016 16:13:01] [Oxide] 16:13 [Info] [Notifier v2.18.4] Din0Rock entrou no servidor, país de origem Brazil.
+[03/26/2016 16:13:04] [Oxide] 16:13 [Info] [Death Notes] Serapha achou que sabia voar. Mais Deus te deu braços e não asas.
+[03/26/2016 16:13:04] Serapha[337313/76561198084770641] died (Fall)
+[03/26/2016 16:13:04] [Oxide] 16:13 [Info] [Notifier] Din0Rock joined from Brazil
+[03/26/2016 16:13:25] [Oxide] 16:13 [Info] [Death Notes] ThunderDark (BR) foi baleado Left Forearm por Ssephyroth com Arco de Caça á 11.19m.
+[03/26/2016 16:13:25] ThunderDark (BR)[306767/76561198003886454] was killed by Ssephyroth[346814/76561198077422497]
+[03/26/2016 16:13:35] [Oxide] 16:13 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 16:13:38] Saved 12,606 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:13:38] Saving complete
+[03/26/2016 16:14:11] [Oxide] 16:14 [Info] [Death Notes] Urso foi seguindo Serapha até esquarteja-lo.. hue
+[03/26/2016 16:14:11] Serapha[337313/76561198084770641] was killed by bear.prefab (bear)
+[03/26/2016 16:14:35] [Oxide] 16:14 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:14:38] Saved 12,614 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:14:38] Saving complete
+[03/26/2016 16:15:16] [Oxide] 16:15 [Info] [Death Notes] ThunderDark (BR) was stabbed to death by Ssephyroth using a Picareta de Pedra.
+[03/26/2016 16:15:16] ThunderDark (BR)[306767/76561198003886454] was killed by Ssephyroth[346814/76561198077422497]
+[03/26/2016 16:15:32] 189.40.20.208:63088/76561198084770641/Serapha disconnecting: disconnect
+[03/26/2016 16:15:32] [Oxide] 16:15 [Info] [Notifier v2.18.4] Serapha deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:15:32] [Oxide] 16:15 [Info] [Notifier] Serapha left the server
+[03/26/2016 16:15:35] [Oxide] 16:15 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 16:15:38] Saved 12,626 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:15:38] Saving complete
+[03/26/2016 16:16:35] [Oxide] 16:16 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (0 destroyed)
+[03/26/2016 16:16:38] Saved 12,628 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:16:38] Saving complete
+[03/26/2016 16:17:01] [Oxide] 16:17 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/26/2016 16:17:35] [Oxide] 16:17 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 16:17:38] Saved 12,635 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:17:38] Saving complete
+[03/26/2016 16:17:46] [Oxide] 16:17 [Info] [Death Notes] Din0Rock achou que sabia voar. Mais Deus te deu braços e não asas.
+[03/26/2016 16:17:46] Din0Rock[392611/76561198065190752] died (Fall)
+[03/26/2016 16:18:06] [Oxide] 16:18 [Info] [Death Notes] Din0Rock had enough of life.
+[03/26/2016 16:18:06] Din0Rock[392611/76561198065190752] was killed by Suicide
+[03/26/2016 16:18:08] 201.50.132.187:53307/76561198113491555/GustavoSC1 joined [windows/76561198113491555]
+[03/26/2016 16:18:13] [Oxide] 16:18 [Info] [Death Notes] Vinicios Moraes pegou Aleksandr enquando estava dormindo e deixou quase morto.
+[03/26/2016 16:18:13] Aleksandr[297725/76561198279117589] was killed by Vinicios Moraes[391324/76561198152831056]
+[03/26/2016 16:18:15] [Oxide] 16:18 [Info] [Notifier] GustavoSC1 joined from Brazil
+[03/26/2016 16:18:19] [Oxide] 16:18 [Info] [Notifier v2.18.4] GustavoSC1 entrou no servidor, país de origem Brazil.
+[03/26/2016 16:18:35] [Oxide] 16:18 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:18:37] Saved 12,655 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:18:37] Saving complete
+[03/26/2016 16:19:26] [Oxide] 16:19 [Info] [Death Notes] [TiTaN] Alan matou um Lobo com Thompson (Holosight) á 2.94m.
+[03/26/2016 16:19:35] [Oxide] 16:19 [Info] [BetterLoot] BetterLoot: Refreshed 8 containers (0 destroyed)
+[03/26/2016 16:19:37] Saved 12,661 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:19:37] Saving complete
+[03/26/2016 16:20:37] [Oxide] 16:20 [Info] [Notifier] Abuso de Bugs, Cheats e Hackers não são tolerados, resultando em BAN permanente.
+[03/26/2016 16:20:37] Saved 12,669 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:20:37] Saving complete
+[03/26/2016 16:20:53] [Oxide] 16:20 [Info] [SkipNightVote] SkipNightVote: has changed the server time.
+[03/26/2016 16:21:01] 131.108.156.15:49115/76561198238659708/yndyo4k joined [windows/76561198238659708]
+[03/26/2016 16:21:01] [Oxide] 16:21 [Info] [Notifier] yndyo4k joined from Brazil
+[03/26/2016 16:21:02] [Oxide] 16:21 [Info] [Notifier v2.18.4] yndyo4k entrou no servidor, país de origem Brazil.
+[03/26/2016 16:21:35] [Oxide] 16:21 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (1 destroyed)
+[03/26/2016 16:21:37] Saved 12,663 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:21:37] Saving complete
+[03/26/2016 16:21:54] [Oxide] 16:21 [Info] [Death Notes] ThunderDark (BR) foi baleado Right Arm por Shadowkyl com Arco de Caça á 13.03m.
+[03/26/2016 16:21:54] ThunderDark (BR)[306767/76561198003886454] was killed by Shadowkyl[27383/76561198121019368]
+[03/26/2016 16:21:57] [Oxide] 16:21 [Info] [Death Notes] Ssephyroth foi baleado Pelvis por ChuiGamer com Thompson á 1.8m.
+[03/26/2016 16:21:57] Ssephyroth[346814/76561198077422497] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:22:15] 191.251.144.13:49411/76561198003886454/ThunderDark (BR) disconnecting: closing
+[03/26/2016 16:22:15] [Oxide] 16:22 [Info] [Notifier v2.18.4] ThunderDark (BR) deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:22:15] [Oxide] 16:22 [Info] [Notifier] ThunderDark (BR) left the server
+[03/26/2016 16:22:35] [Oxide] 16:22 [Info] [BetterLoot] BetterLoot: Refreshed 11 containers (0 destroyed)
+[03/26/2016 16:22:37] Saved 12,690 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:22:37] Saving complete
+[03/26/2016 16:22:39] [Oxide] 16:22 [Info] [Death Notes] Din0Rock deixou GustavoSC1 quase morto.
+[03/26/2016 16:22:39] GustavoSC1[395255/76561198113491555] was killed by Din0Rock[392611/76561198065190752]
+[03/26/2016 16:22:41] [Oxide] 16:22 [Info] [Death Notes] Ssephyroth foi baleado Right Arm por ChuiGamer com Thompson á 2.02m.
+[03/26/2016 16:22:41] Ssephyroth[346814/76561198077422497] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:23:35] [Oxide] 16:23 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 16:23:37] Saved 12,695 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:23:37] Saving complete
+[03/26/2016 16:23:37] [Oxide] 16:23 [Info] [Death Notes] Shadowkyl foi baleado Left Forearm por ChuiGamer com Arco de Caça á 0.12m.
+[03/26/2016 16:23:37] Shadowkyl[27383/76561198121019368] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:23:59] [Oxide] 16:23 [Info] [Death Notes] Ssephyroth usou Rock para bater GustavoSC1.
+[03/26/2016 16:23:59] GustavoSC1[395255/76561198113491555] was killed by Ssephyroth[346814/76561198077422497]
+[03/26/2016 16:24:35] [Oxide] 16:24 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (1 destroyed)
+[03/26/2016 16:24:37] Saved 12,706 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:24:37] Saving complete
+[03/26/2016 16:25:35] [Oxide] 16:25 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (1 destroyed)
+[03/26/2016 16:25:37] Saved 12,681 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:25:37] Saving complete
+[03/26/2016 16:26:36] Saved 12,676 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 16:26:37] Saving complete
+[03/26/2016 16:26:56] [Oxide] 16:26 [Info] [Death Notes] yndyo4k matou um Cavalo com Arco de Caça á 22.19m.
+[03/26/2016 16:27:25] [Oxide] 16:27 [Info] [Death Notes] Shadowkyl foi baleado Cabeça por ChuiGamer com Arco de Caça á 0.23m.
+[03/26/2016 16:27:25] Shadowkyl[27383/76561198121019368] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:27:36] [Oxide] 16:27 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:27:36] Saved 12,667 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:27:36] Saving complete
+[03/26/2016 16:28:02] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:28:02] 191.189.8.47:38742/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:28:02] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:28:09] [Oxide] 16:28 [Info] [Death Notes] Vinicios Moraes matou um Javali com Arco de Caça á 11.11m.
+[03/26/2016 16:28:21] 201.50.132.187:53307/76561198113491555/GustavoSC1 disconnecting: closing
+[03/26/2016 16:28:21] [Oxide] 16:28 [Info] [Notifier v2.18.4] GustavoSC1 deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:28:21] [Oxide] 16:28 [Info] [Notifier] GustavoSC1 left the server
+[03/26/2016 16:28:36] [Oxide] 16:28 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 16:28:36] Saved 12,648 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:28:36] Saving complete
+[03/26/2016 16:28:52] [Oxide] 16:28 [Info] [Death Notes] GustavoSC1 estava dormindo e foi baleado Cabeça pelo louco Din0Rock com uma Escopeta Caseira á 0.89m. Porque tem balas sobrando pelo jeito...
+[03/26/2016 16:28:52] GustavoSC1[395255/76561198113491555] was killed by Din0Rock[392611/76561198065190752]
+[03/26/2016 16:29:01] [Oxide] 16:29 [Info] [Notifier v2.18.4] Jogando: [BR] DENFENDERS BRASIL -WIPE 24/03- 5x/INSTANT/TP/HOME/AIRDROP/KIT
+[03/26/2016 16:29:09] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:29:09] 191.189.8.47:38866/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:29:09] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:29:20] [Oxide] 16:29 [Info] [Death Notes] Vinicios Moraes matou um Veado com Arco de Caça á 15.38m.
+[03/26/2016 16:29:36] [Oxide] 16:29 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:29:36] Saved 12,649 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:29:36] Saving complete
+[03/26/2016 16:29:57] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:29:57] 191.189.8.47:38427/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:29:57] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:30:36] [Oxide] 16:30 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 16:30:36] Saved 12,665 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:30:36] Saving complete
+[03/26/2016 16:30:44] [Oxide] 16:30 [Info] [Death Notes] Ssephyroth had enough of life.
+[03/26/2016 16:30:44] Ssephyroth[346814/76561198077422497] was killed by Suicide
+[03/26/2016 16:30:47] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:30:47] 191.189.8.47:38472/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:30:47] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:31:29] [Oxide] 16:31 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 16:31:29] [Oxide] 16:31 [Info] [Easy Airdrop] Console Message
+[03/26/2016 16:31:29] [Oxide] 16:31 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 16:31:36] [Oxide] 16:31 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (1 destroyed)
+[03/26/2016 16:31:48] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:31:48] 191.189.8.47:38494/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:31:48] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:32:19] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:32:19] 191.189.8.47:38512/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:32:19] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:32:36] [Oxide] 16:32 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 16:32:37] [Oxide] 16:32 [Info] [Notifier] Precisa de Ajuda? Entre em contato com os Admins no chat.
+[03/26/2016 16:32:43] 187.13.95.194:55187/76561198065190752/Din0Rock disconnecting: closing
+[03/26/2016 16:32:43] [Oxide] 16:32 [Info] [Notifier v2.18.4] Din0Rock deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:32:43] [Oxide] 16:32 [Info] [Notifier] Din0Rock left the server
+[03/26/2016 16:33:36] [Oxide] 16:33 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (2 destroyed)
+[03/26/2016 16:33:52] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:33:52] 191.189.8.47:38603/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:33:52] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:34:00] [Oxide] 16:34 [Info] [Death Notes] [TiTaN] TEQUILA pegou [NF] Mornenon enquando estava dormindo e deixou quase morto.
+[03/26/2016 16:34:00] [NF] Mornenon[282695/76561198093101087] was killed by [TiTaN] TEQUILA[312755/76561198006362941]
+[03/26/2016 16:34:36] [Oxide] 16:34 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (2 destroyed)
+[03/26/2016 16:36:00] [Oxide] 16:36 [Info] [Death Notes] Shadowkyl sangrando.
+[03/26/2016 16:36:00] Shadowkyl[27383/76561198121019368] died (Bleeding)
+[03/26/2016 16:36:20] [Oxide] 16:36 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 16:36:20] [Oxide] 16:36 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 16:36:36] [Oxide] 16:36 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (7 destroyed)
+[03/26/2016 16:36:55] [Oxide] 16:36 [Info] [Death Notes] [TiTaN] TEQUILA matou um Cavalo com Besta á 55.7m.
+[03/26/2016 16:37:01] [Oxide] 16:37 [Info] [Death Notes] [DCW] Word_D1nario matou um Cavalo com Arco de Caça á 61.41m.
+[03/26/2016 16:37:35] Saved 12,654 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 16:37:35] Saving complete
+[03/26/2016 16:37:36] [Oxide] 16:37 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (4 destroyed)
+[03/26/2016 16:37:51] 132.255.196.56:54239/76561197994523959/[ADMIN] Bokudo kicked: You were kicked for being AFK for 30 minutes
+[03/26/2016 16:37:51] [Oxide] 16:37 [Info] [Notifier v2.18.4] [ADMIN] Bokudo deixou o servidor. (Reação: You were kicked for being AFK for 30 minutes)
+[03/26/2016 16:37:51] [Oxide] 16:37 [Info] [Notifier] Bokudo left the server
+[03/26/2016 16:38:07] [Oxide] 16:38 [Info] [Death Notes] Shadowkyl sangrando.
+[03/26/2016 16:38:07] Shadowkyl[27383/76561198121019368] died (Bleeding)
+[03/26/2016 16:38:35] Saved 12,647 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:38:35] Saving complete
+[03/26/2016 16:38:36] [Oxide] 16:38 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (2 destroyed)
+[03/26/2016 16:39:07] [Oxide] 16:39 [Debug]   at (wrapper managed-to-native) UnityEngine.Object:get_name ()
+  at Oxide.Plugins.SupplyDropDestroyer+<OnEntitySpawned>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.Update () [0x00000] in <filename unknown>:0 
+[03/26/2016 16:39:35] Saved 12,656 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:39:35] Saving complete
+[03/26/2016 16:39:36] [Oxide] 16:39 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 16:40:31] [Oxide] 16:40 [Info] [Death Notes] [DCW] dc matou um Javali com Besta á 15.04m.
+[03/26/2016 16:40:35] Saved 12,662 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:40:35] Saving complete
+[03/26/2016 16:40:36] [Oxide] 16:40 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (2 destroyed)
+[03/26/2016 16:41:01] [Oxide] 16:41 [Info] [Notifier v2.18.4] Horario do Rust(Game) 05/27/2024 12:56:37
+[03/26/2016 16:41:34] Saved 12,667 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:41:34] Saving complete
+[03/26/2016 16:42:34] Saved 12,683 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:42:34] Saving complete
+[03/26/2016 16:42:36] [Oxide] 16:42 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:43:33] [Oxide] 16:43 [Info] [Death Notes] Shadowkyl foi baleado Cabeça por ChuiGamer com Arco de Caça á 7.83m.
+[03/26/2016 16:43:33] Shadowkyl[27383/76561198121019368] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:43:34] [Oxide] 16:43 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Besta á 8.07m.
+[03/26/2016 16:43:34] Saved 12,714 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:43:34] Saving complete
+[03/26/2016 16:43:36] [Oxide] 16:43 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 16:43:52] [Oxide] 16:43 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Besta á 6.15m.
+[03/26/2016 16:44:34] Saved 12,746 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:44:34] Saving complete
+[03/26/2016 16:44:36] [Oxide] 16:44 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (2 destroyed)
+[03/26/2016 16:44:37] [Oxide] 16:44 [Info] [Notifier] Insultos e Xingamentos não serão tolerados!
+[03/26/2016 16:45:34] Saved 12,771 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:45:34] Saving complete
+[03/26/2016 16:45:36] [Oxide] 16:45 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (2 destroyed)
+[03/26/2016 16:45:51] [Oxide] 16:45 [Info] [Death Notes] ChuiGamer pegou Din0Rock enquando estava dormindo e deixou quase morto.
+[03/26/2016 16:45:51] Din0Rock[392611/76561198065190752] was killed by ChuiGamer[386628/76561198182083909]
+[03/26/2016 16:46:03] [Oxide] 16:46 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 16:46:03] [Oxide] 16:46 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 16:46:03] [Oxide] 16:46 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 16:46:03] [Oxide] 16:46 [Info] [Easy Airdrop] Console Message
+[03/26/2016 16:46:03] [Oxide] 16:46 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 16:46:36] [Oxide] 16:46 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:47:36] [Oxide] 16:47 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 16:47:45] [Oxide] 16:47 [Info] [Death Notes] Vinicios Moraes matou um Javali com Arco de Caça á 6.8m.
+[03/26/2016 16:48:36] [Oxide] 16:48 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (1 destroyed)
+[03/26/2016 16:49:03] [EAC] Kicking 76561198219016839 (EAC Disconnected)
+[03/26/2016 16:49:03] 143.137.224.1:28108/76561198219016839/(GDI)AndersoN kicked: EAC: EAC Disconnected
+[03/26/2016 16:49:03] [EAC] Kicking 76561198219016839 (account owner) (EAC Disconnected)
+[03/26/2016 16:49:19] 201.51.118.223:55845/76561198262291217/ferreirodaniel joined [windows/76561198262291217]
+[03/26/2016 16:49:19] [Oxide] 16:49 [Info] [Notifier v2.18.4] ferreirodaniel entrou no servidor, país de origem Brazil.
+[03/26/2016 16:49:19] [Oxide] 16:49 [Info] [Notifier] ferreirodaniel joined from Brazil
+[03/26/2016 16:49:35] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:49:35] 191.189.8.47:38423/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:49:35] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:49:36] [Oxide] 16:49 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (1 destroyed)
+[03/26/2016 16:50:29] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:50:29] 191.189.8.47:38503/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:50:29] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:50:59] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:50:59] 191.189.8.47:38542/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:50:59] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:51:33] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:51:33] 191.189.8.47:38574/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:51:33] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:51:33] Saved 12,731 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:51:33] Saving complete
+[03/26/2016 16:51:36] [Oxide] 16:51 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (1 destroyed)
+[03/26/2016 16:51:49] [Oxide] 16:51 [Info] [Notifier v2.18.4] ferreirodaniel deixou o servidor. (Reação: Timed Out)
+[03/26/2016 16:51:49] [Oxide] 16:51 [Info] [Notifier] ferreirodaniel left the server
+[03/26/2016 16:52:31] [Oxide] 16:52 [Info] [Death Notes] ChuiGamer matou um Veado com Arco de Caça á 6.54m.
+[03/26/2016 16:52:33] Saved 12,758 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:52:33] Saving complete
+[03/26/2016 16:52:36] [Oxide] 16:52 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (2 destroyed)
+[03/26/2016 16:53:01] [Oxide] 16:53 [Info] [Notifier v2.18.4] Jogadores ON: 10 / 100 Folgados: 26
+[03/26/2016 16:53:33] Saved 12,772 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:53:33] Saving complete
+[03/26/2016 16:53:36] [Oxide] 16:53 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (0 destroyed)
+[03/26/2016 16:53:42] [Oxide] 16:53 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 16:53:43] [Oxide] 16:53 [Info] [Death Notes] Urso foi seguindo ChuiGamer até esquarteja-lo.. hue
+[03/26/2016 16:53:43] ChuiGamer[386628/76561198182083909] was killed by bear.prefab (bear)
+[03/26/2016 16:54:33] Saved 12,759 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:54:33] Saving complete
+[03/26/2016 16:54:36] [Oxide] 16:54 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 16:55:33] Saved 12,763 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:55:33] Saving complete
+[03/26/2016 16:55:36] [Oxide] 16:55 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (1 destroyed)
+[03/26/2016 16:56:32] Saved 12,769 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:56:32] Saving complete
+[03/26/2016 16:56:37] [Oxide] 16:56 [Info] [Notifier] Cheque os comandos Notifier's com /notifier help.
+[03/26/2016 16:57:32] Saved 12,789 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.02).
+[03/26/2016 16:57:32] Saving complete
+[03/26/2016 16:57:37] [Oxide] 16:57 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 16:58:03] [Oxide] 16:58 [Info] [Death Notes] ChuiGamer matou um Javali com Pedra á 1.42m.
+[03/26/2016 16:58:32] Saved 12,803 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:58:32] Saving complete
+[03/26/2016 16:58:37] [Oxide] 16:58 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 16:58:38] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 16:58:38] 191.189.8.47:38451/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 16:58:38] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 16:59:32] Saved 12,790 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 16:59:32] Saving complete
+[03/26/2016 16:59:37] [Oxide] 16:59 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (1 destroyed)
+[03/26/2016 16:59:56] [Oxide] 16:59 [Info] [Death Notes] ChuiGamer matou um Veado com Arco de Caça á 2.59m.
+[03/26/2016 16:59:58] 131.108.156.15:49115/76561198238659708/yndyo4k disconnecting: disconnect
+[03/26/2016 16:59:58] [Oxide] 16:59 [Info] [Notifier v2.18.4] yndyo4k deixou o servidor. (Reação: Disconnected)
+[03/26/2016 16:59:58] [Oxide] 16:59 [Info] [Notifier] yndyo4k left the server
+[03/26/2016 17:00:00] [Oxide] 17:00 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 17:00:00] [Oxide] 17:00 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 17:00:32] Saved 12,776 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:00:32] Saving complete
+[03/26/2016 17:00:37] [Oxide] 17:00 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 17:01:17] [Oxide] 17:01 [Info] [Death Notes] [DCW] Word_D1nario foi baleado Cabeça por Diogo com Pump Shotgun á 11.03m.
+[03/26/2016 17:01:17] [DCW] Word_D1nario[30290/76561198208077331] was killed by Diogo[22107/76561197998087180]
+[03/26/2016 17:01:32] Saved 12,781 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:01:32] Saving complete
+[03/26/2016 17:01:37] [Oxide] 17:01 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:02:32] Saved 12,784 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:02:32] Saving complete
+[03/26/2016 17:02:37] [Oxide] 17:02 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 17:03:13] [EAC] Kicking 76561198218334669 (EAC Disconnected)
+[03/26/2016 17:03:13] 191.189.8.47:38649/76561198218334669/cleaos kicked: EAC: EAC Disconnected
+[03/26/2016 17:03:13] [EAC] Kicking 76561198218334669 (account owner) (EAC Disconnected)
+[03/26/2016 17:03:32] Saved 12,781 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:03:32] Saving complete
+[03/26/2016 17:03:37] [Oxide] 17:03 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (2 destroyed)
+[03/26/2016 17:04:10] [Oxide] 17:04 [Info] [Death Notes] Vinicios Moraes was stabbed to death by Ssephyroth using a Picareta de Pedra.
+[03/26/2016 17:04:10] Vinicios Moraes[391324/76561198152831056] was killed by Ssephyroth[346814/76561198077422497]
+[03/26/2016 17:04:26] 189.102.57.177:62785/76561198265971844/uva3000 joined [windows/76561198265971844]
+[03/26/2016 17:04:30] [Oxide] 17:04 [Info] [Notifier v2.18.4] uva3000 entrou no servidor, país de origem Brazil.
+[03/26/2016 17:04:31] Saved 12,784 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:04:31] Saving complete
+[03/26/2016 17:04:37] [Oxide] 17:04 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 17:04:38] [Oxide] 17:04 [Info] [Notifier] uva3000 joined from Brazil
+[03/26/2016 17:05:01] [Oxide] 17:05 [Info] [Notifier v2.18.4] Quer saber os comandos disponiveis no servidor? Digite /help.
+[03/26/2016 17:05:31] Saved 12,796 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:05:31] Saving complete
+[03/26/2016 17:06:16] 189.102.57.177:62785/76561198265971844/uva3000 disconnecting: disconnect
+[03/26/2016 17:06:16] [Oxide] 17:06 [Info] [Notifier v2.18.4] uva3000 deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:06:16] [Oxide] 17:06 [Info] [Notifier] uva3000 left the server
+[03/26/2016 17:06:32] Saved 12,825 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:06:32] Saving complete
+[03/26/2016 17:06:37] [Oxide] 17:06 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 17:07:12] [Oxide] 17:07 [Info] [Death Notes] Urso foi seguindo ChuiGamer até esquarteja-lo.. hue
+[03/26/2016 17:07:12] ChuiGamer[386628/76561198182083909] was killed by bear.prefab (bear)
+[03/26/2016 17:07:31] [Oxide] 17:07 [Info] [SkipNightVote] SkipNightVote: has changed the server time.
+[03/26/2016 17:07:32] Saved 12,832 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:07:32] Saving complete
+[03/26/2016 17:07:37] [Oxide] 17:07 [Info] [BetterLoot] BetterLoot: Refreshed 10 containers (2 destroyed)
+[03/26/2016 17:08:32] Saved 12,835 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:08:32] Saving complete
+[03/26/2016 17:08:37] [Oxide] 17:08 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (0 destroyed)
+[03/26/2016 17:08:37] [Oxide] 17:08 [Info] [Notifier] Total de Jogadores 9/100 , e  28 preguiçosos.
+[03/26/2016 17:08:41] [Oxide] 17:08 [Info] [Death Notes] [DCW] Word_D1nario matou um Javali com Arco de Caça á 39.24m.
+[03/26/2016 17:09:21] [Oxide] 17:09 [Info] [Death Notes] ChuiGamer foi baleado Peito por Diogo com Pump Shotgun á 6.21m.
+[03/26/2016 17:09:21] ChuiGamer[386628/76561198182083909] was killed by Diogo[22107/76561197998087180]
+[03/26/2016 17:09:32] Saved 12,844 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:09:32] Saving complete
+[03/26/2016 17:09:37] [Oxide] 17:09 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 17:09:46] 177.158.114.229:63063/76561198182083909/ChuiGamer disconnecting: disconnect
+[03/26/2016 17:09:46] [Oxide] 17:09 [Info] [Notifier v2.18.4] ChuiGamer deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:09:46] [Oxide] 17:09 [Info] [Notifier] ChuiGamer left the server
+[03/26/2016 17:10:11] 189.73.69.55:54694/76561198208077331/Word_D1nario disconnecting: disconnect
+[03/26/2016 17:10:11] [Oxide] 17:10 [Info] [Notifier v2.18.4] Word_D1nario deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:10:11] [Oxide] 17:10 [Info] [Notifier] [DCW] Word_D1nario left the server
+[03/26/2016 17:10:32] Saved 12,845 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:10:32] Saving complete
+[03/26/2016 17:10:37] [Oxide] 17:10 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 17:11:31] Saved 12,839 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:11:31] Saving complete
+[03/26/2016 17:12:32] Saved 12,826 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:12:32] Saving complete
+[03/26/2016 17:12:37] [Oxide] 17:12 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:13:32] Saved 12,831 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:13:32] Saving complete
+[03/26/2016 17:13:37] [Oxide] 17:13 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 17:14:31] Saved 12,847 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:14:31] Saving complete
+[03/26/2016 17:14:37] [Oxide] 17:14 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:15:31] Saved 12,864 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:15:31] Saving complete
+[03/26/2016 17:15:37] [Oxide] 17:15 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 17:16:31] Saved 12,867 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:16:31] Saving complete
+[03/26/2016 17:16:37] [Oxide] 17:16 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:17:01] [Oxide] 17:17 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+[03/26/2016 17:17:31] Saved 12,872 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:17:31] Saving complete
+[03/26/2016 17:17:37] [Oxide] 17:17 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 17:18:07] [Oxide] 17:18 [Info] [Notifier v2.18.4] Airdrop chegando, partiu que pode ser seu!
+[03/26/2016 17:18:07] [Oxide] 17:18 [Info] [Easy Airdrop] Console Message
+[03/26/2016 17:18:07] [Oxide] 17:18 [Info] [TEMPODOSEVENTOS] airdrop
+[03/26/2016 17:18:37] [Oxide] 17:18 [Info] [BetterLoot] BetterLoot: Refreshed 1 containers (0 destroyed)
+[03/26/2016 17:18:44] 200.217.99.114:63441/76561198083495852/dc disconnecting: closing
+[03/26/2016 17:18:44] [Oxide] 17:18 [Info] [Notifier v2.18.4] dc deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:18:44] [Oxide] 17:18 [Info] [Notifier] [DCW] dc left the server
+[03/26/2016 17:18:50] 186.195.26.250:53847/76561198152831056/Vinicios Moraes disconnecting: disconnect
+[03/26/2016 17:18:50] [Oxide] 17:18 [Info] [Notifier v2.18.4] Vinicios Moraes deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:18:50] [Oxide] 17:18 [Info] [Notifier] Vinicios Moraes left the server
+[03/26/2016 17:19:37] [Oxide] 17:19 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 17:20:11] [Oxide] 17:20 [Info] [Death Notes] [TiTaN] TEQUILA matou um Veado com Besta á 15.79m.
+[03/26/2016 17:20:37] [Oxide] 17:20 [Info] [Notifier] Você está jogando em: [BR] DENFENDERS BRASIL -WIPE 24/03- 5x/INSTANT/TP/HOME/AIRDROP/KIT
+[03/26/2016 17:20:43] [Oxide] 17:20 [Info] [Death Notes] [TiTaN] TEQUILA matou um Galinha com Bone Knife á 1.2m.
+[03/26/2016 17:21:24] [Oxide] 17:21 [Info] [Death Notes] [TiTaN] TEQUILA matou um Javali com Bone Knife á 1.82m.
+[03/26/2016 17:21:37] [Oxide] 17:21 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 17:22:37] [Oxide] 17:22 [Info] [BetterLoot] BetterLoot: Refreshed 10 containers (0 destroyed)
+[03/26/2016 17:22:59] [Oxide] 17:22 [Info] [HeliControl] Helicopter Inbound!
+[03/26/2016 17:22:59] [Oxide] 17:22 [Info] [TEMPODOSEVENTOS] callheli
+[03/26/2016 17:23:30] Saved 12,877 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:23:30] Saving complete
+[03/26/2016 17:23:37] [Oxide] 17:23 [Info] [BetterLoot] BetterLoot: Refreshed 15 containers (0 destroyed)
+[03/26/2016 17:24:30] Saved 12,896 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:24:30] Saving complete
+[03/26/2016 17:24:37] [Oxide] 17:24 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (0 destroyed)
+[03/26/2016 17:25:30] Saved 12,904 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:25:30] Saving complete
+[03/26/2016 17:25:38] [Oxide] 17:25 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 17:25:40] [Oxide] 17:25 [Info] [Supply Drop Destroyer] Successfully destroyed assets/prefabs/misc/supply drop/supply_drop.prefab
+[03/26/2016 17:26:30] Saved 12,892 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:26:30] Saving complete
+[03/26/2016 17:27:30] Saved 12,896 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:27:30] Saving complete
+[03/26/2016 17:27:38] [Oxide] 17:27 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:28:29] Saved 12,890 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:28:29] Saving complete
+[03/26/2016 17:28:38] [Oxide] 17:28 [Info] [BetterLoot] BetterLoot: Refreshed 12 containers (0 destroyed)
+[03/26/2016 17:29:01] [Oxide] 17:29 [Info] [Notifier v2.18.4] Olha Hora!(Real) --> 03/26/2016 17:29
+[03/26/2016 17:29:29] Saved 12,876 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:29:29] Saving complete
+[03/26/2016 17:29:38] [Oxide] 17:29 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (5 destroyed)
+[03/26/2016 17:30:29] Saved 12,875 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:30:29] Saving complete
+[03/26/2016 17:30:38] [Oxide] 17:30 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 17:31:29] Saved 12,870 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:31:29] Saving complete
+[03/26/2016 17:31:38] [Oxide] 17:31 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:32:29] Saved 12,862 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:32:29] Saving complete
+[03/26/2016 17:32:37] [Oxide] 17:32 [Info] [Notifier] Insultos e Xingamentos não serão tolerados!
+[03/26/2016 17:32:38] [Oxide] 17:32 [Info] [BetterLoot] BetterLoot: Refreshed 2 containers (0 destroyed)
+[03/26/2016 17:32:39] [Oxide] 17:32 [Info] [Death Notes] [TiTaN] TEQUILA matou um Veado com Besta á 33.78m.
+[03/26/2016 17:33:29] Saved 12,861 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:33:29] Saving complete
+[03/26/2016 17:33:38] [Oxide] 17:33 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (1 destroyed)
+[03/26/2016 17:34:29] Saved 12,869 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:34:29] Saving complete
+[03/26/2016 17:34:38] [Oxide] 17:34 [Info] [BetterLoot] BetterLoot: Refreshed 5 containers (0 destroyed)
+[03/26/2016 17:35:29] Saved 12,871 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:35:29] Saving complete
+[03/26/2016 17:36:28] Saved 12,867 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:36:28] Saving complete
+[03/26/2016 17:36:38] [Oxide] 17:36 [Info] [BetterLoot] BetterLoot: Refreshed 7 containers (0 destroyed)
+[03/26/2016 17:37:28] Saved 12,872 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:37:28] Saving complete
+[03/26/2016 17:37:38] [Oxide] 17:37 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (7 destroyed)
+[03/26/2016 17:38:28] Saved 12,895 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:38:28] Saving complete
+[03/26/2016 17:38:36] [Oxide] 17:38 [Info] [Notifier v2.18.4] Shadowkyl deixou o servidor. (Reação: Timed Out)
+[03/26/2016 17:38:36] [Oxide] 17:38 [Info] [Notifier] Shadowkyl left the server
+[03/26/2016 17:38:38] [Oxide] 17:38 [Info] [BetterLoot] BetterLoot: Refreshed 17 containers (0 destroyed)
+[03/26/2016 17:39:28] Saved 12,896 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:39:28] Saving complete
+[03/26/2016 17:39:38] [Oxide] 17:39 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (0 destroyed)
+[03/26/2016 17:40:28] Saved 12,908 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:40:28] Saving complete
+[03/26/2016 17:40:38] [Oxide] 17:40 [Info] [BetterLoot] BetterLoot: Refreshed 3 containers (0 destroyed)
+[03/26/2016 17:41:01] [Oxide] 17:41 [Info] [Notifier v2.18.4] Cheats e Hacks sao proibidos.
+[03/26/2016 17:41:34] Saved 12,902 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:41:34] Saving complete
+[03/26/2016 17:41:38] [Oxide] 17:41 [Info] [BetterLoot] BetterLoot: Refreshed 0 containers (4 destroyed)
+[03/26/2016 17:42:34] Saved 12,930 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:42:34] Saving complete
+[03/26/2016 17:42:38] [Oxide] 17:42 [Info] [BetterLoot] BetterLoot: Refreshed 6 containers (0 destroyed)
+[03/26/2016 17:43:34] Saved 12,923 ents, serialization(0.00), write(0.01), disk(0.00) totalstall(0.01).
+[03/26/2016 17:43:34] Saving complete
+[03/26/2016 17:43:38] [Oxide] 17:43 [Info] [BetterLoot] BetterLoot: Refreshed 9 containers (3 destroyed)
+[03/26/2016 17:44:25] 189.38.2.166:60974/76561198006362941/TEQUILA disconnecting: disconnect
+[03/26/2016 17:44:34] Saved 12,899 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:44:34] Saving complete
+[03/26/2016 17:44:34] 177.96.172.98:65222/76561198032641492/Alan disconnecting: disconnect
+[03/26/2016 17:44:35] [Oxide] 17:44 [Info] [Notifier v2.18.4] TEQUILA deixou o servidor. (Reação: Timed Out)
+[03/26/2016 17:44:35] [Oxide] 17:44 [Info] [Notifier] [TiTaN] TEQUILA left the server
+[03/26/2016 17:44:37] [Oxide] 17:44 [Info] [Notifier] Abuso de Bugs, Cheats e Hackers não são tolerados, resultando em BAN permanente.
+[03/26/2016 17:44:38] [Oxide] 17:44 [Info] [Notifier v2.18.4] Alan deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:44:38] [Oxide] 17:44 [Info] [Notifier] [TiTaN] Alan left the server
+[03/26/2016 17:44:38] [Oxide] 17:44 [Info] [BetterLoot] BetterLoot: Refreshed 4 containers (1 destroyed)
+[03/26/2016 17:44:47] 191.54.229.106:57669/76561198077422497/Ssephyroth disconnecting: disconnect
+[03/26/2016 17:44:47] [Oxide] 17:44 [Info] [Notifier v2.18.4] Ssephyroth deixou o servidor. (Reação: Disconnected)
+[03/26/2016 17:44:47] [Oxide] 17:44 [Info] [Notifier] Ssephyroth left the server
+[03/26/2016 17:56:31] Generating terrain of size 4000 with seed 12345
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loading Oxide Core v2.0.1833...
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loading extensions...
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension CSharp v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension JavaScript v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension Lua v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension MySql v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension Python v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension SQLite v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension Unity v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded extension Rust v1.0.1833 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Debug] Cleanup file: E:\rust_update\mono-2.0.dll
+[03/26/2016 17:56:34] [Oxide] 17:56 [Debug] Cleanup file: E:\rust_update\msvcr120.dll
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Using Covalence provider for game 'Rust'
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loading plugins...
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Unity Core v1.0.0 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Rust Core v1.0.0 by Oxide Team
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Teleportation System v1.4.23 by Mughisi
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Private Messaging v1.2.5 by #Domestos
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Shop v1.1.0 by Bombardir
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] This Shop requires Economics! Please install: http://forum.rustoxide.com/plugins/economics.717/  
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Timed Events v1.1.1 by InSaNe8472
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin ViP / Admin / Other - Auto Name Changer v1.0.0 by TheDoc - Uprising RuST Server
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Notifier v2.18.4 by SkinN
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] ﻿
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4] * Starting timers:
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4]   - Started Adverts timer, set to 12 minute/s
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4]   - Starting Scheduled Messages timer
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4] * Enabling commands:
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4]   - Map Link (/map)
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4]   - Rules (/rules, /regras, /regles)
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4]   - Players Online (/online)
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4]   - Players List (/players)
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier v2.18.4] --------------------------------------------------
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] AFK, AutoDoors, BetterLoot, BuildingOwners, Clans, CraftingController, DeathNotes, EasyAirdrop, Economics, ExplosivesModifier, Friends, GUIShop, HeliControl, IGather, InfoPanel, ItemSkinRandomizer, Kits, NoEscape, Notifier, QuickSmelt, RemoverTool, SkipNightVote, StackSizeController, SupplyDropDestroyer and Updater were compiled successfully in 2608ms
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin AFK v1.0.1 by Wulf/lukespragg
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin AutoDoors v2.3.0 by Wulf/lukespragg
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin BetterLoot v1.9.7 by playrust.io / dcode
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Building Owners v2.1.4 by Reneb
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Clans v1.6.0 by playrust.io / dcode
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Crafting Controller v2.4.3 by Mughisi
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Death Notes v5.2.1 by LaserHydra
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Easy Airdrop v3.2.0 by LaserHydra
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Economics v2.0.5 by Nogrod
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Explosives Modifier v1.3.0 by Mughisi
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Friends v2.0.0 by Nogrod
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin GUIShop v1.1.2 by Reneb
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin HeliControl v1.0.18 by Shady
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin IGather v1.0.2 by DylanSMR
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin InfoPanel v0.9.3 by Ghosst
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Item Skin Randomizer v1.0.1 by Mughisi
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Kits v3.1.7 by Reneb
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin NoEscape v0.2.6 by Calytic @ cyclone.network
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Notifier v3.0.3 by SkinN
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [Notifier] Started Advert Messages timer, set to 12 minute/s
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin QuickSmelt v1.1.0 by Wulf/lukespragg
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin RemoverTool v3.0.15 by Reneb
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin SkipNightVote v1.1.0 by Mordenak
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Stack Size Controller v1.9.0 by Waizujin
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Supply Drop Destroyer v0.2.0 by PaiN
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] Loaded plugin Updater v2.0.0 by LaserHydra
+[03/26/2016 17:56:34] [Oxide] 17:56 [Info] [IGather] Data Saved!!!
+[03/26/2016 17:56:34] RCon Started on 28016
+[03/26/2016 17:56:43] [8.7s] HEIGHT MAP
+[03/26/2016 17:56:47] [3.6s] MOUNTAINS
+[03/26/2016 17:56:47] [0.5s] BIOME MAP
+[03/26/2016 17:56:51] [3.7s] TOPOLOGY MAP
+[03/26/2016 17:56:53] [2.3s] SPLAT MAP
+[03/26/2016 17:56:59] [5.3s] LARGE MONUMENTS
+[03/26/2016 17:56:59] [0.7s] PRODUCTION MONUMENTS
+[03/26/2016 17:57:00] [0.6s] SMALL MONUMENTS
+[03/26/2016 17:57:03] [2.6s] RIVER LAYOUT
+[03/26/2016 17:57:09] [6.4s] ROAD LAYOUT
+[03/26/2016 17:57:10] [1.1s] POWERLINE LAYOUT
+[03/26/2016 17:57:11] [0.8s] POWERLINE OBJECTS
+[03/26/2016 17:57:12] [0.6s] FIELD ROCKS
+[03/26/2016 17:57:13] [1.1s] MICRO CLIFFS
+[03/26/2016 17:57:14] [0.3s] WATERSIDE ROCKS
+[03/26/2016 17:57:14] [0.6s] WATER ROCKS
+[03/26/2016 17:57:19] [4.8s] TERRAIN MESH
+[03/26/2016 17:57:20] [0.4s] RIVER OBJECTS
+[03/26/2016 17:57:20] [0.5s] ROAD OBJECTS
+[03/26/2016 17:57:27] [6.6s] PROCEDURAL OBJECTS
+[03/26/2016 17:57:30] [2.9s] CLIFF TOPOLOGY
+[03/26/2016 17:57:30] [55.7s] Procedural Generation
+[03/26/2016 17:57:30] Loaded database server/my_server_identity/UserPersistence.db (22 entries)
+[03/26/2016 17:57:32] Destroyed 26 old entities
+[03/26/2016 17:57:34] Spawning 12899 entities
+[03/26/2016 17:57:36] Loading Complete
+[03/26/2016 17:57:36] Enforcing SpawnPopulation Limits
+[03/26/2016 17:57:37] Map Spawned 12997 entities
+[03/26/2016 17:57:37] Initializing 3017 stability entities
+[03/26/2016 17:57:38] Initializing 2907 conditional models
+[03/26/2016 17:57:40] Connected to Steam
+[03/26/2016 17:57:40] [Oxide] 17:57 [Info] m-Teleportation: To allow Homes to be set on foundations owned by friends of the player the plugin `Friends API` is required!
+[03/26/2016 17:57:40] [Oxide] 17:57 [Info]                  This plugin can be downloaded at http://forum.rustoxide.com/plugins/friends-api.686/
+[03/26/2016 17:57:40] [Oxide] 17:57 [Info]                  The friends check has temporarily been disabled to prevent problems.
+[03/26/2016 17:57:40] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: Updating in T-3 ...
+[03/26/2016 17:57:40] [Oxide] 17:57 [Info] [Clans] Clans: Rust:IO is not present. You need to install Rust:IO first in order to use this plugin!
+[03/26/2016 17:57:40] [Oxide] 17:57 [Info] [RemoverTool] RemoverTool: Rust:IO is not present. You need to install Rust:IO first in order to use the RustIO option!
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: Updating internals ...
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There are 259 items and 183 blueprints in the game.
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: We are going to use 196 items and 140 blueprints of them.
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: Base item rarity is 2 and base blueprint rarity is 2.
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: With a 11.0% chance that any drop is a blueprint we get:
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 39.801% chance to get one of 45 common items (w=8000, 360000/805000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 35.379% chance to get one of 80 uncommon items (w=4000, 320000/805000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 11.940% chance to get one of 54 rare items (w=2000, 108000/805000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 1.880% chance to get one of 17 very rare items (w=1000, 17000/805000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 3.527% chance to get one of 20 common blueprints (w=8000, 160000/499000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 5.026% chance to get one of 57 uncommon blueprints (w=4000, 228000/499000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 2.116% chance to get one of 48 rare blueprints (w=2000, 96000/499000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: There is a 0.331% chance to get one of 15 very rare blueprints (w=1000, 15000/499000).
+[03/26/2016 17:57:42] [Oxide] 17:57 [Info] [BetterLoot] BetterLoot: Internals have been updated
+[03/26/2016 17:58:40] Saved 12,911 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:58:40] Saving complete
+[03/26/2016 17:59:40] Saved 12,918 ents, serialization(0.00), write(0.00), disk(0.00) totalstall(0.01).
+[03/26/2016 17:59:40] Saving complete
+[03/26/2016 17:59:47] [Oxide] 17:59 [Info] [Notifier] [TiTaN] TEQUILA joined from Brazil
+[03/26/2016 17:59:47] 189.38.2.166:56176/76561198006362941/TEQUILA joined [windows/76561198006362941]
+[03/26/2016 17:59:50] [Oxide] 17:59 [Info] [Notifier v2.18.4] TEQUILA entrou no servidor, país de origem Brazil.

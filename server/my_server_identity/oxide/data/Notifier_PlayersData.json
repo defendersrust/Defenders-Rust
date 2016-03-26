@@ -26,7 +26,7 @@
   "76561198121019368": {
     "isadmin": false,
     "steamid": "76561198121019368",
-    "ipaddress": "179.126.45.14",
+    "ipaddress": "191.54.136.198",
     "country": "Brazil",
     "username": "Shadowkyl",
     "countrycode": "BR"
@@ -34,7 +34,7 @@
   "76561198117520766": {
     "isadmin": false,
     "steamid": "76561198117520766",
-    "ipaddress": "177.140.52.12",
+    "ipaddress": "189.33.176.71",
     "country": "Brazil",
     "username": "OFFLINE",
     "countrycode": "BR"
@@ -149,6 +149,398 @@
     "ipaddress": "187.102.5.59",
     "country": "Brazil",
     "username": "Tsadkiel",
+    "countrycode": "BR"
+  },
+  "76561198088093494": {
+    "isadmin": false,
+    "steamid": "76561198088093494",
+    "ipaddress": "177.82.1.240",
+    "country": "Brazil",
+    "username": "Kiko",
+    "countrycode": "BR"
+  },
+  "76561198052465097": {
+    "isadmin": false,
+    "steamid": "76561198052465097",
+    "ipaddress": "187.121.60.12",
+    "country": "Brazil",
+    "username": "DarkLithium",
+    "countrycode": "BR"
+  },
+  "76561198260846439": {
+    "isadmin": false,
+    "steamid": "76561198260846439",
+    "ipaddress": "177.125.151.107",
+    "country": "Brazil",
+    "username": "Fred-BR",
+    "countrycode": "BR"
+  },
+  "76561198234000716": {
+    "isadmin": false,
+    "steamid": "76561198234000716",
+    "ipaddress": "138.97.84.234",
+    "country": "Brazil",
+    "username": "KingOfBilada",
+    "countrycode": "BR"
+  },
+  "76561198157933635": {
+    "isadmin": false,
+    "steamid": "76561198157933635",
+    "ipaddress": "177.66.177.22",
+    "country": "Brazil",
+    "username": "Suvaco de Porco",
+    "countrycode": "BR"
+  },
+  "76561198070967812": {
+    "isadmin": false,
+    "steamid": "76561198070967812",
+    "ipaddress": "189.32.58.42",
+    "country": "Brazil",
+    "username": "Elizbeth",
+    "countrycode": "BR"
+  },
+  "76561198097211157": {
+    "isadmin": false,
+    "steamid": "76561198097211157",
+    "ipaddress": "167.62.191.104",
+    "country": "Uruguay",
+    "username": "tuiter",
+    "countrycode": "UY"
+  },
+  "76561198122467187": {
+    "isadmin": false,
+    "steamid": "76561198122467187",
+    "ipaddress": "179.110.152.247",
+    "country": "Brazil",
+    "username": "Creks",
+    "countrycode": "BR"
+  },
+  "76561198203544440": {
+    "isadmin": false,
+    "steamid": "76561198203544440",
+    "ipaddress": "200.175.245.54",
+    "country": "Brazil",
+    "username": "Zef Alien",
+    "countrycode": "BR"
+  },
+  "76561198167206493": {
+    "isadmin": false,
+    "steamid": "76561198167206493",
+    "ipaddress": "189.31.130.224",
+    "country": "Brazil",
+    "username": "Yuuki",
+    "countrycode": "BR"
+  },
+  "76561198144143748": {
+    "isadmin": false,
+    "steamid": "76561198144143748",
+    "ipaddress": "189.18.7.177",
+    "country": "Brazil",
+    "username": "MackJhow",
+    "countrycode": "BR"
+  },
+  "76561197998087180": {
+    "isadmin": true,
+    "steamid": "76561197998087180",
+    "ipaddress": "187.49.26.89",
+    "country": null,
+    "username": "Diogo",
+    "countrycode": null
+  },
+  "76561198142454215": {
+    "isadmin": false,
+    "steamid": "76561198142454215",
+    "ipaddress": "177.152.44.156",
+    "country": "Brazil",
+    "username": "(Caveiras)Paniniale",
+    "countrycode": "BR"
+  },
+  "76561198032641492": {
+    "isadmin": false,
+    "steamid": "76561198032641492",
+    "ipaddress": "177.96.172.98",
+    "country": "Brazil",
+    "username": "[TiTaN] Alan",
+    "countrycode": "BR"
+  },
+  "76561198083495852": {
+    "isadmin": false,
+    "steamid": "76561198083495852",
+    "ipaddress": "200.217.99.114",
+    "country": "Brazil",
+    "username": "[DCW] dc",
+    "countrycode": "BR"
+  },
+  "76561198105338512": {
+    "isadmin": false,
+    "steamid": "76561198105338512",
+    "ipaddress": "177.83.29.186",
+    "country": "Brazil",
+    "username": "AugustoGargula",
+    "countrycode": "BR"
+  },
+  "76561198118058280": {
+    "isadmin": false,
+    "steamid": "76561198118058280",
+    "ipaddress": "191.240.61.114",
+    "country": "Brazil",
+    "username": "Anlo",
+    "countrycode": "BR"
+  },
+  "76561198208077331": {
+    "isadmin": false,
+    "steamid": "76561198208077331",
+    "ipaddress": "189.72.94.202",
+    "country": "Brazil",
+    "username": "[DCW] Word_D1nario",
+    "countrycode": "BR"
+  },
+  "76561198125265194": {
+    "isadmin": false,
+    "steamid": "76561198125265194",
+    "ipaddress": "189.48.223.112",
+    "country": "Brazil",
+    "username": "voutrom(mira ta OOOOOOOOOOOOO)",
+    "countrycode": "BR"
+  },
+  "76561198233959344": {
+    "isadmin": false,
+    "steamid": "76561198233959344",
+    "ipaddress": "200.240.253.147",
+    "country": "Brazil",
+    "username": "Carlinhos7979",
+    "countrycode": "BR"
+  },
+  "76561198194527322": {
+    "isadmin": false,
+    "steamid": "76561198194527322",
+    "ipaddress": "189.27.61.95",
+    "country": "Brazil",
+    "username": "SD Sodre",
+    "countrycode": "BR"
+  },
+  "76561198141930143": {
+    "isadmin": false,
+    "steamid": "76561198141930143",
+    "ipaddress": "177.185.107.121",
+    "country": "Brazil",
+    "username": "Eufrazino",
+    "countrycode": "BR"
+  },
+  "76561198174126025": {
+    "isadmin": false,
+    "steamid": "76561198174126025",
+    "ipaddress": "177.64.33.217",
+    "country": "Brazil",
+    "username": "Saraivamt",
+    "countrycode": "BR"
+  },
+  "76561198269605819": {
+    "isadmin": false,
+    "steamid": "76561198269605819",
+    "ipaddress": "131.161.28.138",
+    "country": "Brazil",
+    "username": "leosaraiva",
+    "countrycode": "BR"
+  },
+  "76561198134180963": {
+    "isadmin": false,
+    "steamid": "76561198134180963",
+    "ipaddress": "177.152.175.159",
+    "country": "Brazil",
+    "username": "poland.pl",
+    "countrycode": "BR"
+  },
+  "76561197997551911": {
+    "isadmin": false,
+    "steamid": "76561197997551911",
+    "ipaddress": "189.38.201.14",
+    "country": "Brazil",
+    "username": "MaLuKo BeLeZa",
+    "countrycode": "BR"
+  },
+  "76561198006362941": {
+    "isadmin": false,
+    "steamid": "76561198006362941",
+    "ipaddress": "189.38.2.166",
+    "country": "Brazil",
+    "username": "[TiTaN] TEQUILA",
+    "countrycode": "BR"
+  },
+  "76561198091425718": {
+    "isadmin": false,
+    "steamid": "76561198091425718",
+    "ipaddress": "179.191.194.29",
+    "country": "Brazil",
+    "username": "Fabri™",
+    "countrycode": "BR"
+  },
+  "76561198144449321": {
+    "isadmin": false,
+    "steamid": "76561198144449321",
+    "ipaddress": "187.255.223.65",
+    "country": "Brazil",
+    "username": "mininu q gosta de arma 3",
+    "countrycode": "BR"
+  },
+  "76561198286305942": {
+    "isadmin": false,
+    "steamid": "76561198286305942",
+    "ipaddress": "186.5.247.183",
+    "country": "Argentina",
+    "username": "TomYT",
+    "countrycode": "AR"
+  },
+  "76561198024153755": {
+    "isadmin": false,
+    "steamid": "76561198024153755",
+    "ipaddress": "177.152.42.139",
+    "country": "Brazil",
+    "username": "Evansellau",
+    "countrycode": "BR"
+  },
+  "76561198094715745": {
+    "isadmin": false,
+    "steamid": "76561198094715745",
+    "ipaddress": "186.251.222.169",
+    "country": "Brazil",
+    "username": "Diego Toniolli",
+    "countrycode": "BR"
+  },
+  "76561198094704822": {
+    "isadmin": false,
+    "steamid": "76561198094704822",
+    "ipaddress": "177.155.253.225",
+    "country": "Brazil",
+    "username": "ThunderBlack",
+    "countrycode": "BR"
+  },
+  "76561198290078700": {
+    "isadmin": false,
+    "steamid": "76561198290078700",
+    "ipaddress": "177.192.103.181",
+    "country": "Brazil",
+    "username": "GabrielPaks",
+    "countrycode": "BR"
+  },
+  "76561198144428242": {
+    "isadmin": false,
+    "steamid": "76561198144428242",
+    "ipaddress": "191.177.226.7",
+    "country": "Brazil",
+    "username": "KelvinCamargo",
+    "countrycode": "BR"
+  },
+  "76561198137335693": {
+    "isadmin": false,
+    "steamid": "76561198137335693",
+    "ipaddress": "152.249.115.71",
+    "country": "Brazil",
+    "username": "Step",
+    "countrycode": "BR"
+  },
+  "76561198157393423": {
+    "isadmin": false,
+    "steamid": "76561198157393423",
+    "ipaddress": "189.81.212.230",
+    "country": "Brazil",
+    "username": "mulekedoido",
+    "countrycode": "BR"
+  },
+  "76561198083884540": {
+    "isadmin": false,
+    "steamid": "76561198083884540",
+    "ipaddress": "177.97.163.242",
+    "country": "Brazil",
+    "username": "Chocoleitesque",
+    "countrycode": "BR"
+  },
+  "76561198200465902": {
+    "isadmin": false,
+    "steamid": "76561198200465902",
+    "ipaddress": "187.127.53.237",
+    "country": "Brazil",
+    "username": "LucasBH22",
+    "countrycode": "BR"
+  },
+  "76561198284780770": {
+    "isadmin": false,
+    "steamid": "76561198284780770",
+    "ipaddress": "187.62.199.148",
+    "country": "Brazil",
+    "username": "MISTER",
+    "countrycode": "BR"
+  },
+  "76561198216707124": {
+    "isadmin": false,
+    "steamid": "76561198216707124",
+    "ipaddress": "176.51.203.11",
+    "country": "Russia",
+    "username": "jackstone27",
+    "countrycode": "RU"
+  },
+  "76561198093268853": {
+    "isadmin": false,
+    "steamid": "76561198093268853",
+    "ipaddress": "179.252.247.220",
+    "country": "Brazil",
+    "username": "BomberMaN",
+    "countrycode": "BR"
+  },
+  "76561198251204370": {
+    "isadmin": false,
+    "steamid": "76561198251204370",
+    "ipaddress": "200.220.193.229",
+    "country": "Brazil",
+    "username": "Diablon Plays",
+    "countrycode": "BR"
+  },
+  "76561198093101087": {
+    "isadmin": false,
+    "steamid": "76561198093101087",
+    "ipaddress": "177.2.32.199",
+    "country": "Brazil",
+    "username": "Mornenon",
+    "countrycode": "BR"
+  },
+  "76561198279117589": {
+    "isadmin": false,
+    "steamid": "76561198279117589",
+    "ipaddress": "217.118.81.30",
+    "country": "Russia",
+    "username": "Aleksandr",
+    "countrycode": "RU"
+  },
+  "76561198003886454": {
+    "isadmin": false,
+    "steamid": "76561198003886454",
+    "ipaddress": "191.251.144.13",
+    "country": "Brazil",
+    "username": "ThunderDark (BR)",
+    "countrycode": "BR"
+  },
+  "76561198205236029": {
+    "isadmin": false,
+    "steamid": "76561198205236029",
+    "ipaddress": "201.159.117.66",
+    "country": "Brazil",
+    "username": "Hero_HD",
+    "countrycode": "BR"
+  },
+  "76561198280632910": {
+    "isadmin": false,
+    "steamid": "76561198280632910",
+    "ipaddress": "200.140.4.32",
+    "country": "Brazil",
+    "username": "BiGoDe GroSsO",
+    "countrycode": "BR"
+  },
+  "76561198082216382": {
+    "isadmin": false,
+    "steamid": "76561198082216382",
+    "ipaddress": "179.191.8.5",
+    "country": "Brazil",
+    "username": "Paludetto",
     "countrycode": "BR"
   }
 }

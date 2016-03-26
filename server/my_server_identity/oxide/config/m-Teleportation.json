@@ -9,7 +9,7 @@
     "CheckFoundationForOwner": false,
     "Cooldown": 300,
     "Countdown": 15,
-    "DailyLimit": 5,
+    "DailyLimit": 15,
     "ForceOnTopOfFoundation": true,
     "HomesLimit": 1,
     "LocationRadius": 25,

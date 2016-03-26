@@ -249,3 +249,132 @@ Following plugins are outdated:
 # Notifier | Installed: 2.18.4 - Latest: 3.0.2 | http://oxidemod.org/plugins/797/
 
 [03/26/2016 12:28:06] [Oxide] 12:28 [Warning] CallHook 'OnEntityTakeDamage' on plugin 'm-Teleportation v1.4.23' took: 508ms
+[03/26/2016 12:42:53] Missing projectileID  (10) 
+[03/26/2016 12:42:53] Missing projectileID  (11) 
+[03/26/2016 12:42:53] Missing projectileID  (12) 
+[03/26/2016 12:42:53] Missing projectileID  (13) 
+[03/26/2016 12:42:53] Missing projectileID  (14) 
+[03/26/2016 12:42:53] Missing projectileID  (15) 
+[03/26/2016 12:42:53] Missing projectileID  (16) 
+[03/26/2016 12:42:53] Missing projectileID  (17) 
+[03/26/2016 12:42:53] Missing projectileID  (18) 
+[03/26/2016 12:42:53] Missing projectileID  (19) 
+[03/26/2016 12:42:53] Missing projectileID  (20) 
+[03/26/2016 12:42:53] Missing projectileID  (21) 
+[03/26/2016 12:43:01] Missing projectileID  (26) 
+[03/26/2016 12:43:01] Missing projectileID  (27) 
+[03/26/2016 12:43:01] Missing projectileID  (28) 
+[03/26/2016 12:43:01] Missing projectileID  (29) 
+[03/26/2016 12:43:01] Missing projectileID  (30) 
+[03/26/2016 12:43:01] Missing projectileID  (31) 
+[03/26/2016 12:43:01] Missing projectileID  (32) 
+[03/26/2016 12:43:01] Missing projectileID  (33) 
+[03/26/2016 12:43:01] Missing projectileID  (34) 
+[03/26/2016 12:43:01] Missing projectileID  (35) 
+[03/26/2016 12:46:03] [Oxide] 12:46 [Warning] Missing plugin name prefix 'timedevents.' for permission 'event.admin' (by plugin 'Timed Events')
+[03/26/2016 12:53:10] [Oxide] 12:53 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.2 | http://oxidemod.org/plugins/797/
+
+[03/26/2016 13:15:37] [Oxide] 13:15 [Warning] CallHook 'OnEntityTakeDamage' on plugin 'm-Teleportation v1.4.23' took: 1664ms
+[03/26/2016 13:53:10] [Oxide] 13:53 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.3 | http://oxidemod.org/plugins/797/
+
+# Notifier | Installed: 3.0.2 - Latest: 3.0.3 | http://oxidemod.org/plugins/797/
+
+[03/26/2016 13:55:11] Missing projectileID  (65) 
+[03/26/2016 13:55:11] Missing projectileID  (66) 
+[03/26/2016 13:55:11] Missing projectileID  (67) 
+[03/26/2016 13:55:11] Missing projectileID  (71) 
+[03/26/2016 14:53:10] [Oxide] 14:53 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.3 | http://oxidemod.org/plugins/797/
+
+[03/26/2016 14:53:37] Calling kill - but already IsDestroyed!? assets/prefabs/misc/supply drop/supply_drop.prefab[0]
+[03/26/2016 15:05:26] Calling kill - but already IsDestroyed!? assets/prefabs/misc/supply drop/supply_drop.prefab[0]
+[03/26/2016 15:07:31] Calling kill - but already IsDestroyed!? assets/prefabs/misc/supply drop/supply_drop.prefab[0]
+[03/26/2016 15:40:53] [Oxide] 15:40 [Warning] CallHook 'OnEntityTakeDamage' on plugin 'm-Teleportation v1.4.23' took: 1070ms
+[03/26/2016 15:41:45] Missing projectileID  (15) 
+[03/26/2016 15:41:45] Missing projectileID  (9) 
+[03/26/2016 15:41:45] Missing projectileID  (23) 
+[03/26/2016 15:41:45] Missing projectileID  (19) 
+[03/26/2016 15:41:45] Missing projectileID  (18) 
+[03/26/2016 15:41:45] Missing projectileID  (24) 
+[03/26/2016 15:41:45] Missing projectileID  (25) 
+[03/26/2016 15:41:46] Missing projectileID  (13) 
+[03/26/2016 15:41:46] Missing projectileID  (22) 
+[03/26/2016 15:41:46] Missing projectileID  (26) 
+[03/26/2016 15:41:46] Missing projectileID  (14) 
+[03/26/2016 15:41:46] Missing projectileID  (16) 
+[03/26/2016 15:41:46] Missing projectileID  (21) 
+[03/26/2016 15:41:46] Missing projectileID  (27) 
+[03/26/2016 15:41:46] Missing projectileID  (28) 
+[03/26/2016 15:41:46] Missing projectileID  (10) 
+[03/26/2016 15:41:46] Missing projectileID  (20) 
+[03/26/2016 15:41:47] Missing projectileID  (11) 
+[03/26/2016 15:41:47] Missing projectileID  (12) 
+[03/26/2016 15:41:47] Missing projectileID  (17) 
+[03/26/2016 15:42:34] Missing projectileID  (8) 
+[03/26/2016 15:42:34] Missing projectileID  (9) 
+[03/26/2016 15:53:12] [Oxide] 15:53 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.3 | http://oxidemod.org/plugins/797/
+
+[03/26/2016 15:54:46] [Oxide] 15:54 [Warning] 'ExplosivesModifier v1.3.0' plugin is using deprecated hook: OnWeaponThrown
+[03/26/2016 16:04:48] Missing projectileID  (77) 
+[03/26/2016 16:04:48] Missing projectileID  (81) 
+[03/26/2016 16:04:48] Missing projectileID  (84) 
+[03/26/2016 16:04:48] Missing projectileID  (85) 
+[03/26/2016 16:04:48] Missing projectileID  (86) 
+[03/26/2016 16:04:48] Missing projectileID  (82) 
+[03/26/2016 16:04:48] Missing projectileID  (88) 
+[03/26/2016 16:04:48] Missing projectileID  (90) 
+[03/26/2016 16:04:48] Missing projectileID  (78) 
+[03/26/2016 16:04:48] Missing projectileID  (80) 
+[03/26/2016 16:04:48] Missing projectileID  (89) 
+[03/26/2016 16:04:48] Missing projectileID  (87) 
+[03/26/2016 16:04:48] Missing projectileID  (79) 
+[03/26/2016 16:04:51] Missing projectileID  (83) 
+[03/26/2016 16:19:25] Missing projectileID  (4) 
+[03/26/2016 16:31:04] Missing projectileID  (70) 
+[03/26/2016 16:31:04] Missing projectileID  (71) 
+[03/26/2016 16:31:33] Missing projectileID  (97) 
+[03/26/2016 16:31:35] Missing projectileID  (115) 
+[03/26/2016 16:32:31] [Oxide] 16:32 [Warning] 'ExplosivesModifier v1.3.0' plugin is using deprecated hook: OnWeaponThrown
+[03/26/2016 16:39:07] Calling kill - but already IsDestroyed!? assets/prefabs/misc/supply drop/supply_drop.prefab[0]
+[03/26/2016 16:48:21] Missing projectileID  (8) 
+[03/26/2016 16:48:23] Missing projectileID  (10) 
+[03/26/2016 16:48:23] Missing projectileID  (9) 
+[03/26/2016 16:48:23] Missing projectileID  (11) 
+[03/26/2016 16:48:25] Missing projectileID  (12) 
+[03/26/2016 16:48:25] Missing projectileID  (13) 
+[03/26/2016 16:48:27] Missing projectileID  (14) 
+[03/26/2016 16:48:27] Missing projectileID  (16) 
+[03/26/2016 16:48:28] Missing projectileID  (15) 
+[03/26/2016 16:48:28] Missing projectileID  (17) 
+[03/26/2016 16:53:13] [Oxide] 16:53 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.3 | http://oxidemod.org/plugins/797/
+
+[03/26/2016 17:05:41] [Oxide] 17:05 [Warning] CallHook 'OnEntityTakeDamage' on plugin 'm-Teleportation v1.4.23' took: 1234ms
+[03/26/2016 17:11:50] [Oxide] 17:11 [Warning] CallHook 'OnEntityTakeDamage' on plugin 'm-Teleportation v1.4.23' took: 688ms
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Missing plugin name prefix 'timedevents.' for permission 'event.admin' (by plugin 'Timed Events')
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Missing plugin name prefix 'easyairdrop.' for permission 'airdrop.call' (by plugin 'Easy Airdrop')
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Missing plugin name prefix 'easyairdrop.' for permission 'airdrop.call.player' (by plugin 'Easy Airdrop')
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Missing plugin name prefix 'easyairdrop.' for permission 'airdrop.call.position' (by plugin 'Easy Airdrop')
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Missing plugin name prefix 'easyairdrop.' for permission 'airdrop.call.mass' (by plugin 'Easy Airdrop')
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Notifier has replaced the 'notifier' chat command previously registered by notifier
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Notifier has replaced the 'online' chat command previously registered by notifier
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Notifier has replaced the 'players' chat command previously registered by notifier
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] Notifier has replaced the 'rules' chat command previously registered by notifier
+[03/26/2016 17:56:34] [Oxide] 17:56 [Warning] [Updater] 
+Following plugins are outdated: 
+
+# Notifier | Installed: 2.18.4 - Latest: 3.0.3 | http://oxidemod.org/plugins/797/
+
