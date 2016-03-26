@@ -8,160 +8,193 @@ using ConVar;
 
 namespace Oxide.Plugins
 {
-    [Info("IGather", "DylanSMR", "0.0.8", ResourceId = 1763)]
+    [Info("IGather", "DylanSMR", "1.0.2", ResourceId = 1763)]
     [Description("Adds the ability to set a gather rate for each person.")]
     class IGather : RustPlugin
     {
-        ////////////////////////////////////////////////////
-        //Configuration Settings////////////////////////////
-        ////////////////////////////////////////////////////
+        public List<string> ListHelp = new List<string>();
+        public List<string> ListTypes = new List<string>();
+        public List<string> ListGather = new List<string>();
+        
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Configuration File
+        ////////////////////////////////////////////////////////////////////////////////////// 
         
         void LoadDefaultConfig()
         {
-            Puts("Creating a new config file");
+            Puts("Creating a new configuration file.");
             Config.Clear();
-            
-            //Regular Default Rate//
-            Config["DefaultQuarryRate"] = 1;
-            Config["DefaultResourceRate"] = 1;
-            Config["DefaultCollectable"] = 1;
-            //VIP Default Rate//
-            Config["VIPQuarryRate"] = 1;
-            Config["VIPResourceRate"] = 1;
-            Config["VIPCollectable"] = 1;
-            
-            Config.Save();
-        } 
-           
-        ////////////////////////////////////////////////////
-        //Data Settings|Config//////////////////////////////
-        //////////////////////////////////////////////////// 
-  
-        Dictionary<ulong, BasePlayer> quarryOwners = new Dictionary<ulong, BasePlayer>();
-        class StoredData
-        {
-            public Dictionary<ulong, UserInfo> Users = new Dictionary<ulong, UserInfo>();
-            public StoredData()
-            {
-            }
+                //DEFAULT CONFIGURATION FILES//
+                Config["DefaultQuarryRate"] = 1;
+                Config["DefaultResourceRate"] = 1;
+                Config["DefaultCollectable"] = 1;
+                //VIP CONFIGURATION FILES//
+                Config["VIPQuarryRate"] = 5;
+                Config["VIPResourceRate"] = 5;
+                Config["VIPCollectable"] = 5; 
+                //OTHER CONFIGURATION FILES//
+                Config["TimeBetweenSave"] = 300; 
+                //GROUP CONFIGURATION FILES//     
+            Config.Save();        
         }
-
-        class UserInfo
-        {
-            public string Name;
-            public int PlayerQuarry;
-            public int ResourceRate;
-            public int CollectableRate;            
-            public UserInfo()
-            {
-            }
-        }  
         
-        StoredData storedData;
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Loaded
+        //////////////////////////////////////////////////////////////////////////////////////            
         
         void Loaded()
         {
-            LoadLang();
             storedData = Interface.GetMod().DataFileSystem.ReadObject<StoredData>(this.Title);
-        } 
-
-        void OnPlayerInit(BasePlayer player)
-        {
-            if (!storedData.Users.ContainsKey(player.userID)) InitUserData(player);
-        }
+            //VIP//
+                permission.RegisterPermission("igather.vip", this);
+            //ADMIN//
+                permission.RegisterPermission("igather.admin", this);
+                permission.RegisterPermission("igather.defaultall", this);
+                permission.RegisterPermission("igather.default", this);
+                permission.RegisterPermission("igather.set", this);
+                permission.RegisterPermission("igather.setall", this);
+                permission.RegisterPermission("igather.gatherp", this);
+                permission.RegisterPermission("igather.setvip", this);
+            //Add Language Options//
+                AddLang(); 
+            //Add Help//
+                SetHelp();
+            //Start Timer//
+                StartTimers();             
+        }        
         
-        private bool InitUserData(BasePlayer player)
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Auto Save Timer
+        //////////////////////////////////////////////////////////////////////////////////////    
+        
+        void StartTimers()
         {
-            if(!storedData.Users.ContainsKey(player.userID))
+            timer.Once(Convert.ToInt32(Config["TimeBetweenSave"]), () =>
             {
-                if (!permission.UserHasPermission(player.userID.ToString(), "igather.vip"))
-                {
-                    storedData.Users.Add(player.userID, new UserInfo());
-                    storedData.Users[player.userID].Name = player.displayName;
-                    storedData.Users[player.userID].PlayerQuarry = Convert.ToInt32(Config["DefaultQuarryRate"]);
-                    storedData.Users[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
-                    storedData.Users[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
-                    Puts(""+player.displayName+" was given the player default rates.");
-                    SaveData();
-                }
-                else
-                {
-                    storedData.Users.Add(player.userID, new UserInfo());
-                    storedData.Users[player.userID].Name = player.displayName;
-                    storedData.Users[player.userID].PlayerQuarry = Convert.ToInt32(Config["VIPQuarryRate"]);
-                    storedData.Users[player.userID].ResourceRate = Convert.ToInt32(Config["VIPResourceRate"]);
-                    storedData.Users[player.userID].CollectableRate = Convert.ToInt32(Config["VIPCollectable"]);
-                    SaveData();  
-                    Puts(""+player.displayName+" was given the VIP default rates.");                  
-                }
-                return true;
-            }
-            else
-            {
-                return false;
-            }  
-        }
+                SaveData();
+                Puts("Data Saved!!!");      
+            });
+        }        
         
-        void Unload()
+        //////////////////////////////////////////////////////////////////////////////////////
+        // AddLang
+        //////////////////////////////////////////////////////////////////////////////////////            
+        
+        void AddLang()
         {
-            SaveData();
+			lang.RegisterMessages(new Dictionary<string,string>{
+                ["IG_NOTAUTH"] = "<color='#aeff00'>[IGather]You do not have the correct permissions to preform this command.</color>",
+                ["IG_HELP"] = "{0}",
+                ["IG_SETTO"] = "<color='#aeff00'>[IGather]You have set {0}'s {1} too ({2}x).</color>",
+                ["IG_SETBYTO"] = "<color='#aeff00'>[IGather]{0} has set your {1} too ({2}x).</color>", 
+                ["IG_DEFAULTTO"] = "<color='#aeff00'>[IGather]You have defaulted {0}'s {1} to the default rate({2}x).</color>",
+                ["IG_DEFAULTBYTO"] = "<color='#aeff00'>[IGather]You'r {0} was set to the default rate by {1} which is ({2}x).</color>",  
+                ["IG_SETALL"] = "<color='#aeff00'>[IGather]{0} has set all {1} to ({2}x).</color>", 
+                ["IG_DEFAULTALL"] = "<color='#aeff00'>[IGather]{0} has defaulted  all of your gather rates to the default rate!</color>",      
+			}, this);            
         }
         
-        ////////////////////////////////////////////////////
-        //Language Settings/////////////////////////////////
-        ////////////////////////////////////////////////////
-
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Catch Language Strings
+        //////////////////////////////////////////////////////////////////////////////////////       
+        
         private string GetMessage(string name, string sid = null) {
             return lang.GetMessage(name, this, sid);
         }
         
-        void LoadLang()
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Data Files
+        //////////////////////////////////////////////////////////////////////////////////////    
+                
+        Dictionary<ulong, BasePlayer> quarryOwners = new Dictionary<ulong, BasePlayer>();
+                
+        void SaveData()
         {
-			lang.RegisterMessages(new Dictionary<string,string>{
-            ["IG_GATHERATE"] = "<color='#DD0000'>[IGather]Collectable Rate({0}x) Quarry Rate({1}x) Resource Rate({2}x).</color>",
-            ["IG_GATHERPLAYER"] = "<color='#DD0000'>[IGather]{0}'s Gather Rate|Collectable Rate({1}x) Quarry Rate({2}x) Resource Rate({3}x).</color>",
-            ["IG_SETALLHELP"] = "<color='#DD0000'>[IGather]Commands for (setall) | </igather setall (type) (rate)> | <Types:quarry, resource, collectable, all> | <Rate is the amount of extra materials they get(Multiplied)></color>",
-            ["IG_DEFAULTHELP"] = "<color='#DD0000'>[IGather]Commands for (default) | </igather default (player) (type) | <Types:quarry, resource, collectable, all></color>",
-            ["IG_DEFAULTALL"] = "<color='#DD0000'>[IGather]You have reset {0}'s stats.</color>",
-            ["IG_DEFAULTP"] = "<color='#DD0000'>[IGather]{0} has reset your player stats to default.</color>",
-            ["IG_SETP"] = "<color='#DD0000'>[IGather]{0} has changed your data file of ({1}) to {2}x.</color>",
-            ["IG_SETHELP"] = "<color='#DD0000'>[IGather]Commands for (set) | </igather set (player) (type) (rate)> | <Types:QuarryR, ResourceR, CollectableR, all> | <Rate is the amount of extra materials they get(Multiplied)></color>",
-            ["IG_DEFAULTR"] = "<color='#DD0000'>[IGather]{0} has reset your data of ({1}) to the default settings.</color>",
-            ["IG_SETPA"] = "<color='#DD0000'>[IGather]{0} has set all of your rate data to {1}x.</color>",
-            ["IG_SETA"] = "<color='#DD0000'>[IGather]You have set {0}'s ({1}) to {2}x.</color>",
-            ["IG_HELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather gather> Shows your current gather rate of all 3 types | </igather help> Shows possible commands.",
-            ["IG_AHELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather set> Shows set help. | </igather default> Shows default help. | </igather defaultall> Sets all players gather rate to default. |</color>",
-            ["IG_AAHELP"] = "<color='#DD0000'>[IGather]Possible Commands:</igather setall> Shows setall help. | </igather gatherp (player)> Shows the gather rate for a player.</color>",
-            ["IG_NOPERMS"] = "<color='#DD0000'>[IGather]You do not have any permissions for this command.</color>",
-            ["IG_DEFAULTEDALL"] = "<color='#DD0000'>[IGather]{0} has reset everyones player data to the default! Do /igather gather to see your new gather rate.</color>",
-            ["IG_SETTALL"] = "<color='#DD0000'>[IGather]{0} has set everyones ({1} data) to {2}.</color>",            
-			}, this);
+            Interface.Oxide.DataFileSystem.WriteObject(this.Title, storedData);    
+        }
             
-            LoadPermissions();
+        class StoredData
+        {
+            public Dictionary<ulong, PlayerGather> Gathers = new Dictionary<ulong, PlayerGather>();
+            public StoredData()
+            {          
+            }   
         }
         
-        ////////////////////////////////////////////////////
-        //Permission Settings///////////////////////////////
-        ////////////////////////////////////////////////////        
-        
-        void LoadPermissions()
+        class PlayerGather
         {
-            //VIP//
-            permission.RegisterPermission("igather.vip", this);
-            //ADMIN//
-            permission.RegisterPermission("igather.admin", this);
-            permission.RegisterPermission("igather.defaultall", this);
-            permission.RegisterPermission("igather.default", this);
-            permission.RegisterPermission("igather.set", this);
-            permission.RegisterPermission("igather.setall", this);
-            permission.RegisterPermission("igather.gatherp", this);          
-        }        
+            public bool isVIP;
+            public int QuarryRate;
+            public int ResourceRate;
+            public int CollectableRate;
+            public string Name;
+            public float NameID;
+            public PlayerGather()
+            {          
+            }
+        }
         
-        ////////////////////////////////////////////////////
-        //Plugin Functions/Settings/////////////////////////
-        //////////////////////////////////////////////////// 
+        StoredData storedData; 
         
-        private object FindPlayer(string arg)
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Write Data To Player
+        ////////////////////////////////////////////////////////////////////////////////////// 
+        
+        void OnPlayerInit(BasePlayer player)
+        {
+            if (!storedData.Gathers.ContainsKey(player.userID)) InitUserData(player);             
+        }     
+        
+        void SetHelp()
+        {
+            //Help List//
+            ListHelp.Add("<color='#aeff00'>[IGather]--------------------Set Commands--------------------</color>"); 
+            ListHelp.Add("<color='#36939e'>[IGather]</igather set (player) (r-type) (r-amount[X])> | Sets a players gather rate to (R-TYPE) and (R-AMOUNT).</color>");
+            ListHelp.Add("<color='#36939e'>[IGather]</igather default (player) (r-type)> | Sets a players (R-TYPE) to default.</color>");
+            ListHelp.Add("<color='#aeff00'>[IGather]------------------Gather Commands-------------------</color>"); 
+            ListHelp.Add("<color='#36939e'>[IGather]</igather gather> | Prints out a players gather rate to him.</color>"); 
+            ListHelp.Add("<color='#36939e'>[IGather]</igather gatherp (player) | Prints a targets gather rate to a player.</color>");     
+            ListHelp.Add("<color='#aeff00'>[IGather]-------------------All Commands---------------------</color>"); 
+            ListHelp.Add("<color='#36939e'>[IGather]</igather defaultall> | Defaults all players gather rates to the default rates.</color>");     
+            ListHelp.Add("<color='#36939e'>[IGather]</igather setall (r-type) (r-amount[X])> | Sets all players (R-TYPES) to (R-AMOUNT).</color>");   
+            ListHelp.Add("<color='#36939e'>[IGather]</igather addvip (player)> | Sets a players data to VIP if they have the permission.</color>");
+            ListHelp.Add("<color='#aeff00'>[IGather]--------------------Other Commands------------------</color>");   
+            ListHelp.Add("<color='#36939e'>[IGather]</igather help> | Gives you a list exactly like this one.</color>"); 
+            ListHelp.Add("<color='#36939e'>[IGather]</igather types> | Gives you a list of all (R-TYPES) for /igather set or /igather default.</color>");                     
+            //Type List//
+            ListTypes.Add("<color='#aeff00'>[IGather]Types:</color>");
+            ListTypes.Add("<color='#36939e'>[IGather]<resource> | Tree's, Stone's, Animals.</color>");
+            ListTypes.Add("<color='#36939e'>[IGather]<collectable> | Collectable items that are on the ground(Wood piles, stone piles, etc.)</color>");
+            ListTypes.Add("<color='#36939e'>[IGather]<quarry> | Quarry rates - the amount a quarry creates.</color>");
+            ListTypes.Add("<color='#36939e'>[IGather]<all> | Sets every type of gather rate shown above |^^^|.</color>");               
+        }
+        
+        private bool InitUserData(BasePlayer player)
+        {
+            //Add Player Data//        
+            if(!storedData.Gathers.ContainsKey(player.userID) && !permission.UserHasPermission(player.userID.ToString(), "igather.vip"))
+            {
+                storedData.Gathers.Add(player.userID, new PlayerGather());
+                storedData.Gathers[player.userID].Name = player.displayName;
+                storedData.Gathers[player.userID].NameID = player.userID;
+                storedData.Gathers[player.userID].QuarryRate = Convert.ToInt32(Config["DefaultQuarryRate"]);
+                storedData.Gathers[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
+                storedData.Gathers[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
+                storedData.Gathers[player.userID].isVIP = false;
+                SaveData();                
+                return true;
+            }                                  
+            else
+            {
+                return false;
+            }
+        }
+
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Player Finder
+        ////////////////////////////////////////////////////////////////////////////////////// 
+        
+        private BasePlayer FindPlayer(BasePlayer player, string arg)
         {
             var foundPlayers = new List<BasePlayer>();
             ulong steamid;
@@ -170,345 +203,477 @@ namespace Oxide.Plugins
 
             foreach (var p in BasePlayer.activePlayerList)
             {
-                if (steamid != 0L)
-                    if (p.userID == steamid)
-                    {
-                        foundPlayers.Clear();
-                        foundPlayers.Add(p);
-                        return foundPlayers;
-                    }
-                string lowername = p.displayName.ToLower();
-                if (lowername.Contains(lowerarg))
+                if (p != null)
                 {
-                    foundPlayers.Add(p);
+                    if (steamid != 0L)
+                        if (p.userID == steamid) return p;
+                    string lowername = p.displayName.ToLower();
+                    if (lowername.Contains(lowerarg))
+                    {
+                        foundPlayers.Add(p);
+                    }
                 }
             }
-            return foundPlayers[0];
-        }
-        
-        void DefaultAll()
-        {    
-            foreach(BasePlayer player in BasePlayer.activePlayerList)
+            if (foundPlayers.Count == 0)
             {
-                storedData.Users[player.userID].PlayerQuarry = Convert.ToInt32(Config["DefaultQuarryRate"]);
-                storedData.Users[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]); 
-                storedData.Users[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
-                SaveData();                       
-            }            
-        }
-        
-        void collectableall(int amount)
-        {
-            foreach(BasePlayer player in BasePlayer.activePlayerList)
-            {
-                storedData.Users[player.userID].CollectableRate = amount;
-                SaveData();                       
-            }               
-        }
-        
-        void resourceall(int amount)
-        {
-            foreach(BasePlayer player in BasePlayer.activePlayerList)
-            {
-                storedData.Users[player.userID].ResourceRate = amount;
-                SaveData();                       
-            }               
-        }
-        
-        void quarryall(int amount)
-        {
-            foreach(BasePlayer player in BasePlayer.activePlayerList)
-            {
-                storedData.Users[player.userID].PlayerQuarry = amount; 
-                SaveData();                 
-            }               
-        }
-        
-        void allamount(int amount)
-        {
-            foreach(BasePlayer player in BasePlayer.activePlayerList)
-            {
-                storedData.Users[player.userID].PlayerQuarry = amount;
-                storedData.Users[player.userID].ResourceRate = amount; 
-                storedData.Users[player.userID].CollectableRate = amount;
-                SaveData(); 
+                foreach (var sleeper in BasePlayer.sleepingPlayerList)
+                {
+                    if (sleeper != null)
+                    {
+                        if (steamid != 0L)
+                            if (sleeper.userID == steamid)
+                            {
+                                foundPlayers.Clear();
+                                foundPlayers.Add(sleeper);
+                                return foundPlayers[0];
+                            }
+                        string lowername = player.displayName.ToLower();
+                        if (lowername.Contains(lowerarg))
+                        {
+                            foundPlayers.Add(sleeper);
+                        }
+                    }
+                }
             }
+            if (foundPlayers.Count == 0)
+            {
+                if (player != null)
+                    SendReply(player, string.Format(GetMessage("noPlayers", player.UserIDString)));
+                return null;
+            }
+            if (foundPlayers.Count > 1)
+            {
+                if (player != null)
+                    SendReply(player, string.Format(GetMessage("multiPlayers", player.UserIDString)));
+                return null;
+            }
+
+            return foundPlayers[0];
+        }        
+        
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Unload Save
+        //////////////////////////////////////////////////////////////////////////////////////            
+  
+        void Unload()
+        {
+            SaveData();
+        }        
+            
+        //////////////////////////////////////////////////////////////////////////////////////
+        // isAuth boolean
+        ////////////////////////////////////////////////////////////////////////////////////// 
+
+        bool isAuth(BasePlayer player)
+        {
+            if (player.net.connection != null)            
+                if (player.net.connection.authLevel < 1)
+                    return false; 
+            return true;
         }
         
-        void SaveData()
-        {
-            Interface.Oxide.DataFileSystem.WriteObject(this.Title, storedData);    
-        }
-                
-        ////////////////////////////////////////////////////
-        //Chat Commands/PG//////////////////////////////////
-        ////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Chat Commands And Such
+        //////////////////////////////////////////////////////////////////////////////////////         
         
         [ChatCommand("igather")]
-        void ChatPG(BasePlayer player, string command, string[] args)
-        {
+        void GatherCommands(BasePlayer player, string command, string[] args)
+        {                   
             if(args.Length == 0)
-            {
-                if (permission.UserHasPermission(player.userID.ToString(), "igather.admin"))
+            {    
+                foreach(var entry in ListHelp)
                 {
-                    SendReply(player, string.Format(GetMessage("IG_AHELP", player.UserIDString)));
-                    SendReply(player, string.Format(GetMessage("IG_AAHELP", player.UserIDString))); 
-                    return;       
-                }
-                else
+                    SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                } 
+                return;                
+            }
+            if(args.Length >= 5)
+            { 
+                foreach(var entry in ListHelp)
                 {
-                    SendReply(player, string.Format(GetMessage("IG_HELP", player.UserIDString))); 
-                    return;       
-                }    
-            }               
+                    SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                } 
+                return;               
+            }            
             switch(args[0])
             {
+                //Help Commands//
                 case "help":
-                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin"))
+                    foreach(var entry in ListHelp)
                     {
-                        SendReply(player, string.Format(GetMessage("IG_AHELP", player.UserIDString)));
-                        SendReply(player, string.Format(GetMessage("IG_AAHELP", player.UserIDString))); 
-                        return;                     
-                    }
-                    else
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_HELP", player.UserIDString))); 
-                        return;                      
-                    }    
-                break;
-                   
-                case "set":
-                    if(args.Length <= 3)
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_SETHELP", player.UserIDString)));
-                        return;
-                    }
-                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.set"))
-                    {
-                        object addPlayer = FindPlayer(args[1]);             
-                        BasePlayer target = (BasePlayer)addPlayer;                
-                                
-                        var NewData = Convert.ToInt32(args[3]);
-                        if(args[2] == "QuarryR")
-                        {
-                            storedData.Users[target.userID].PlayerQuarry = NewData;
-                            SaveData();
-                            var quarrys = "QuarryRate";
-                            SendReply(target, string.Format(GetMessage("IG_SETP", player.UserIDString), player.displayName, quarrys, NewData));
-                            SendReply(player, string.Format(GetMessage("IG_SETA", player.UserIDString), target.displayName, quarrys,NewData));       
-                        }
-                        else if(args[2] == "ResourceR")
-                        {
-                            storedData.Users[target.userID].ResourceRate = NewData;
-                            SaveData();
-                            var Resources = "ResourceRate";
-                            SendReply(target, string.Format(GetMessage("IG_SETP", player.UserIDString), player.displayName, Resources, NewData));
-                            SendReply(player, string.Format(GetMessage("IG_SETA", player.UserIDString), target.displayName, Resources, NewData));         
-                        }
-                        else if(args[2] == "CollectableR") 
-                        {
-                            storedData.Users[target.userID].CollectableRate = NewData;
-                            SaveData();
-                            var CollectableS = "CollectableRate";
-                            SendReply(target, string.Format(GetMessage("IG_SETP", player.UserIDString), player.displayName, CollectableS, NewData));
-                            SendReply(player, string.Format(GetMessage("IG_SETA", player.UserIDString), target.displayName, CollectableS, NewData));          
-                        } 
-                        else if(args[2] == "all")
-                        {
-                            storedData.Users[target.userID].PlayerQuarry = NewData;
-                            storedData.Users[target.userID].ResourceRate = NewData; 
-                            storedData.Users[target.userID].CollectableRate = NewData;    
-                            SaveData();
-                            SendReply(target, string.Format(GetMessage("IG_SETPA", player.UserIDString), player.displayName, NewData));                                                      
-                        }
-                        else
-                        {
-                            return;
-                            SendReply(player, string.Format(GetMessage("IG_SETHELP", player.UserIDString)));
-                        }
-                    }
-                    else
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
-                        return;    
-                    }            
-                break;
-                         
-                case "default":
-                    if(args.Length <= 2 || args.Length >= 4)
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_DEFAULTHELP", player.UserIDString)));
-                        return;
-                    }                
-                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.default"))
-                    {
-                        
-                        object addPlayer = FindPlayer(args[1]);             
-                        BasePlayer target = (BasePlayer)addPlayer;                       
-                
-                        if(args[2] == "all")
-                        {
-                            storedData.Users[target.userID].PlayerQuarry = Convert.ToInt32(Config["DefaultQuarryRate"]);
-                            storedData.Users[target.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]); 
-                            storedData.Users[target.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
-                            SaveData();
-                            SendReply(player, string.Format(GetMessage("IG_DEFAULTALL", player.UserIDString), target.displayName));
-                            SendReply(target, string.Format(GetMessage("IG_DEFAULTP", player.UserIDString), player.displayName));   
-                        } 
-                        else if(args[2] == "quarry")
-                        {
-                            storedData.Users[target.userID].PlayerQuarry = Convert.ToInt32(Config["DefaultQuarryRate"]);
-                            SaveData();    
-                            SendReply(player, string.Format(GetMessage("IG_DEFAULTALL", player.UserIDString), target.displayName));
-                            var quarryr = "QuarryRate";
-                            SendReply(target, string.Format(GetMessage("IG_DEFAULTR", player.UserIDString), player.displayName, quarryr));  
-                        }   
-                        else if(args[2] == "resource")
-                        {
-                            storedData.Users[target.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
-                            SaveData();
-                            SendReply(player, string.Format(GetMessage("IG_DEFAULTALL", player.UserIDString), target.displayName));
-                            var resourcer = "ResourceRate"; 
-                            SendReply(target, string.Format(GetMessage("IG_DEFAULTR", player.UserIDString), player.displayName, resourcer));     
-                        }
-                        else if(args[2] == "collectable")
-                        {
-                            storedData.Users[target.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
-                            SaveData(); 
-                            SendReply(player, string.Format(GetMessage("IG_DEFAULTALL", player.UserIDString), target.displayName));
-                            var collect = "CollectableRate";
-                            SendReply(target, string.Format(GetMessage("IG_DEFAULTR", player.UserIDString), player.displayName, collect));     
-                        }
-                        else
-                        {
-                            SendReply(player, string.Format(GetMessage("IG_DEFAULTHELP", player.UserIDString)));    
-                        }
-                    }
-                    else
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
-                        return;
-                    }            
-                break;
-                
-                case "defaultall":
-                    if (!permission.UserHasPermission(player.userID.ToString(), "igather.admin") && permission.UserHasPermission(player.userID.ToString(), "igather.defaultall"))
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
-                        return;
-                    }
-                    PrintToChat(string.Format(GetMessage("IG_DEFAULTEDALL", player.UserIDString), player.displayName));
-                    DefaultAll();
-                break;
-                
-                case "setall":
-                    if (!permission.UserHasPermission(player.userID.ToString(), "igather.admin") && permission.UserHasPermission(player.userID.ToString(), "igather.setall"))
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
-                        return;
-                    }
-                    if(args.Length <= 1)
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_SETALLHELP", player.UserIDString)));
-                        return;
-                    }
-                    if(args[1] == "quarry")
-                    {
-                        var qr = "QuarryRate";
-                        var amount = Convert.ToInt32(args[2]);
-                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, qr, amount));
-                        quarryall(amount);  
-                    }
-                    else if(args[1] == "resource")
-                    {
-                        var rr = "ResourceRate";
-                        var amount = Convert.ToInt32(args[2]);
-                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, rr, amount));
-                        resourceall(amount);   
-                    }
-                    else if(args[1] == "collectable")
-                    {
-                        var cr = "CollectableRate";
-                        var amount = Convert.ToInt32(args[2]);
-                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, cr, amount));
-                        collectableall(amount); 
-                    }
-                    else if(args[1] == "all")
-                    {
-                        var ar = "AllRate";
-                        var amount = Convert.ToInt32(args[2]);
-                        PrintToChat(string.Format(GetMessage("IG_SETTALL", player.UserIDString), player.displayName, ar, amount));
-                        allamount(amount);
-                    }
-                    else
-                    {
-                        SendReply(player, string.Format(GetMessage("IG_SETALLHELP", player.UserIDString)));   
-                        return;
+                        SendReply(player, "<color='#36939e'>"+entry+"</color>");
                     } 
+                    return;                  
                 break;
-                
-                case "gather":
-                    SendReply(player, string.Format(GetMessage("IG_GATHERATE", player.UserIDString), storedData.Users[player.userID].CollectableRate, storedData.Users[player.userID].PlayerQuarry, storedData.Users[player.userID].ResourceRate));
-                break;
-                
-                case "gatherp":
-                    if (permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.gatherp"))
+                //Set Commands//
+                case "set":
+                    if(args.Length <= 3 || args.Length == 2 || args.Length == 1 || args.Length == 0)
                     {
-                        object addPlayer = FindPlayer(args[1]);             
-                        BasePlayer target = (BasePlayer)addPlayer;
-                    
-                        SendReply(player, string.Format(GetMessage("IG_GATHERPLAYER", player.UserIDString), target.displayName, storedData.Users[target.userID].CollectableRate, storedData.Users[target.userID].PlayerQuarry, storedData.Users[target.userID].ResourceRate));                      
+                        foreach(var entry in ListHelp)
+                        {
+                            SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                        } 
+                        return;       
                     }
-                    else
+                    if(permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.set") || isAuth(player))
                     {
-                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
-                        return;
-                    }
-                break;
-                
-                case "resetdata":
-                    if (!permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.gatherp"))
-                    { 
-                        object addPlayer = FindPlayer(args[1]);
+                        object addPlayer = FindPlayer(player, args[1]);             
                         BasePlayer target = (BasePlayer)addPlayer;
                         
-                        storedData.Users.Add(target.userID, new UserInfo());
-                        SaveData();   
+                        var NewData = Convert.ToInt32(args[3]);
+                        
+                        switch(args[2])
+                        {
+                            //Set Resource//
+                            case "resource":
+                                //Set Gather//
+                                    storedData.Gathers[player.userID].ResourceRate = NewData;
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_SETTO", player.UserIDString), target.displayName, "Resource-Rate", NewData));
+                                    SendReply(target, string.Format(GetMessage("IG_SETBYTO", player.UserIDString), player.displayName, "Resource-Rate", NewData));
+                                return;
+                            break;
+                            //Set Quarry//
+                            case "quarry":
+                                //Set Gather//
+                                    storedData.Gathers[player.userID].QuarryRate = NewData;
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_SETTO", player.UserIDString), target.displayName, "Quarry-Rate", NewData));
+                                    SendReply(target, string.Format(GetMessage("IG_SETBYTO", player.UserIDString), player.displayName, "Quarry-Rate", NewData));  
+                                return;                              
+                            break;
+                            //Set Collectable//
+                            case "collectable":
+                                //Set Gather//
+                                    storedData.Gathers[player.userID].CollectableRate = NewData;
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_SETTO", player.UserIDString), target.displayName, "Collectable-Rate", NewData));
+                                    SendReply(target, string.Format(GetMessage("IG_SETBYTO", player.UserIDString), player.displayName, "Collectable-Rate", NewData));   
+                                return;                            
+                            break;
+                            //Set All//
+                            case "all":
+                                //Set Gather//
+                                    storedData.Gathers[player.userID].ResourceRate = NewData;
+                                    storedData.Gathers[player.userID].QuarryRate = NewData;
+                                    storedData.Gathers[player.userID].CollectableRate = NewData;
+                                    SaveData();
+                                SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_SETTO", player.UserIDString), target.displayName, "All-Rate", NewData));
+                                    SendReply(target, string.Format(GetMessage("IG_SETBYTO", player.UserIDString), player.displayName, "All-Rate", NewData));   
+                                return;                               
+                            break;
+                            //Auto Default//                
+                            default:
+                                foreach(var entry in ListHelp)
+                                {
+                                    SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                                } 
+                                return;                              
+                            break;
+                        }                              
                     }
                     else
                     {
-                        SendReply(player, string.Format(GetMessage("IG_NOPERMS", player.UserIDString)));
-                        return;
-                    }                        
+                        SendReply(player, string.Format(GetMessage("IG_NOTAUTH", player.UserIDString)));
+                        return;       
+                    }                                  
                 break;
-            }  
-        }
-        
-        ////////////////////////////////////////////////////
-        //Gather Rate Amounts Fixes/////////////////////////
-        ////////////////////////////////////////////////////
+                //Default Commands//
+                case "default":
+                    if(args.Length <= 2 || args.Length == 1 || args.Length == 0)
+                    {
+                        foreach(var entry in ListHelp)
+                        {
+                            SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                        } 
+                        return;       
+                    }
+                    if(permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.default") || isAuth(player))
+                    {
+                        object addPlayer = FindPlayer(player, args[1]);             
+                        BasePlayer target = (BasePlayer)addPlayer;
+                        
+                        switch(args[2])
+                        {
+                            case "resource":
+                                //Default Gather//
+                                    storedData.Gathers[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_DEFAULTTO", player.UserIDString), target.displayName, "Resource-Rate", Convert.ToInt32(Config["DefaultResourceRate"])));
+                                    SendReply(target, string.Format(GetMessage("IG_DEFAULTBYTO", player.UserIDString), "Resource-Rate", player.displayName, Convert.ToInt32(Config["DefaultResourceRate"])));
+                                return;                                  
+                            break;
+
+                            case "quarry":
+                                //Default Gather//
+                                    storedData.Gathers[player.userID].QuarryRate = Convert.ToInt32(Config["DefaultQuarryRate"]);
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_DEFAULTTO", player.UserIDString), target.displayName, "Quarry-Rate", Convert.ToInt32(Config["DefaultQuarryRate"])));
+                                    SendReply(target, string.Format(GetMessage("IG_DEFAULTBYTO", player.UserIDString), "Quarry-Rate", player.displayName, Convert.ToInt32(Config["DefaultQuarryRate"])));
+                                return;                                  
+                            break;
+                            
+                            case "collectable":
+                                //Default Gather//
+                                    storedData.Gathers[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_DEFAULTTO", player.UserIDString), target.displayName, "Collectable-Rate", Convert.ToInt32(Config["DefaultCollectable"])));
+                                    SendReply(target, string.Format(GetMessage("IG_DEFAULTBYTO", player.UserIDString), "Collectable-Rate", player.displayName, Convert.ToInt32(Config["DefaultCollectable"])));
+                                return;                                  
+                            break;
+                            
+                            case "all":
+                                //Vars//
+                                var newT = "?";
+                                //Default Gather//
+                                    storedData.Gathers[player.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
+                                    storedData.Gathers[player.userID].QuarryRate = Convert.ToInt32(Config["DefaultQuarryRate"]);
+                                    storedData.Gathers[player.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
+                                    SaveData();
+                                //Reply//
+                                    SendReply(player, string.Format(GetMessage("IG_DEFAULTTO", player.UserIDString), target.displayName, "Resource-Rate", newT));
+                                    SendReply(target, string.Format(GetMessage("IG_DEFAULTBYTO", player.UserIDString), "Resource-Rate", player.displayName, newT));
+                                return;                                  
+                            break;                            
+                            default:
+                                foreach(var entry in ListHelp)
+                                {
+                                    SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                                } 
+                                return;                              
+                            break;                            
+                        }                              
+                    }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOTAUTH", player.UserIDString)));
+                        return;      
+                    }                     
+                break;
+                //Types Commands//
+                case "types":
+                    foreach(var entry in ListTypes)
+                    {
+                        SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                    }
+                    return;           
+                break;
+                
+                //Gather Commands//
+                case "gather":
+                    SendReply(player, "<color='#aeff00'>[IGather]Rates:</color>");
+                    SendReply(player, "<color='#36939e'>[IGather]Gather Rate:"+storedData.Gathers[player.userID].ResourceRate+"</color>");
+                    SendReply(player, "<color='#36939e'>[IGather]Quarry Rate:"+storedData.Gathers[player.userID].QuarryRate+"</color>");
+                    SendReply(player, "<color='#36939e'>[IGather]Collectable Rate:"+storedData.Gathers[player.userID].CollectableRate+"</color>");
+                    return;
+                break;
+                //GatherP Commands//
+                case "gatherp":
+                    if(args.Length == 0)
+                    {
+                        foreach(var entry in ListHelp)
+                        {
+                            SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                        } 
+                        return;                           
+                    }
+                    if(permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.gatherp") || isAuth(player))
+                    {
+                        object addPlayer = FindPlayer(player, args[1]);             
+                        BasePlayer target = (BasePlayer)addPlayer;
+
+                        SendReply(player, "<color='#aeff00'>[IGather]Target Rates:</color>");
+                        SendReply(player, "<color='#36939e'>[IGather]Target Gather Rate:"+storedData.Gathers[target.userID].ResourceRate+"</color>");
+                        SendReply(player, "<color='#36939e'>[IGather]Target Quarry Rate:"+storedData.Gathers[target.userID].QuarryRate+"</color>");
+                        SendReply(player, "<color='#36939e'>[IGather]Target Collectable Rate:"+storedData.Gathers[target.userID].CollectableRate+"</color>");
+                        return;
+                    }
+                    else
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOTAUTH", player.UserIDString)));
+                        return;                            
+                    }                                            
+                break;
+                //SetAll Commands//
+                case "setall":
+                    if(args.Length >= 4 || args.Length == 1 || args.Length == 2)
+                    {
+                        foreach(var entry in ListHelp)
+                        {
+                            SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                        } 
+                        return;                             
+                    } 
+                    if(permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.setall") || isAuth(player))
+                    {
+                        var NewData = Convert.ToInt32(args[2]);
+                        switch(args[1])
+                        {
+                            case "resource":
+                                foreach(var p in BasePlayer.activePlayerList)
+                                {
+                                    storedData.Gathers[p.userID].ResourceRate = NewData;
+                                    SaveData();                                     
+                                }                              
+                                PrintToChat(string.Format(GetMessage("IG_SETALL", player.UserIDString), player.displayName, "Resource-Rate", NewData));        
+                            break;
+                         
+                            case "quarry":
+                                foreach(var p in BasePlayer.activePlayerList)
+                                {
+                                    storedData.Gathers[p.userID].QuarryRate = NewData;
+                                    SaveData();                                       
+                                }                               
+                                PrintToChat(string.Format(GetMessage("IG_SETALL", player.UserIDString), player.displayName, "Quarry-Rate", NewData));                                  
+                            break;
+                            
+                            case "collectable":
+                                foreach(var p in BasePlayer.activePlayerList)
+                                {
+                                    storedData.Gathers[p.userID].CollectableRate = NewData;
+                                    SaveData(); 
+                                }
+                                PrintToChat(string.Format(GetMessage("IG_SETALL", player.UserIDString), player.displayName, "Collectable-Rate", NewData));                                  
+                            break;                          
+                            
+                            case "all":
+                                foreach(var p in BasePlayer.activePlayerList)
+                                {
+                                    storedData.Gathers[p.userID].ResourceRate = NewData;
+                                    storedData.Gathers[p.userID].CollectableRate = NewData;
+                                    storedData.Gathers[p.userID].QuarryRate = NewData;
+                                    SaveData();                                    
+                                }
+                                PrintToChat(string.Format(GetMessage("IG_SETALL", player.UserIDString), player.displayName, "All-Rate", NewData));                                  
+                            break;
+                            
+                            default:
+                                foreach(var entry in ListHelp)
+                                {
+                                    SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                                } 
+                                return;                              
+                            break;                                 
+                        } 
+                    } 
+                    else 
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOTAUTH", player.UserIDString)));
+                        return;                            
+                    }           
+                break;
+                //DefaultAll Command//
+                case "defaultall":
+                    if(args.Length >= 2)
+                    {
+                        foreach(var entry in ListHelp)
+                        {
+                            SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                        } 
+                        return;                         
+                    }
+                    if(permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.defaultall") || isAuth(player))
+                    {
+                        foreach(var p in BasePlayer.activePlayerList)
+                        {
+                            storedData.Gathers[p.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
+                            storedData.Gathers[p.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
+                            storedData.Gathers[p.userID].QuarryRate = Convert.ToInt32(Config["DefaultQuarryRate"]);
+                            SaveData();   
+                        }
+                        PrintToChat(string.Format(GetMessage("IG_DEFAULTALL", player.UserIDString), player.displayName));                        
+                    }
+                    else 
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOTAUTH", player.UserIDString)));
+                    }                
+                break;
+                //WipeData Commands//
+                case "addvip":
+                    if(args.Length == 0)
+                    {
+                        foreach(var entry in ListHelp)
+                        {
+                            SendReply(player, "<color='#36939e'>"+entry+"</color>");
+                        } 
+                        return;                             
+                    }
+                    if(permission.UserHasPermission(player.userID.ToString(), "igather.admin") || permission.UserHasPermission(player.userID.ToString(), "igather.setvip") || isAuth(player))
+                    {
+                        object addPlayer = FindPlayer(player, args[1]);             
+                        BasePlayer target = (BasePlayer)addPlayer;
+                        
+                        storedData.Gathers.Remove(player.userID);
+                        
+                        if(!storedData.Gathers.ContainsKey(target.userID) && !permission.UserHasPermission(target.userID.ToString(), "igather.vip"))
+                        {
+                            storedData.Gathers.Add(target.userID, new PlayerGather());
+                            storedData.Gathers[target.userID].Name = target.displayName;
+                            storedData.Gathers[target.userID].NameID = target.userID;
+                            storedData.Gathers[target.userID].QuarryRate = Convert.ToInt32(Config["DefaultQuarryRate"]);
+                            storedData.Gathers[target.userID].ResourceRate = Convert.ToInt32(Config["DefaultResourceRate"]);
+                            storedData.Gathers[target.userID].CollectableRate = Convert.ToInt32(Config["DefaultCollectable"]);
+                            storedData.Gathers[target.userID].isVIP = false;
+                            SaveData();                
+                        }                 
+                        else if(!storedData.Gathers.ContainsKey(player.userID) && permission.UserHasPermission(player.userID.ToString(), "igather.vip"))
+                        {
+                            storedData.Gathers.Add(target.userID, new PlayerGather());
+                            storedData.Gathers[target.userID].Name = target.displayName;
+                            storedData.Gathers[target.userID].NameID = target.userID;
+                            storedData.Gathers[target.userID].QuarryRate = Convert.ToInt32(Config["VIPQuarryRate"]);
+                            storedData.Gathers[target.userID].ResourceRate = Convert.ToInt32(Config["VIPResourceRate"]);
+                            storedData.Gathers[target.userID].CollectableRate = Convert.ToInt32(Config["VIPCollectable"]);
+                            storedData.Gathers[target.userID].isVIP = true;
+                            SaveData();                              
+                        }                                                                     
+                    }
+                    else 
+                    {
+                        SendReply(player, string.Format(GetMessage("IG_NOTAUTH", player.UserIDString)));
+                    }                 
+                break;                           
+            } 
+       }
+       
+        //////////////////////////////////////////////////////////////////////////////////////
+        // Gather Rate Changes
+        //////////////////////////////////////////////////////////////////////////////////////   
         
         private void OnDispenserGather(ResourceDispenser dispenser, BaseEntity entity, Item item)
         {
             BasePlayer player = entity.ToPlayer();
-            item.amount = (int)(item.amount * storedData.Users[player.userID].ResourceRate);
+            if(player == null) return;
+            if (!storedData.Gathers.ContainsKey(player.userID)) InitUserData(player);
+            else
+                item.amount = (int)(item.amount * storedData.Gathers[player.userID].ResourceRate);
         }
 
         private void OnQuarryGather(MiningQuarry quarry, Item item)
         {
             BasePlayer player;
-            if (!quarryOwners.TryGetValue(quarry.OwnerID, out player))
-            {
-                player = BasePlayer.FindByID(quarry.OwnerID) ?? BasePlayer.FindSleeping(quarry.OwnerID);
-                quarryOwners[quarry.OwnerID] = player;
-                item.amount = (int)(item.amount * storedData.Users[player.userID].PlayerQuarry);
-            }
-            if (player == null) return;            
+            player = BasePlayer.FindByID(quarry.OwnerID) ?? BasePlayer.FindSleeping(quarry.OwnerID);
+            quarryOwners[quarry.OwnerID] = player;            
+            if(player == null) return;
+            if (!storedData.Gathers.ContainsKey(player.userID)) InitUserData(player);
+            else            
+                item.amount = (int)(item.amount * storedData.Gathers[player.userID].QuarryRate);         
         }
 
         private void OnCollectiblePickup(Item item, BasePlayer player)
         {
-            item.amount = (int)(item.amount * storedData.Users[player.userID].CollectableRate);      
-        }             
+            if(player == null) return;
+            if (!storedData.Gathers.ContainsKey(player.userID)) InitUserData(player);
+            else            
+                item.amount = (int)(item.amount * storedData.Gathers[player.userID].CollectableRate);      
+        }                                                        
     }
 }

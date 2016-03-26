@@ -31,8 +31,8 @@
   },
   "Messages": [
     "Bem-Vindo! Chame os amigos e venha pro Defenders?!",
-    "/kits para ver os kits",
-    "/clan para criar um clan!"
+    "/kit para ver os kits",
+    "/clan help, para criar um clan!"
   ],
   "Panels": {
     "AirdropEvent": {

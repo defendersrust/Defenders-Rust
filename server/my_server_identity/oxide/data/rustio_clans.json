@@ -11,6 +11,28 @@
       "owner": "76561198065999433",
       "tag": "AB"
     },
+    "DCW": {
+      "description": "ola,tudo bem?",
+      "invited": [],
+      "members": [
+        "76561198083495852",
+        "76561198208077331"
+      ],
+      "moderators": [],
+      "owner": "76561198083495852",
+      "tag": "DCW"
+    },
+    "fdp": {
+      "description": "fidaputa",
+      "invited": [],
+      "members": [
+        "76561198234000716",
+        "76561198157933635"
+      ],
+      "moderators": [],
+      "owner": "76561198234000716",
+      "tag": "fdp"
+    },
     "Hu3": {
       "description": "Hu3",
       "invited": [],
@@ -34,6 +56,30 @@
       "owner": "76561197997771046",
       "tag": "KDA"
     },
+    "MDS": {
+      "description": "enois",
+      "invited": [],
+      "members": [
+        "76561198105338512",
+        "76561198118058280"
+      ],
+      "moderators": [],
+      "owner": "76561198105338512",
+      "tag": "MDS"
+    },
+    "NF": {
+      "description": "NoobForever",
+      "invited": [],
+      "members": [
+        "76561198093268853",
+        "76561198093101087"
+      ],
+      "moderators": [
+        "76561198093101087"
+      ],
+      "owner": "76561198093268853",
+      "tag": "NF"
+    },
     "PAE": {
       "description": "Amigos",
       "invited": [],
@@ -45,6 +91,17 @@
       "moderators": [],
       "owner": "76561198116265214",
       "tag": "PAE"
+    },
+    "TiTaN": {
+      "description": "Titanium",
+      "invited": [],
+      "members": [
+        "76561198032641492",
+        "76561198006362941"
+      ],
+      "moderators": [],
+      "owner": "76561198032641492",
+      "tag": "TiTaN"
     },
     "US": {
       "description": "US",

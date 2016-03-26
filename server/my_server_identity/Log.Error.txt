@@ -1,67 +1,11 @@
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] AFK plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Clans plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] CraftingController plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] DeathNotes plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] IGather plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] InfoPanel plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Kits plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] QuickSmelt plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] RemoverTool plugin failed to compile!
-[03/16/2016 22:17:03] [Oxide] 22:16 [Error] Compiler disconnected.
-[03/18/2016 18:05:24] [Oxide] 6:05 PM [Error] Rust:IO: Failed checking for update (Exception: update failed)
-[03/18/2016 18:07:21] [Oxide] 6:07 PM [Error] Rust:IO: Failed checking for update (Exception: update failed)
-[03/19/2016 16:21:44] [Oxide] 16:21 [Error] Failed to call hook 'OnQuarryGather' on plugin 'IGather v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)
-[03/19/2016 16:42:46] [Oxide] 16:42 [Error] Failed to load plugin 'igather' (no source found)
-[03/19/2016 16:43:10] [Oxide] 16:43 [Error] Failed to call hook 'OnQuarryGather' on plugin 'IGather v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)
-[03/19/2016 18:49:12] [Oxide] 18:49 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/19/2016 18:49:38] [Oxide] 18:49 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/19/2016 19:01:37] [Oxide] 19:01 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/19/2016 19:24:41] [Oxide] 19:24 [Error] Failed to load plugin 'shop' (no source found)
-[03/19/2016 19:27:41] [Oxide] 19:27 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/19/2016 20:19:58] [Oxide] 20:19 [Error] Failed to call hook 'OnQuarryGather' on plugin 'IGather v0.0.8' (NullReferenceException: Object reference not set to an instance of an object)
-[03/19/2016 20:40:59] [Oxide] 20:40 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 01:58:30] [Oxide] 01:58 [Error] Failed to call hook 'Plugin_Command' on plugin 'Notifier v3.0.0' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 12:59:53] [Oxide] 12:59 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:01:43] [Oxide] 13:01 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:04:12] [Oxide] 13:04 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:11:34] [Oxide] 13:11 [Error] Failed to load plugin 'guishop' (no source found)
-[03/20/2016 13:11:56] [Oxide] 13:11 [Error] Failed to load plugin 'guishop' (no source found)
-[03/20/2016 13:14:54] [Oxide] 13:14 [Error] GUIShop v1.1.2: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: ". Path '['Shop - Shop List'].1815234536.sell[3]', line 152, position 9.)
-[03/20/2016 13:17:36] [Oxide] 13:17 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:18:17] [Oxide] 13:18 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:19:25] [Oxide] 13:19 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:19:31] [Oxide] 13:19 [Error] GUIShop v1.1.2: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: ". Path '['Shop - Shop List'].1815234536.sell[3]', line 152, position 9.)
-[03/20/2016 13:19:58] [Oxide] 13:19 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:21:11] [Oxide] 13:21 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:21:35] [Oxide] 13:21 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:22:25] [Oxide] 13:22 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 13:23:29] [Oxide] 13:23 [Error] HumanNPC plugin failed to compile!
-[03/20/2016 13:23:29] [Oxide] 13:23 [Error] HumanNPC.cs(567,178): error CS1061: Type `BaseProjectile' does not contain a definition for `ikHold' and no extension method `ikHold' of type `BaseProjectile' could be found. Are you missing an assembly reference?
-[03/20/2016 13:24:20] [Oxide] 13:24 [Error] HumanNPC plugin failed to compile!
-[03/20/2016 13:24:20] [Oxide] 13:24 [Error] HumanNPC.cs(567,178): error CS1061: Type `BaseProjectile' does not contain a definition for `ikHold' and no extension method `ikHold' of type `BaseProjectile' could be found. Are you missing an assembly reference?
-[03/20/2016 13:28:26] [Oxide] 13:28 [Error] [SkipNightVote] SkipNightVote: Config out of date!  Forcing update.
-[03/20/2016 18:25:32] [Oxide] 18:25 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 20:51:49] [Oxide] 20:51 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/20/2016 20:51:56] [Oxide] 20:51 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/21/2016 18:30:30] [Oxide] 18:30 [Error] Failed to load plugin 'm-teleporte' (no source found)
-[03/22/2016 20:50:01] [Oxide] 20:50 [Error] Web request callback raised an exception (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 21:01:30] [Oxide] 21:01 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 21:03:38] [Oxide] 21:03 [Error] Failed to call hook 'OnPlayerInit' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 21:33:38] [Oxide] 21:33 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 21:35:12] [Oxide] 21:35 [Error] Failed to call hook 'OnPlayerInit' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 21:54:23] [Oxide] 21:54 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 21:55:06] [Oxide] 21:55 [Error] Failed to call hook 'OnPlayerInit' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/22/2016 22:16:59] [Oxide] 22:16 [Error] Failed to call hook 'ccmdShopShow' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/22/2016 23:01:12] [Oxide] 23:01 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.1' (NullReferenceException: Object reference not set to an instance of an object)
-[03/24/2016 00:16:44] [Oxide] 00:16 [Error] Failed to call hook 'ccmdShopShow' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/24/2016 00:16:44] [Oxide] 00:16 [Error] Failed to call hook 'ccmdShopShow' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/24/2016 10:20:09] [Oxide] 10:20 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
-[03/24/2016 10:20:21] [Oxide] 10:20 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
+[03/25/2016 18:55:39] [Oxide] 18:55 [Error] Web request callback raised an exception (NullReferenceException: Object reference not set to an instance of an object)
+[03/25/2016 19:02:46] [Oxide] 19:02 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.2' (NullReferenceException: Object reference not set to an instance of an object)
+[03/25/2016 20:02:26] [Oxide] 20:02 [Error] Failed to call hook 'OnPlayerInit' on plugin 'Notifier v3.0.2' (NullReferenceException: Object reference not set to an instance of an object)
+[03/25/2016 21:11:52] [Oxide] 21:11 [Error] Failed to call hook 'cmdShop' on plugin 'GUIShop v1.1.2' (InvalidCastException: Cannot cast from source type to destination type.)
+[03/25/2016 21:21:15] [Oxide] 9:21 PM [Error] Plugin filename is incorrect: EasyAirdrop - Cópia.cs (should be EasyAirdrop.cs)
+[03/25/2016 22:11:13] [Oxide] 22:11 [Error] Failed to call hook 'OnPlayerDisconnected' on plugin 'Notifier v3.0.2' (NullReferenceException: Object reference not set to an instance of an object)
+[03/25/2016 22:14:49] [Oxide] 22:14 [Error] Failed to load plugin 'TimeEvents' (no source found)
+[03/26/2016 00:10:58] [Oxide] 00:10 [Error] Failed to run a 300.00 timer in 'SupplyDropDestroyer v0.2.0' (NullReferenceException: )
+[03/26/2016 01:22:51] [Oxide] 01:22 [Error] Failed to run a 300.00 timer in 'SupplyDropDestroyer v0.2.0' (NullReferenceException: )
+[03/26/2016 04:38:49] [Oxide] 04:38 [Error] Failed to run a 300.00 timer in 'SupplyDropDestroyer v0.2.0' (NullReferenceException: )
+[03/26/2016 12:03:07] [Oxide] 12:03 [Error] Failed to call hook 'OnPlayerInit' on plugin 'Notifier v3.0.2' (NullReferenceException: Object reference not set to an instance of an object)

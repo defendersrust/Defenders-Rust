@@ -1,658 +1,388 @@
 {
-  "Users": {
+  "Gathers": {
+    "76561198088093494": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Kiko",
+      "NameID": 7.65612E+16
+    },
+    "76561198052465097": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "DarkLithium",
+      "NameID": 7.65612E+16
+    },
+    "76561198260846439": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Fred-BR",
+      "NameID": 7.65612E+16
+    },
+    "76561198234000716": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "KingOfBilada",
+      "NameID": 7.65612E+16
+    },
+    "76561198157933635": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Suvaco de Porco",
+      "NameID": 7.65612E+16
+    },
     "76561197994523959": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
       "Name": "Bokudo",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198084239784": {
-      "Name": "ZezinhoGaming",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198077422497": {
-      "Name": "Ssephyroth",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198121019368": {
-      "Name": "Shadowkyl",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198117520766": {
-      "Name": "OFFLINE",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198083209880": {
-      "Name": "ShadowFoxx",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198150549051": {
-      "Name": "leo",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198071502174": {
-      "Name": "Kronovi CSGODUCK.COM",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198095820047": {
-      "Name": "Junio",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198048394402": {
-      "Name": "patrickfbraz",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198212411764": {
-      "Name": "Fzn",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198259876988": {
-      "Name": "♛iluminati♛",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198065949753": {
-      "Name": "Desconhecido",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198075515574": {
-      "Name": "Sr.Pato",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198291672099": {
-      "Name": "Carrasco",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198105205002": {
-      "Name": "--",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198256851391": {
-      "Name": "ChicoPorolata",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198065999433": {
-      "Name": "DUCIONI-SC",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198047015659": {
-      "Name": "Tsadkiel",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198226980740": {
-      "Name": "cholamais",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198198030626": {
-      "Name": "Hunter",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198224375308": {
-      "Name": "ExtremeAlpha",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198285702039": {
-      "Name": "Taverzin",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198250091936": {
-      "Name": "maiksonco",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198082160856": {
-      "Name": "Paulo_ADO",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198087924694": {
-      "Name": "Ceifador",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198254485135": {
-      "Name": "Sc0rp1onZ",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561197997771046": {
-      "Name": "Coe",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198120770782": {
-      "Name": "<KDA> Victor (BR)",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198277612194": {
-      "Name": "ryan.ribas",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198092361843": {
-      "Name": "El Oso Judío",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198150488666": {
-      "Name": "|RPH|gabrielmozzer",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198127179415": {
-      "Name": "Firestorm",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198073403674": {
-      "Name": "LukasX6",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198088828448": {
-      "Name": "enderdragonxd",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198116265214": {
-      "Name": "Tric_Patric",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198268296361": {
-      "Name": "ederleiengel63",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198118794374": {
-      "Name": "_-GuTy-_",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198291018192": {
-      "Name": "Farmador",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198167490316": {
-      "Name": "anibal2011",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198255626007": {
-      "Name": "AllaN_HeadShot",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198078981093": {
-      "Name": "Mr. Bago Grosso",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198173786533": {
-      "Name": "marcos cidade",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198188314835": {
-      "Name": "cima",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198038126827": {
-      "Name": "sileyde",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198219641747": {
-      "Name": "WhiteSnake00",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198255297300": {
-      "Name": "Jaum Dos HS",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198116172972": {
-      "Name": "[BJJ] Everton",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198271140881": {
-      "Name": "[F]alcoM-VI",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198127808975": {
-      "Name": "PsychoLovers",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198137116295": {
-      "Name": "gmiottiaguiar",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561197998087180": {
-      "Name": "Diogo'",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198120625406": {
-      "Name": "DUCK",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198123401913": {
-      "Name": "Policia",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198126799582": {
-      "Name": "Caio",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198211345993": {
-      "Name": ".BLACK.",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198174256829": {
-      "Name": "SilentBrSs",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198179090259": {
-      "Name": "demomblack98",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198281117559": {
-      "Name": "IsaacXLopez",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198061944805": {
-      "Name": "Leniro™",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198245670682": {
-      "Name": "Snake",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198044177517": {
-      "Name": "Bibico",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198242556134": {
-      "Name": "Doug19",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198057405007": {
-      "Name": "Jacopa",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198073023247": {
-      "Name": "Marlboro(BR)",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198284780770": {
-      "Name": "MISTER",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198238439766": {
-      "Name": "Sabe Quem eu sou ????",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198151528468": {
-      "Name": "Jarbass50",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198235463136": {
-      "Name": "Leonzinhu (P.L.G)",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198176566985": {
-      "Name": "MGH-IGOR155",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198032641492": {
-      "Name": "Alan",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198180871531": {
-      "Name": "reginaldo matador",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198227634700": {
-      "Name": "DayZ",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198069869419": {
-      "Name": "ZUUZ",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198154737408": {
-      "Name": "Mano Lucas",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198126207111": {
-      "Name": "Leonard 15",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198078252272": {
-      "Name": "Kalashnikov",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198122252019": {
-      "Name": "jiba",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198179752265": {
-      "Name": "Guugaaa",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
-    },
-    "76561198166531712": {
-      "Name": "LippeBraz",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
+      "NameID": 7.65612E+16
+    },
+    "76561198070967812": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Elizbeth",
+      "NameID": 7.65612E+16
+    },
+    "76561198097211157": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "tuiter",
+      "NameID": 7.65612E+16
+    },
+    "76561198122467187": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Creks",
+      "NameID": 7.65612E+16
+    },
+    "76561198203544440": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Zef Alien",
+      "NameID": 7.65612E+16
     },
     "76561198167206493": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
       "Name": "Yuuki",
-      "PlayerQuarry": 3,
-      "ResourceRate": 3,
-      "CollectableRate": 5
+      "NameID": 7.65612E+16
     },
-    "76561198049678525": {
-      "Name": "Aedurso",
-      "PlayerQuarry": 3,
+    "76561198144143748": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "MackJhow",
+      "NameID": 7.65612E+16
     },
-    "76561198197635038": {
-      "Name": "† PUMPKIN †",
-      "PlayerQuarry": 3,
+    "76561197998087180": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Diogo",
+      "NameID": 7.65612E+16
     },
-    "76561198132955998": {
-      "Name": "SrNine7",
-      "PlayerQuarry": 3,
+    "76561198142454215": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "(Caveiras)Paniniale",
+      "NameID": 7.65612E+16
     },
-    "76561198117809284": {
-      "Name": "ViewFire",
-      "PlayerQuarry": 3,
+    "76561198032641492": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Alan",
+      "NameID": 7.65612E+16
     },
-    "76561198146743008": {
-      "Name": "sandrinhariian",
-      "PlayerQuarry": 3,
+    "76561198121019368": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Shadowkyl",
+      "NameID": 7.65612E+16
     },
-    "76561198075176972": {
-      "Name": "JoeJeba",
-      "PlayerQuarry": 3,
+    "76561198083495852": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "dc",
+      "NameID": 7.65612E+16
     },
-    "76561198141186258": {
-      "Name": "SKEENIE",
-      "PlayerQuarry": 3,
+    "76561198105338512": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "AugustoGargula",
+      "NameID": 7.65612E+16
     },
-    "76561198293071243": {
-      "Name": "gnld.ba",
-      "PlayerQuarry": 3,
+    "76561198118058280": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Anlo",
+      "NameID": 7.65612E+16
     },
-    "76561198194154039": {
-      "Name": "Trabalhador",
-      "PlayerQuarry": 3,
+    "76561198208077331": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Word_D1nario",
+      "NameID": 7.65612E+16
     },
-    "76561198292466308": {
-      "Name": "Nuno",
-      "PlayerQuarry": 3,
+    "76561198125265194": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "voutrom(mira ta OOOOOOOOOOOOO)",
+      "NameID": 7.65612E+16
     },
-    "76561198078112759": {
-      "Name": "JOE",
-      "PlayerQuarry": 3,
+    "76561198233959344": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Carlinhos7979",
+      "NameID": 7.65612E+16
     },
-    "76561198083247834": {
-      "Name": "Baymax",
-      "PlayerQuarry": 3,
+    "76561198194527322": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "SD Sodre",
+      "NameID": 7.65612E+16
     },
-    "76561198197333478": {
-      "Name": "Porco Graudo",
-      "PlayerQuarry": 3,
+    "76561198141930143": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Eufrazino",
+      "NameID": 7.65612E+16
     },
-    "76561198013801122": {
-      "Name": "Highlander",
-      "PlayerQuarry": 3,
+    "76561198174126025": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Saraivamt",
+      "NameID": 7.65612E+16
     },
-    "76561198119439570": {
-      "Name": "xTrapper",
-      "PlayerQuarry": 3,
+    "76561198269605819": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "leosaraiva",
+      "NameID": 7.65612E+16
     },
-    "76561198039271044": {
-      "Name": "slothy",
-      "PlayerQuarry": 3,
+    "76561198134180963": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "poland.pl",
+      "NameID": 7.65612E+16
     },
-    "76561198237587162": {
-      "Name": "[Knights] pedrokie72",
-      "PlayerQuarry": 3,
+    "76561197997551911": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "MaLuKo BeLeZa",
+      "NameID": 7.65612E+16
     },
-    "76561198120839163": {
-      "Name": "Sherlock",
-      "PlayerQuarry": 3,
+    "76561198006362941": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "TEQUILA",
+      "NameID": 7.65612E+16
     },
-    "76561198096413134": {
-      "Name": "Gustavo",
-      "PlayerQuarry": 3,
+    "76561198091425718": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Fabri™",
+      "NameID": 7.65612E+16
     },
-    "76561198259804067": {
-      "Name": "geann01",
-      "PlayerQuarry": 3,
+    "76561198144449321": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "mininu q gosta de arma 3",
+      "NameID": 7.65612E+16
     },
-    "76561198095892499": {
-      "Name": "paulojr82",
-      "PlayerQuarry": 3,
+    "76561198286305942": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "TomYT",
+      "NameID": 7.65612E+16
     },
-    "76561197967627064": {
-      "Name": "Tito",
-      "PlayerQuarry": 3,
+    "76561198024153755": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Evansellau",
+      "NameID": 7.65612E+16
     },
-    "76561198198490250": {
-      "Name": "g19021995",
-      "PlayerQuarry": 3,
+    "76561198094715745": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Diego Toniolli",
+      "NameID": 7.65612E+16
     },
-    "76561198193534453": {
-      "Name": "Chanell Play",
-      "PlayerQuarry": 3,
+    "76561198094704822": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "ThunderBlack",
+      "NameID": 7.65612E+16
     },
-    "76561198165517497": {
-      "Name": "-Matheus-",
-      "PlayerQuarry": 3,
+    "76561198290078700": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "GabrielPaks",
+      "NameID": 7.65612E+16
     },
-    "76561198157361812": {
-      "Name": "Buda",
-      "PlayerQuarry": 3,
+    "76561198144428242": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "KelvinCamargo",
+      "NameID": 7.65612E+16
     },
-    "76561198076904737": {
-      "Name": "JhOwWaRrIoR",
-      "PlayerQuarry": 3,
+    "76561198137335693": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "Step",
+      "NameID": 7.65612E+16
     },
-    "76561198237177418": {
-      "Name": "FabioTXC",
-      "PlayerQuarry": 3,
+    "76561198157393423": {
+      "isVIP": false,
+      "QuarryRate": 3,
       "ResourceRate": 3,
-      "CollectableRate": 5
+      "CollectableRate": 5,
+      "Name": "mulekedoido",
+      "NameID": 7.65612E+16
+    },
+    "76561198083884540": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Chocoleitesque",
+      "NameID": 7.65612E+16
+    },
+    "76561198200465902": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "LucasBH22",
+      "NameID": 7.65612E+16
+    },
+    "76561198284780770": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "MISTER",
+      "NameID": 7.65612E+16
+    },
+    "76561198216707124": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "jackstone27",
+      "NameID": 7.65612E+16
+    },
+    "76561198093268853": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "BomberMaN",
+      "NameID": 7.65612E+16
+    },
+    "76561198251204370": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Diablon Plays",
+      "NameID": 7.65612E+16
+    },
+    "76561198093101087": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Mornenon",
+      "NameID": 7.65612E+16
+    },
+    "76561198117520766": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "OFFLINE",
+      "NameID": 7.65612E+16
+    },
+    "76561198279117589": {
+      "isVIP": false,
+      "QuarryRate": 3,
+      "ResourceRate": 3,
+      "CollectableRate": 5,
+      "Name": "Aleksandr",
+      "NameID": 7.65612E+16
     }
   }
 }

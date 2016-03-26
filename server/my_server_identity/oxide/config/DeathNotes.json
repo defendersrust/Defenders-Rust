@@ -1,7 +1,8 @@
 {
   "Attachments": {
     "4x Zoom Scope": "4x Zoom Scope",
-    "Holosight": "Holosight"
+    "Holosight": "Holosight",
+    "Weapon Lasersight": "Weapon Lasersight"
   },
   "Bodyparts": {
     "Body": "Corpo",
@@ -14,6 +15,7 @@
     "Left Hand": "Left Hand",
     "Left Knee": "Joelho Esquerdo",
     "Left Shoulder": "Left Shoulder",
+    "Left Wrist": "Left Wrist",
     "Lower Spine": "Lower Spine",
     "Neck": "Pescoço",
     "Pelvis": "Pelvis",
@@ -181,6 +183,7 @@
     "Hatchet": "Machadinha",
     "Hunting Bow": "Arco de Caça",
     "Mace": "Mace",
+    "Machete": "Machete",
     "No Weapon": "Porrada",
     "Pump Shotgun": "Pump Shotgun",
     "Revolver": "Revolver",
@@ -190,6 +193,9 @@
     "Salvaged Hammer": "Salvaged Hammer",
     "Salvaged Icepick": "Salvaged Icepick",
     "Salvaged Sword": "Salvaged Sword",
+    "Semi-Automatic Pistol": "Semi-Automatic Pistol",
+    "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+    "Shotgun Waterpipe": "Shotgun Waterpipe",
     "Stone Hatchet": "Pedra",
     "Stone Pick Axe": "Picareta de Pedra",
     "Stone Pickaxe": "Machadinha de Pedra",

@@ -11,7 +11,7 @@ using System;
 
 namespace Oxide.Plugins
 {
-    [Info("Notifier", "SkinN", "3.0.1", ResourceId = 797)]
+    [Info("Notifier", "SkinN", "3.0.2", ResourceId = 797)]
     [Description("Server administration tool with chat based notifications")]
 
     class Notifier : RustPlugin
@@ -27,6 +27,7 @@ namespace Oxide.Plugins
         private Dictionary<string, PlayerCache> Players;
         private System.Random AdvertsLoop = new System.Random();
         private int LastAdvert = 0;
+        private List<string> WM_Queue = new List<string>();
 
         // Avalailable Rules Countries Dictionary
         private Dictionary<string, string> Countries = new Dictionary<string, string>
@@ -535,6 +536,17 @@ namespace Oxide.Plugins
             }
         }
 
+        void OnPlayerRespawned(BasePlayer player)
+        {
+            string uid = player.userID.ToString();
+            if (WM_Queue.Contains(uid))
+            {
+                List<string> WelcomeMessage = ConvertList(Config.Get("Welcome Messages"));
+                foreach (string line in WelcomeMessage)
+                    Tell(player, GetNameFormats(line, player), prefix: false);
+            }
+        }
+
         #endregion
 
         #region Entity Hooks
@@ -761,9 +773,9 @@ namespace Oxide.Plugins
             // Welcome Message
             if (EnableWelcomeMessage)
             {
-                List<string> WelcomeMessage = ConvertList(Config.Get("Welcome Messages"));
-                foreach (string line in WelcomeMessage)
-                    Tell(player, GetNameFormats(line, player), prefix: false);
+                string uid = player.userID.ToString();
+                if (!WM_Queue.Contains(uid))
+                    WM_Queue.Add(uid);
             }
         }
 
@@ -832,9 +844,9 @@ namespace Oxide.Plugins
                 { "{server.port}", ConVar.Server.port },
                 { "{server.hostname}", ConVar.Server.hostname },
                 { "{server.description}", ConVar.Server.description},
-                { "{server.maxplayers}", ConVar.Server.maxplayers.ToString() },
-                { "{server.worldsize}", ConVar.Server.worldsize.ToString() },
-                { "{server.seed}", ConVar.Server.seed.ToString() },
+                { "{server.maxplayers}", ConVar.Server.maxplayers },
+                { "{server.worldsize}", ConVar.Server.worldsize },
+                { "{server.seed}", ConVar.Server.seed },
                 { "{server.level}", ConVar.Server.level },
                 { "{localtime.now}", time},
                 { "{localtime.date}", date},
@@ -845,15 +857,20 @@ namespace Oxide.Plugins
             #endregion
 
             #region Player Side
-            if (player != null)
+
+            try
             {
-                PlayerCache ply = Players[player.userID.ToString()];
-                Dict.Add("{player.name}", ply.username);
-                Dict.Add("{player.country}", ply.country);
-                Dict.Add("{player.countrycode}", ply.countrycode);
-                Dict.Add("{player.ip}", ply.ipaddress);
-                Dict.Add("{player.uid}", ply.steamid);
-            }
+                string uid = player.userID.ToString();
+                if (player != null && Players.ContainsKey(uid))
+                {
+                    Dict.Add("{player.name}", Players[uid].username);
+                    Dict.Add("{player.country}", Players[uid].country);
+                    Dict.Add("{player.countrycode}", Players[uid].countrycode);
+                    Dict.Add("{player.ip}", Players[uid].ipaddress);
+                    Dict.Add("{player.uid}", Players[uid].steamid);
+                }
+            } catch {}
+
             #endregion
 
             foreach (var kvp in Dict)
